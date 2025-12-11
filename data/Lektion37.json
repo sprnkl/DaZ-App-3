@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Schulregeln",
+"AR": "قواعد المدرسة",
+"RU": "Школьные правила",
+"FA": "قوانین مدرسه",
+"RO": "Regulile școlii"
+},
+"vocabulary": [
+{ "key": "L37_VOK_01", "DE": "die Schulordnung", "AR": "نظام المدرسة", "RU": "порядок школы", "FA": "آیین‌نامه مدرسه", "RO": "regulamentul școlii", "emoji_icon": "📜" },
+{ "key": "L37_VOK_02", "DE": "die Pflicht", "AR": "الواجب", "RU": "обязанность", "FA": "تکلیف", "RO": "obligația", "emoji_icon": "✔️" },
+{ "key": "L37_VOK_03", "DE": "das Verbot", "AR": "الحظر", "RU": "запрет", "FA": "ممنوعیت", "RO": "interdicția", "emoji_icon": "❌" },
+{ "key": "L37_VOK_04", "DE": "erlaubt", "AR": "مسموح", "RU": "разрешено", "FA": "مجاز", "RO": "permis", "emoji_icon": "✅" },
+{ "key": "L37_VOK_05", "DE": "verboten", "AR": "ممنوع", "RU": "запрещено", "FA": "ممنوع", "RO": "interzis", "emoji_icon": "🚫" },
+{ "key": "L37_VOK_06", "DE": "die Konsequenz", "AR": "النتيجة", "RU": "следствие/наказание", "FA": "پیامد", "RO": "consecința", "emoji_icon": "🛑" },
+{ "key": "L37_VOK_07", "DE": "der Respekt", "AR": "الاحترام", "RU": "уважение", "FA": "احترام", "RO": "respectul", "emoji_icon": "🤝" },
+{ "key": "L37_VOK_08", "DE": "pünktlich sein", "AR": "أن يكون منضبطاً", "RU": "быть пунктуальным", "FA": "وقت‌شناس بودن", "RO": "a fi punctual", "emoji_icon": "⏰" },
+{ "key": "L37_VOK_09", "DE": "aufpassen", "AR": "ينتبه", "RU": "быть внимательным", "FA": "توجه کردن", "RO": "a fi atent", "emoji_icon": "👂" },
+{ "key": "L37_VOK_10", "DE": "abschreiben", "AR": "ينسخ/يغش", "RU": "списывать", "FA": "تقلب کردن", "RO": "a copia", "emoji_icon": "✍️" },
+{ "key": "L37_VOK_11", "DE": "der Diebstahl", "AR": "السرقة", "RU": "кража", "FA": "دزدی", "RO": "furtul", "emoji_icon": "🚔" },
+{ "key": "L37_VOK_12", "DE": "die Gewalt", "AR": "العنف", "RU": "насилие", "FA": "خشونت", "RO": "violența", "emoji_icon": "👊" },
+{ "key": "L37_VOK_13", "DE": "die Strafe", "AR": "العقوبة", "RU": "наказание", "FA": "جریمه/مجازات", "RO": "pedeapsa", "emoji_icon": "🛑" },
+{ "key": "L37_VOK_14", "DE": "die Entschuldigung", "AR": "الاعتذار", "RU": "извинение", "FA": "عذرخواهی", "RO": "scuza", "emoji_icon": "😔" },
+{ "key": "L37_VOK_15", "DE": "die Ordnung", "AR": "النظام", "RU": "порядок", "FA": "نظم", "RO": "ordinea", "emoji_icon": "📁" },
+{ "key": "L37_VOK_16", "DE": "der Klassenraum", "AR": "الفصل الدراسي", "RU": "классная комната", "FA": "کلاس درس", "RO": "sala de clasă", "emoji_icon": "🏫" },
+{ "key": "L37_VOK_17", "DE": "den Platz sauber halten", "AR": "الحفاظ على نظافة المكان", "RU": "держать место в чистоте", "FA": "میز را تمیز نگه داشتن", "RO": "a menține locul curat", "emoji_icon": "🧼" },
+{ "key": "L37_VOK_18", "DE": "leise", "AR": "بهدوء", "RU": "тихо", "FA": "آرام", "RO": "încet", "emoji_icon": "🤫" },
+{ "key": "L37_VOK_19", "DE": "die Noten", "AR": "الدرجات", "RU": "оценки", "FA": "نمرات", "RO": "notele", "emoji_icon": "💯" },
+{ "key": "L37_VOK_20", "DE": "der Müll", "AR": "القمامة", "RU": "мусор", "FA": "زباله", "RO": "gunoiul", "emoji_icon": "🗑️" },
+{ "key": "L37_VOK_21", "DE": "laufen", "AR": "يركض", "RU": "бегать", "FA": "دویدن", "RO": "a alerga", "emoji_icon": "🏃" },
+{ "key": "L37_VOK_22", "DE": "sitzen", "AR": "يجلس", "RU": "сидеть", "FA": "نشستن", "RO": "a sta jos", "emoji_icon": "🪑" },
+{ "key": "L37_VOK_23", "DE": "Handy verboten", "AR": "الهاتف ممنوع", "RU": "телефон запрещен", "FA": "موبایل ممنوع", "RO": "telefon interzis", "emoji_icon": "📵" },
+{ "key": "L37_VOK_24", "DE": "die Erlaubnis", "AR": "الإذن", "RU": "разрешение", "FA": "اجازه", "RO": "permisiunea", "emoji_icon": "✅" },
+{ "key": "L37_VOK_25", "DE": "der Zeuge", "AR": "الشاهد", "RU": "свидетель", "FA": "شاهد", "RO": "martorul", "emoji_icon": "👀" },
+{ "key": "L37_VOK_26", "DE": "melden (Vorfall)", "AR": "يبلغ", "RU": "сообщать", "FA": "گزارش دادن", "RO": "a raporta", "emoji_icon": "🚨" },
+{ "key": "L37_VOK_27", "DE": "Ist das erlaubt?", "AR": "هل هذا مسموح؟", "RU": "Это разрешено?", "FA": "آیا این مجاز است؟", "RO": "Este permis?", "emoji_icon": "❓" },
+{ "key": "L37_VOK_28", "DE": "Wir müssen warten.", "AR": "يجب علينا الانتظار.", "RU": "Мы должны ждать.", "FA": "ما باید منتظر بمانیم.", "RO": "Trebuie să așteptăm.", "emoji_icon": "⏱️" },
+{ "key": "L37_VOK_29", "DE": "Du sollst nicht lügen.", "AR": "لا يجب أن تكذب.", "RU": "Ты не должен лгать.", "FA": "تو نباید دروغ بگویی.", "RO": "Nu trebuie să minți.", "emoji_icon": "🤥" },
+{ "key": "L37_VOK_30", "DE": "Ich habe es nicht gewusst.", "AR": "لم أكن أعلم ذلك.", "RU": "Я этого не знал.", "FA": "من این را نمی‌دانستم.", "RO": "Nu știam asta.", "emoji_icon": "🤷" }
+],
+"exercises": [
+{ "key": "L37_LÜCKE_01", "type": "gap-fill", "answerKey": "verboten", "sentence": { "DE": "Das Rauchen im Schulgebäude ist ________.", "AR": "التدخين في مبنى المدرسة ________.", "RU": "Курение в здании школы ________.", "FA": "سیگار کشیدن در ساختمان مدرسه ________ است.", "RO": "Fumatul în clădirea școlii este ________." }, "hint": "Das Gegenteil von 'erlaubt'." },
+{ "key": "L37_LÜCKE_02", "type": "gap-fill", "answerKey": "ruhig", "sentence": { "DE": "Im Klassenraum müssen alle ________ sein.", "AR": "في الفصل يجب أن يكون الجميع ________.", "RU": "В классе все должны быть ________.", "FA": "همه باید در کلاس ________ باشند.", "RO": "În clasă, toată lumea trebuie să fie ________." }, "hint": "Das Gegenteil von 'laut'." },
+{ "key": "L37_LÜCKE_03", "type": "gap-fill", "answerKey": "Ordnung", "sentence": { "DE": "Wir müssen im Klassenraum für ________ sorgen.", "AR": "يجب أن نحافظ على ________ في الفصل.", "RU": "Мы должны поддерживать ________ в классе.", "FA": "ما باید در کلاس ________ را حفظ کنیم.", "RO": "Trebuie să asigurăm ________ în clasă." }, "hint": "Das Nomen für 'Sauberkeit und Struktur'." },
+{ "key": "L37_ZUORD_04", "type": "matching", "matchDE": "Handy", "matchKey": "ausschalten", "sentence": { "DE": "Man muss das ________ ________.", "AR": "يجب ________ الهاتف ________.", "RU": "Нужно ________ телефон ________.", "FA": "باید ________ را ________ کرد.", "RO": "Trebuie ________ telefonul ________." }, "hint": "Das Gegenteil von 'einschalten'." }
+]
+}

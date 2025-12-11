@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Uhrzeiten und Pünktlichkeit",
+"AR": "الساعات والانضباط",
+"RU": "Время и пунктуальность",
+"FA": "ساعت و وقت‌شناسی",
+"RO": "Ore și punctualitate"
+},
+"vocabulary": [
+{ "key": "L7_VOK_01", "DE": "die Uhr", "AR": "الساعة", "RU": "часы", "FA": "ساعت", "RO": "ceasul", "emoji_icon": "⏰" },
+{ "key": "L7_VOK_02", "DE": "die Minute", "AR": "الدقيقة", "RU": "минута", "FA": "دقیقه", "RO": "minutul", "emoji_icon": "⏱️" },
+{ "key": "L7_VOK_03", "DE": "die Sekunde", "AR": "الثانية", "RU": "секунда", "FA": "ثانیه", "RO": "secunda", "emoji_icon": "⏱️" },
+{ "key": "L7_VOK_04", "DE": "Wie spät ist es?", "AR": "كم الساعة؟", "RU": "Который час?", "FA": "ساعت چند است؟", "RO": "Cât este ceasul?", "emoji_icon": "❓" },
+{ "key": "L7_VOK_05", "DE": "Es ist Viertel nach...", "AR": "الربع بعد...", "RU": "Четверть после...", "FA": "یک ربع بعد از...", "RO": "Este un sfert după...", "emoji_icon": "🕒➕¼" },
+{ "key": "L7_VOK_06", "DE": "Es ist halb...", "AR": "إنها النصف...", "RU": "Половина...", "FA": "نیمه...", "RO": "Este și jumătate...", "emoji_icon": "🕞" },
+{ "key": "L7_VOK_07", "DE": "Es ist Viertel vor...", "AR": "الربع قبل...", "RU": "Без четверти...", "FA": "یک ربع مانده به...", "RO": "Este un sfert înainte de...", "emoji_icon": "¼🕒" },
+{ "key": "L7_VOK_08", "DE": "um (Uhrzeit)", "AR": "في (الساعة)", "RU": "в (час)", "FA": "در (ساعت)", "RO": "la (ora)", "emoji_icon": "⏰" },
+{ "key": "L7_VOK_09", "DE": "pünktlich", "AR": "في الوقت المحدد", "RU": "пунктуальный", "FA": "وقت‌شناس", "RO": "punctual", "emoji_icon": "✅" },
+{ "key": "L7_VOK_10", "DE": "zu spät", "AR": "متأخر جداً", "RU": "слишком поздно", "FA": "خیلی دیر", "RO": "prea târziu", "emoji_icon": "❌" },
+{ "key": "L7_VOK_11", "DE": "der Wecker", "AR": "المنبه", "RU": "будильник", "FA": "زنگ هشدار", "RO": "ceasul deșteptător", "emoji_icon": "⏰" },
+{ "key": "L7_VOK_12", "DE": "morgens", "AR": "صباحاً", "RU": "утром", "FA": "صبح‌ها", "RO": "dimineața", "emoji_icon": "🌅" },
+{ "key": "L7_VOK_13", "DE": "mittags", "AR": "ظهراً", "RU": "в полдень", "FA": "ظهرها", "RO": "la prânz", "emoji_icon": "☀️" },
+{ "key": "L7_VOK_14", "DE": "abends", "AR": "مساءً", "RU": "вечером", "FA": "عصرها", "RO": "seara", "emoji_icon": "🌆" },
+{ "key": "L7_VOK_15", "DE": "nachts", "AR": "ليلاً", "RU": "ночью", "FA": "شب‌ها", "RO": "noaptea", "emoji_icon": "🌙" },
+{ "key": "L7_VOK_16", "DE": "der Termin", "AR": "الموعد", "RU": "встреча", "FA": "قرار ملاقات", "RO": "programarea", "emoji_icon": "🗓️" },
+{ "key": "L7_VOK_17", "DE": "dauern", "AR": "يَسْتَغْرِق", "RU": "длиться", "FA": "طول کشیدن", "RO": "a dura", "emoji_icon": "⏳" },
+{ "key": "L7_VOK_18", "DE": "beginnen", "AR": "يَبْدَأ", "RU": "начинать", "FA": "شروع کردن", "RO": "a începe", "emoji_icon": "▶️" },
+{ "key": "L7_VOK_19", "DE": "enden", "AR": "يَنْتَهِي", "RU": "заканчивать", "FA": "تمام کردن", "RO": "a termina", "emoji_icon": "⏹️" },
+{ "key": "L7_VOK_20", "DE": "der Anfang", "AR": "البداية", "RU": "начало", "FA": "آغاز", "RO": "începutul", "emoji_icon": "▶️" },
+{ "key": "L7_VOK_21", "DE": "das Ende", "AR": "النهاية", "RU": "конец", "FA": "پایان", "RO": "sfârșitul", "emoji_icon": "⏹️" },
+{ "key": "L7_VOK_22", "DE": "von... bis...", "AR": "من... إلى...", "RU": "с... до...", "FA": "از... تا...", "RO": "de la... până la...", "emoji_icon": "➡️" },
+{ "key": "L7_VOK_23", "DE": "jetzt", "AR": "الآن", "RU": "сейчас", "FA": "حالا", "RO": "acum", "emoji_icon": "⬇️" },
+{ "key": "L7_VOK_24", "DE": "später", "AR": "لاحقاً", "RU": "позже", "FA": "بعداً", "RO": "mai târziu", "emoji_icon": "⏭️" },
+{ "key": "L7_VOK_25", "DE": "früh", "AR": "مبكراً", "RU": "рано", "FA": "زود", "RO": "devreme", "emoji_icon": "🏃" },
+{ "key": "L7_VOK_26", "DE": "die Verspätung", "AR": "التأخير", "RU": "опоздание", "FA": "تأخیر", "RO": "întârzierea", "emoji_icon": "🐌" },
+{ "key": "L7_VOK_27", "DE": "sich beeilen", "AR": "يُسْرِع", "RU": "торопиться", "FA": "عجله کردن", "RO": "a se grăbi", "emoji_icon": "💨" },
+{ "key": "L7_VOK_28", "DE": "Wie lange?", "AR": "كم المدة؟", "RU": "Как долго?", "FA": "چقدر طول می‌کشد؟", "RO": "Cât timp?", "emoji_icon": "❓" },
+{ "key": "L7_VOK_29", "DE": "die Mittagspause", "AR": "استراحة الغداء", "RU": "обеденный перерыв", "FA": "زنگ ناهار", "RO": "pauza de prânz", "emoji_icon": "🍔" },
+{ "key": "L7_VOK_30", "DE": "der Unterricht", "AR": "الدرس/الحصص", "RU": "уроки", "FA": "کلاس‌ها", "RO": "orele (de curs)", "emoji_icon": "📚" }
+],
+"exercises": [
+{ "key": "L7_LÜCKE_01", "type": "gap-fill", "answerKey": "halb", "sentence": { "DE": "Die Schule beginnt um ________ neun.", "AR": "تبدأ المدرسة في تمام الساعة ________ التاسعة.", "RU": "Школа начинается в ________ девятого.", "FA": "مدرسه ساعت نه و ________ شروع می‌شود.", "RO": "Școala începe la și ________ nouă." }, "hint": "30 Minuten nach acht." },
+{ "key": "L7_LÜCKE_02", "type": "gap-fill", "answerKey": "pünktlich", "sentence": { "DE": "Ich muss jeden Tag ________ sein.", "AR": "يجب أن أكون ________ كل يوم.", "RU": "Я должен быть ________ каждый день.", "FA": "من باید هر روز ________ باشم.", "RO": "Trebuie să fiu ________ în fiecare zi." }, "hint": "Nicht zu spät!" },
+{ "key": "L7_LÜCKE_03", "type": "gap-fill", "answerKey": "dauert", "sentence": { "DE": "Die Mittagspause ________ 45 Minuten.", "AR": "استراحة الغداء ________ 45 دقيقة.", "RU": "Обеденный перерыв ________ 45 минут.", "FA": "زنگ ناهار 45 دقیقه ________ است.", "RO": "Pauza de prânz ________ 45 de minute." }, "hint": "Das Verb für Zeitspanne." },
+{ "key": "L7_ZUORD_04", "type": "matching", "matchDE": "früh", "matchKey": "später", "sentence": { "DE": "Gegenteil von ________ ist spät.", "AR": "عكس ________ هو متأخر.", "RU": "Противоположность ________ — поздно.", "FA": "متضاد ________، دیر است.", "RO": "Opunerea lui ________ este târziu." }, "hint": "Nicht spät." }
+]
+}

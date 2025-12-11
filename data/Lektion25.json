@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Bürgerbüro & Anmeldung",
+"AR": "مكتب المواطنين والتسجيل",
+"RU": "Бюро граждан и регистрация",
+"FA": "اداره شهروندی و ثبت نام",
+"RO": "Biroul Cetățenilor și înregistrare"
+},
+"vocabulary": [
+{ "key": "L25_VOK_01", "DE": "die Anmeldung", "AR": "التسجيل", "RU": "регистрация", "FA": "ثبت نام", "RO": "înregistrarea", "emoji_icon": "📝" },
+{ "key": "L25_VOK_02", "DE": "die Abmeldung", "AR": "إلغاء التسجيل", "RU": "снятие с учета", "FA": "لغو ثبت نام", "RO": "dezînregistrarea", "emoji_icon": "❌" },
+{ "key": "L25_VOK_03", "DE": "der Personalausweis", "AR": "بطاقة الهوية", "RU": "паспорт", "FA": "کارت ملی", "RO": "cartea de identitate", "emoji_icon": "🆔" },
+{ "key": "L25_VOK_04", "DE": "der Reisepass", "AR": "جواز السفر", "RU": "загранпаспорт", "FA": "گذرنامه", "RO": "pașaportul", "emoji_icon": "🛂" },
+{ "key": "L25_VOK_05", "DE": "die Verlängerung", "AR": "التمديد", "RU": "продление", "FA": "تمدید", "RO": "prelungirea", "emoji_icon": "🔁" },
+{ "key": "L25_VOK_06", "DE": "das Formular", "AR": "النموذج", "RU": "формуляр", "FA": "فرم", "RO": "formularul", "emoji_icon": "📄" },
+{ "key": "L25_VOK_07", "DE": "unterschreiben", "AR": "يوقع", "RU": "подписывать", "FA": "امضا کردن", "RO": "a semna", "emoji_icon": "🖋️" },
+{ "key": "L25_VOK_08", "DE": "die Adresse", "AR": "العنوان", "RU": "адрес", "FA": "آدرس", "RO": "adresa", "emoji_icon": "📍" },
+{ "key": "L25_VOK_09", "DE": "umziehen", "AR": "ينتقل", "RU": "переезжать", "FA": "اسباب‌کشی کردن", "RO": "a se muta", "emoji_icon": "📦" },
+{ "key": "L25_VOK_10", "DE": "die Meldebescheinigung", "AR": "شهادة التسجيل", "RU": "свидетельство о регистрации", "FA": "گواهی ثبت", "RO": "certificatul de înregistrare", "emoji_icon": "📜" },
+{ "key": "L25_VOK_11", "DE": "die Steuer", "AR": "الضريبة", "RU": "налог", "FA": "مالیات", "RO": "taxa", "emoji_icon": "💰" },
+{ "key": "L25_VOK_12", "DE": "die Gebühr", "AR": "الرسوم", "RU": "пошлина", "FA": "هزینه", "RO": "taxa", "emoji_icon": "💶" },
+{ "key": "L25_VOK_13", "DE": "die Wartezeit", "AR": "وقت الانتظار", "RU": "время ожидания", "FA": "زمان انتظار", "RO": "timpul de așteptare", "emoji_icon": "⏱️" },
+{ "key": "L25_VOK_14", "DE": "das Original", "AR": "الأصل", "RU": "оригинал", "FA": "اصل", "RO": "originalul", "emoji_icon": "⭐" },
+{ "key": "L25_VOK_15", "DE": "die Kopie", "AR": "النسخة", "RU": "копия", "FA": "کپی", "RO": "copia", "emoji_icon": "📑" },
+{ "key": "L25_VOK_16", "DE": "die Beglaubigung", "AR": "التصديق", "RU": "заверение", "FA": "تأییدیه", "RO": "legalizarea", "emoji_icon": "✅" },
+{ "key": "L25_VOK_17", "DE": "gültig", "AR": "صالح/ساري المفعول", "RU": "действительный", "FA": "معتبر", "RO": "valabil", "emoji_icon": "✔️" },
+{ "key": "L25_VOK_18", "DE": "abgelaufen", "AR": "منتهي الصلاحية", "RU": "истекший", "FA": "منقضی", "RO": "expirat", "emoji_icon": "❌" },
+{ "key": "L25_VOK_19", "DE": "der Termin", "AR": "الموعد", "RU": "запись", "FA": "وقت ملاقات", "RO": "programarea", "emoji_icon": "🗓️" },
+{ "key": "L25_VOK_20", "DE": "der Sachbearbeiter", "AR": "الموظف المسؤول", "RU": "специалист", "FA": "کارشناس", "RO": "funcționarul", "emoji_icon": "🧑‍💼" },
+{ "key": "L25_VOK_21", "DE": "die Nummer ziehen", "AR": "سحب رقم", "RU": "взять номер", "FA": "نوبت گرفتن", "RO": "a lua un număr", "emoji_icon": "🔢" },
+{ "key": "L25_VOK_22", "DE": "die Öffnungszeiten", "AR": "ساعات العمل", "RU": "часы работы", "FA": "ساعات کاری", "RO": "programul", "emoji_icon": "⏰" },
+{ "key": "L25_VOK_23", "DE": "der Name", "AR": "الاسم", "RU": "имя", "FA": "نام", "RO": "numele", "emoji_icon": "🏷️" },
+{ "key": "L25_VOK_24", "DE": "das Geburtsdatum", "AR": "تاريخ الميلاد", "RU": "дата рождения", "FA": "تاریخ تولد", "RO": "data nașterii", "emoji_icon": "🎂" },
+{ "key": "L25_VOK_25", "DE": "die Staatsangehörigkeit", "AR": "الجنسية", "RU": "гражданство", "FA": "تابعیت", "RO": "cetățenia", "emoji_icon": "🌍" },
+{ "key": "L25_VOK_26", "DE": "Ich bin neu hier.", "AR": "أنا جديد هنا.", "RU": "Я здесь новый.", "FA": "من اینجا جدید هستم.", "RO": "Sunt nou aici.", "emoji_icon": "🆕" },
+{ "key": "L25_VOK_27", "DE": "Wo ist der Eingang?", "AR": "أين المدخل؟", "RU": "Где вход?", "FA": "ورودی کجاست؟", "RO": "Unde este intrarea?", "emoji_icon": "❓" },
+{ "key": "L25_VOK_28", "DE": "Muss ich warten?", "AR": "هل يجب أن أنتظر؟", "RU": "Мне нужно ждать?", "FA": "آیا باید منتظر بمانم؟", "RO": "Trebuie să aștept?", "emoji_icon": "⏱️" },
+{ "key": "L25_VOK_29", "DE": "Was brauche ich?", "AR": "ماذا أحتاج؟", "RU": "Что мне нужно?", "FA": "به چه چیزی نیاز دارم؟", "RO": "De ce am nevoie?", "emoji_icon": "❓" },
+{ "key": "L25_VOK_30", "DE": "Das ist wichtig.", "AR": "هذا مهم.", "RU": "Это важно.", "FA": "این مهم است.", "RO": "Acest lucru este important.", "emoji_icon": "⭐" }
+],
+"exercises": [
+{ "key": "L25_LÜCKE_01", "type": "gap-fill", "answerKey": "Anmeldung", "sentence": { "DE": "Die ________ im Ort ist Pflicht.", "AR": "الـ ________ في المنطقة إلزامية.", "RU": " ________ по месту жительства обязательна.", "FA": " ________ در شهر الزامی است.", "RO": " ________ în localitate este obligatorie." }, "hint": "Wenn man neu in die Stadt zieht." },
+{ "key": "L25_LÜCKE_02", "type": "gap-fill", "answerKey": "Personalausweis", "sentence": { "DE": "Ich brauche einen neuen ________.", "AR": "أحتاج إلى ________ جديد.", "RU": "Мне нужен новый ________.", "FA": "من به ________ جدید نیاز دارم.", "RO": "Am nevoie de un ________ nou." }, "hint": "Das wichtigste Dokument zur Identität." },
+{ "key": "L25_LÜCKE_03", "type": "gap-fill", "answerKey": "unterschreiben", "sentence": { "DE": "Bitte ________ Sie hier.", "AR": "الرجاء ________ هنا.", "RU": "Пожалуйста, ________ здесь.", "FA": "لطفا اینجا ________ کنید.", "RO": "Vă rog să ________ aici." }, "hint": "Das Verb, um den Namen mit dem Stift auf das Dokument zu setzen." },
+{ "key": "L25_ZUORD_04", "type": "matching", "matchDE": "Kopie", "matchKey": "Original", "sentence": { "DE": "Ich habe nur eine ________.", "AR": "لدي ________ فقط.", "RU": "У меня только ________.", "FA": "من فقط ________ دارم.", "RO": "Am doar o ________." }, "hint": "Gegenteil von 'Original'." }
+]
+}

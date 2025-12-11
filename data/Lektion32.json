@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Geburtstag feiern",
+"AR": "الاحتفال بعيد الميلاد",
+"RU": "Празднование дня рождения",
+"FA": "جشن تولد",
+"RO": "Sărbătorirea zilei de naștere"
+},
+"vocabulary": [
+{ "key": "L32_VOK_01", "DE": "der Geburtstag", "AR": "عيد الميلاد", "RU": "день рождения", "FA": "تولد", "RO": "ziua de naștere", "emoji_icon": "🎂" },
+{ "key": "L32_VOK_02", "DE": "feiern", "AR": "يحتفل", "RU": "праздновать", "FA": "جشن گرفتن", "RO": "a sărbători", "emoji_icon": "🥳" },
+{ "key": "L32_VOK_03", "DE": "Herzlichen Glückwunsch!", "AR": "تهانينا القلبية!", "RU": "Поздравляю!", "FA": "تبریک صمیمانه!", "RO": "Felicitări!", "emoji_icon": "🎉" },
+{ "key": "L32_VOK_04", "DE": "Alles Gute!", "AR": "كل التوفيق!", "RU": "Всего хорошего!", "FA": "بهترین آرزوها!", "RO": "Toate cele bune!", "emoji_icon": "🌟" },
+{ "key": "L32_VOK_05", "DE": "die Kerze", "AR": "الشمعة", "RU": "свеча", "FA": "شمع", "RO": "lumânarea", "emoji_icon": "🕯️" },
+{ "key": "L32_VOK_06", "DE": "die Geburtstagstorte", "AR": "كعكة عيد الميلاد", "RU": "торт", "FA": "کیک تولد", "RO": "tortul aniversar", "emoji_icon": "🎂" },
+{ "key": "L32_VOK_07", "DE": "das Geschenk", "AR": "الهدية", "RU": "подарок", "FA": "هدیه", "RO": "cadoul", "emoji_icon": "🎁" },
+{ "key": "L32_VOK_08", "DE": "schenken", "AR": "يهدي", "RU": "дарить", "FA": "هدیه دادن", "RO": "a dărui", "emoji_icon": "🎁" },
+{ "key": "L32_VOK_09", "DE": "der Gast", "AR": "الضيف", "RU": "гость", "FA": "مهمان", "RO": "invitatul", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L32_VOK_10", "DE": "einladen", "AR": "يدعو", "RU": "приглашать", "FA": "دعوت کردن", "RO": "a invita", "emoji_icon": "✉️" },
+{ "key": "L32_VOK_11", "DE": "die Einladung", "AR": "الدعوة", "RU": "приглашение", "FA": "دعوت", "RO": "invitația", "emoji_icon": "💌" },
+{ "key": "L32_VOK_12", "DE": "die Überraschung", "AR": "المفاجأة", "RU": "сюрприз", "FA": "غافلگیری", "RO": "surpriza", "emoji_icon": "🤯" },
+{ "key": "L32_VOK_13", "DE": "die Party", "AR": "الحفلة", "RU": "вечеринка", "FA": "مهمانی", "RO": "petrecerea", "emoji_icon": "🥳" },
+{ "key": "L32_VOK_14", "DE": "die Musik", "AR": "الموسيقى", "RU": "музыка", "FA": "موسیقی", "RO": "muzica", "emoji_icon": "🎶" },
+{ "key": "L32_VOK_15", "DE": "tanzen", "AR": "يرقص", "RU": "танцевать", "FA": "رقصیدن", "RO": "a dansa", "emoji_icon": "💃" },
+{ "key": "L32_VOK_16", "DE": "das Essen", "AR": "الطعام", "RU": "еда", "FA": "غذا", "RO": "mâncarea", "emoji_icon": "🍕" },
+{ "key": "L32_VOK_17", "DE": "der Luftballon", "AR": "البالون", "RU": "шарик", "FA": "بادکنک", "RO": "balonul", "emoji_icon": "🎈" },
+{ "key": "L32_VOK_18", "DE": "die Dekoration", "AR": "الزينة", "RU": "украшение", "FA": "تزیین", "RO": "decorul", "emoji_icon": "🎀" },
+{ "key": "L32_VOK_19", "DE": "Möchtest du kommen?", "AR": "هل تود أن تأتي؟", "RU": "Хочешь прийти?", "FA": "آیا دوست داری بیایی؟", "RO": "Vrei să vii?", "emoji_icon": "❓" },
+{ "key": "L32_VOK_20", "DE": "Wann beginnt die Feier?", "AR": "متى تبدأ الحفلة؟", "RU": "Когда начинается праздник?", "FA": "مهمانی کی شروع می‌شود؟", "RO": "Când începe petrecerea?", "emoji_icon": "⏰" },
+{ "key": "L32_VOK_21", "DE": "Wo findet die Party statt?", "AR": "أين ستقام الحفلة؟", "RU": "Где будет вечеринка?", "FA": "مهمانی کجا برگزار می‌شود؟", "RO": "Unde are loc petrecerea?", "emoji_icon": "📍" },
+{ "key": "L32_VOK_22", "DE": "Ich kann kommen.", "AR": "أستطيع أن آتي.", "RU": "Я могу прийти.", "FA": "من می‌توانم بیایم.", "RO": "Pot veni.", "emoji_icon": "✅" },
+{ "key": "L32_VOK_23", "DE": "Ich kann nicht kommen.", "AR": "لا أستطيع أن آتي.", "RU": "Я не могу прийти.", "FA": "من نمی‌توانم بیایم.", "RO": "Nu pot veni.", "emoji_icon": "❌" },
+{ "key": "L32_VOK_24", "DE": "Was soll ich mitbringen?", "AR": "ماذا يجب أن أحضر؟", "RU": "Что мне принести?", "FA": "چه چیزی باید بیاورم؟", "RO": "Ce ar trebui să aduc?", "emoji_icon": "❓" },
+{ "key": "L32_VOK_25", "DE": "die Verabredung", "AR": "الموعد", "RU": "встреча", "FA": "قرار", "RO": "întâlnirea", "emoji_icon": "🗓️" },
+{ "key": "L32_VOK_26", "DE": "das Foto", "AR": "الصورة", "RU": "фотография", "FA": "عکس", "RO": "fotografia", "emoji_icon": "📸" },
+{ "key": "L32_VOK_27", "DE": "Wir stoßen an.", "AR": "نحن نرفع الكؤوس.", "RU": "Мы чокаемся.", "FA": "ما سلامتی می‌گوییم.", "RO": "Noi ciocnim.", "emoji_icon": "🥂" },
+{ "key": "L32_VOK_28", "DE": "Ich freue mich darauf.", "AR": "أنا أتطلع إلى ذلك.", "RU": "Я с нетерпением жду.", "FA": "من مشتاقانه منتظرم.", "RO": "Aștept cu nerăbdare.", "emoji_icon": "🤩" },
+{ "key": "L32_VOK_29", "DE": "bis bald", "AR": "إلى اللقاء قريباً", "RU": "до скорого", "FA": "به زودی می‌بینمت", "RO": "pe curând", "emoji_icon": "👋" },
+{ "key": "L32_VOK_30", "DE": "Wir sind 16 geworden.", "AR": "بلغنا 16 عاماً.", "RU": "Нам исполнилось 16 лет.", "FA": "ما 16 ساله شدیم.", "RO": "Am împlinit 16 ani.", "emoji_icon": "1️⃣6️⃣" }
+],
+"exercises": [
+{ "key": "L32_LÜCKE_01", "type": "gap-fill", "answerKey": "Geburtstag", "sentence": { "DE": "Wir feiern den ________ von Max.", "AR": "نحن نحتفل بـ ________ ماكس.", "RU": "Мы празднуем ________ Макса.", "FA": "ما ________ مکس را جشن می‌گیریم.", "RO": "Sărbătorim ________ lui Max." }, "hint": "Der Tag der Geburt." },
+{ "key": "L32_LÜCKE_02", "type": "gap-fill", "answerKey": "Geschenk", "sentence": { "DE": "Ich habe ein schönes ________ für Lena.", "AR": "لدي ________ جميل للينا.", "RU": "У меня есть хороший ________ для Лены.", "FA": "من یک ________ زیبا برای لینا دارم.", "RO": "Am un ________ frumos pentru Lena." }, "hint": "Das Objekt, das man schenkt." },
+{ "key": "L32_LÜCKE_03", "type": "gap-fill", "answerKey": "einladen", "sentence": { "DE": "Ich möchte dich zur Party ________.", "AR": "أريد أن ________ك إلى الحفلة.", "RU": "Я хочу тебя ________ на вечеринку.", "FA": "من می‌خواهم تو را به مهمانی ________.", "RO": "Vreau să te ________ la petrecere." }, "hint": "Das Verb für eine Einladung." },
+{ "key": "L32_ZUORD_04", "type": "matching", "matchDE": "Mitbringen", "matchKey": "Torte", "sentence": { "DE": "Ich soll einen Kuchen ________.", "AR": "يجب أن أحضر كعكة ________.", "RU": "Я должен ________ торт.", "FA": "من باید یک کیک ________.", "RO": "Trebuie să ________ un tort." }, "hint": "Das Nomen für den Kuchen." }
+]
+}

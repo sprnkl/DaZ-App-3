@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Silvester",
+"AR": "رأس السنة الجديدة",
+"RU": "Новый год (Сильвестр)",
+"FA": "شب سال نو",
+"RO": "Revelion"
+},
+"vocabulary": [
+{ "key": "L31_VOK_01", "DE": "Silvester", "AR": "ليلة رأس السنة", "RU": "Новый год", "FA": "شب سال نو", "emoji_icon": "🍾" },
+{ "key": "L31_VOK_02", "DE": "der Jahreswechsel", "AR": "انتقال السنة", "RU": "смена года", "FA": "تغییر سال", "RO": "schimbarea anului", "emoji_icon": "🗓️" },
+{ "key": "L31_VOK_03", "DE": "das Feuerwerk", "AR": "الألعاب النارية", "RU": "фейерверк", "FA": "آتش بازی", "RO": "artificiile", "emoji_icon": "🎆" },
+{ "key": "L31_VOK_04", "DE": "knallen", "AR": "يُفرقع", "RU": "взрывать", "FA": "ترکاندن", "RO": "a detuna", "emoji_icon": "💥" },
+{ "key": "L31_VOK_05", "DE": "der Sekt/Champagner", "AR": "الشمبانيا", "RU": "шампанское", "FA": "شامپاین", "RO": "șampania", "emoji_icon": "🥂" },
+{ "key": "L31_VOK_06", "DE": "anstoßen", "AR": "يرفع الكأس", "RU": "чокнуться", "FA": "سلامتی گفتن", "RO": "a ciocni", "emoji_icon": "🥂" },
+{ "key": "L31_VOK_07", "DE": "der Countdown", "AR": "العد التنازلي", "RU": "обратный отсчет", "FA": "شمارش معکوس", "RO": "numărătoarea inversă", "emoji_icon": "🔟" },
+{ "key": "L31_VOK_08", "DE": "Prosit Neujahr!", "AR": "سنة جديدة سعيدة!", "RU": "С Новым годом!", "FA": "سال نو مبارک!", "RO": "La mulți ani!", "emoji_icon": "🥳" },
+{ "key": "L31_VOK_09", "DE": "der Vorsatz", "AR": "القرار", "RU": "резолюция", "FA": "تصمیم (سال نو)", "RO": "rezoluția (de Anul Nou)", "emoji_icon": "✍️" },
+{ "key": "L31_VOK_10", "DE": "wünschen", "AR": "يتمنى", "RU": "желать", "FA": "آرزو کردن", "RO": "a dori", "emoji_icon": "✨" },
+{ "key": "L31_VOK_11", "DE": "der Glücksbringer", "AR": "جالب الحظ", "RU": "талисман удачи", "FA": "شانس‌آور", "RO": "amuleta norocoasă", "emoji_icon": "🍀" },
+{ "key": "L31_VOK_12", "DE": "das Glück", "AR": "الحظ", "RU": "удача", "FA": "شانس", "RO": "norocul", "emoji_icon": "🍀" },
+{ "key": "L31_VOK_13", "DE": "der Schornsteinfeger", "AR": "كناس المداخن", "RU": "трубочист", "FA": "دودکش پاک کن", "RO": "hornaru", "emoji_icon": "🧹" },
+{ "key": "L31_VOK_14", "DE": "das Bleigießen", "AR": "صب الرصاص", "RU": "литье свинца", "FA": "ریختن سرب", "RO": "turnarea plumbului", "emoji_icon": "🔮" },
+{ "key": "L31_VOK_15", "DE": "die Zukunft", "AR": "المستقبل", "RU": "будущее", "FA": "آینده", "RO": "viitorul", "emoji_icon": "🔮" },
+{ "key": "L31_VOK_16", "DE": "der Aberglaube", "AR": "الخرافة", "RU": "суеверие", "FA": "خرافات", "RO": "superstiția", "emoji_icon": "🤫" },
+{ "key": "L31_VOK_17", "DE": "der Glückspilz", "AR": "الشخص المحظوظ", "RU": "счастливчик", "FA": "خوش شانس", "RO": "norocosul", "emoji_icon": "🍄" },
+{ "key": "L31_VOK_18", "DE": "der Klee (vierblättrig)", "AR": "البرسيم", "RU": "клевер", "FA": "شبدر", "RO": "trifoiul", "emoji_icon": "🍀" },
+{ "key": "L31_VOK_19", "DE": "die Linse (Essen)", "AR": "العدس", "RU": "чечевица", "FA": "عدس", "RO": "lintea", "emoji_icon": "🥣" },
+{ "key": "L31_VOK_20", "DE": "arm/reich", "AR": "فقير/غني", "RU": "бедный/богатый", "FA": "فقیر/ثروتمند", "RO": "sărac/bogat", "emoji_icon": "💰" },
+{ "key": "L31_VOK_21", "DE": "Mitternacht", "AR": "منتصف الليل", "RU": "полночь", "FA": "نیمه شب", "RO": "miezul nopții", "emoji_icon": "🕛" },
+{ "key": "L31_VOK_22", "DE": "der Schuss", "AR": "الطلقة/الضربة", "RU": "выстрел", "FA": "شلیک", "RO": "împușcătura", "emoji_icon": "🔫" },
+{ "key": "L31_VOK_23", "DE": "laut", "AR": "صاخب", "RU": "громкий", "FA": "بلند", "RO": "tare", "emoji_icon": "🔊" },
+{ "key": "L31_VOK_24", "DE": "das Bleigießen (Aktion)", "AR": "صب الرصاص", "RU": "литье свинца", "FA": "ریختن سرب", "RO": "turnarea plumbului", "emoji_icon": "🔥" },
+{ "key": "L31_VOK_25", "DE": "die Vorsätze machen", "AR": "اتخاذ القرارات", "RU": "принимать решения", "FA": "تصمیم گرفتن", "RO": "a lua rezoluții", "emoji_icon": "📝" },
+{ "key": "L31_VOK_26", "DE": "Was nimmst du dir vor?", "AR": "ماذا تقرر أن تفعل؟", "RU": "Что ты планируешь?", "FA": "چه تصمیمی می‌گیری؟", "RO": "Ce-ți propui?", "emoji_icon": "❓" },
+{ "key": "L31_VOK_27", "DE": "gute Wünsche", "AR": "أمنيات جيدة", "RU": "добрые пожелания", "FA": "آرزوهای خوب", "RO": "urări de bine", "emoji_icon": "✨" },
+{ "key": "L31_VOK_28", "DE": "ein frohes neues Jahr", "AR": "سنة جديدة سعيدة", "RU": "Счастливого Нового года", "FA": "سال نو مبارک", "RO": "Un An Nou fericit", "emoji_icon": "🥳" },
+{ "key": "L31_VOK_29", "DE": "die Rakete", "AR": "الصاروخ", "RU": "ракета", "FA": "موشک", "RO": "racheta", "emoji_icon": "🚀" },
+{ "key": "L31_VOK_30", "DE": "das Feuerzeug", "AR": "الولاعة", "RU": "зажигалка", "FA": "فندک", "RO": "bricheta", "emoji_icon": "🔥" }
+],
+"exercises": [
+{ "key": "L31_LÜCKE_01", "type": "gap-fill", "answerKey": "Feuerwerk", "sentence": { "DE": "Um Mitternacht gibt es ein großes ________.", "AR": "في منتصف الليل هناك ________ كبير.", "RU": "В полночь будет большой ________.", "FA": "ساعت دوازده شب ________ بزرگی برپاست.", "RO": "La miezul nopții este un ________ mare." }, "hint": "Das Objekt, das am Himmel knallt." },
+{ "key": "L31_LÜCKE_02", "type": "gap-fill", "answerKey": "Glücksbringer", "sentence": { "DE": "Das vierblättrige Kleeblatt ist ein ________.", "AR": "البرسيم ذو الأربع أوراق هو ________.", "RU": "Четырехлистный клевер — это ________.", "FA": "شبدر چهاربرگ یک ________ است.", "RO": "Trifoiul cu patru foi este un ________." }, "hint": "Ein Objekt, das Glück bringt." },
+{ "key": "L31_LÜCKE_03", "type": "gap-fill", "answerKey": "Vorsätze", "sentence": { "DE": "Ich mache ________ für das neue Jahr.", "AR": "أنا أتخذ ________ للعام الجديد.", "RU": "Я принимаю ________ на Новый год.", "FA": "من برای سال نو ________ می‌گیرم.", "RO": "Îmi fac ________ pentru noul an." }, "hint": "Die Pläne, die man sich fürs neue Jahr macht (Plural)." },
+{ "key": "L31_ZUORD_04", "type": "matching", "matchDE": "arm", "matchKey": "reich", "sentence": { "DE": "Nach dem Essen von Linsen wird man ________.", "AR": "بعد أكل العدس يصبح المرء ________.", "RU": "После еды чечевицы станешь ________.", "FA": "بعد از خوردن عدس آدم ________ می‌شود.", "RO": "După ce mănânci linte devii ________." }, "hint": "Gegenteil von 'arm'." }
+]
+}

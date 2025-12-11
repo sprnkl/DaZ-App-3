@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Personen an der Schule",
+"AR": "الأشخاص في المدرسة",
+"RU": "Люди в школе",
+"FA": "افراد در مدرسه",
+"RO": "Persoane din școală"
+},
+"vocabulary": [
+{ "key": "L5_VOK_01", "DE": "der Lehrer", "AR": "المعلم", "RU": "учитель", "FA": "معلم", "RO": "profesorul", "emoji_icon": "👨‍🏫" },
+{ "key": "L5_VOK_02", "DE": "die Lehrerin", "AR": "المعلمة", "RU": "учительница", "FA": "معلم (f.)", "RO": "profesoara", "emoji_icon": "👩‍🏫" },
+{ "key": "L5_VOK_03", "DE": "der Direktor", "AR": "المدير", "RU": "директор", "FA": "مدیر", "RO": "directorul", "emoji_icon": "👨‍💼" },
+{ "key": "L5_VOK_04", "DE": "die Direktorin", "AR": "المديرة", "RU": "директриса", "FA": "مدیر (f.)", "RO": "directoarea", "emoji_icon": "👩‍💼" },
+{ "key": "L5_VOK_05", "DE": "der Hausmeister", "AR": "الحارس", "RU": "завхоз", "FA": "سرایدار", "RO": "portarul", "emoji_icon": "👷" },
+{ "key": "L5_VOK_06", "DE": "der Mitschüler", "AR": "الزميل", "RU": "одноклассник", "FA": "همکلاسی (m.)", "RO": "colegul de clasă", "emoji_icon": "🧑‍🎓" },
+{ "key": "L5_VOK_07", "DE": "die Mitschülerin", "AR": "الزميلة", "RU": "одноклассница", "FA": "همکلاسی (f.)", "RO": "colega de clasă", "emoji_icon": "👧" },
+{ "key": "L5_VOK_08", "DE": "das Sekretariatspersonal", "AR": "موظفو السكرتارية", "RU": "секретариат", "FA": "کارمندان اداری", "RO": "personalul de secretariat", "emoji_icon": "👩‍💻" },
+{ "key": "L5_VOK_09", "DE": "rufen", "AR": "يُنادِي", "RU": "звать", "FA": "صدا کردن", "RO": "a chema", "emoji_icon": "🗣️" },
+{ "key": "L5_VOK_10", "DE": "helfen", "AR": "يُسَاعِد", "RU": "помогать", "FA": "کمک کردن", "RO": "a ajuta", "emoji_icon": "🤝" },
+{ "key": "L5_VOK_11", "DE": "fragen", "AR": "يَسْأَل", "RU": "спрашивать", "FA": "پرسیدن", "RO": "a întreba", "emoji_icon": "❓" },
+{ "key": "L5_VOK_12", "DE": "erklären", "AR": "يَشْرَح", "RU": "объяснять", "FA": "توضیح دادن", "RO": "a explica", "emoji_icon": "💡" },
+{ "key": "L5_VOK_13", "DE": "wissen", "AR": "يَعْرِف", "RU": "знать", "FA": "دانستن", "RO": "a ști", "emoji_icon": "🧠" },
+{ "key": "L5_VOK_14", "DE": "verstehen", "AR": "يَفْهَم", "RU": "понимать", "FA": "فهمیدن", "RO": "a înțelege", "emoji_icon": "✔️" },
+{ "key": "L5_VOK_15", "DE": "Bitte (formell)", "AR": "لو سمحت (رسمي)", "RU": "Пожалуйста (форм.)", "FA": "لطفا (رسمی)", "RO": "Vă rog", "emoji_icon": "🙏" },
+{ "key": "L5_VOK_16", "DE": "Entschuldigen Sie (formell)", "AR": "اعذرني (رسمي)", "RU": "Извините (форм.)", "FA": "ببخشید (رسمی)", "RO": "Scuzați-mă", "emoji_icon": "😔" },
+{ "key": "L5_VOK_17", "DE": "Sie (formell)", "AR": "أنت (رسمي)", "RU": "Вы", "FA": "شما", "RO": "Dumneavoastră", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L5_VOK_18", "DE": "du (informell)", "AR": "أنت (غير رسمي)", "RU": "ты", "FA": "تو", "RO": "tu", "emoji_icon": "👤" },
+{ "key": "L5_VOK_19", "DE": "der Notfall", "AR": "حالة الطوارئ", "RU": "чрезвычайная ситуация", "FA": "اورژانس", "RO": "urgența", "emoji_icon": "🚨" },
+{ "key": "L5_VOK_20", "DE": "der Schulleiter", "AR": "مدير المدرسة", "RU": "директор школы", "FA": "مدیر مدرسه", "RO": "directorul șكول", "emoji_icon": "👑" },
+{ "key": "L5_VOK_21", "DE": "der Vertrauenslehrer", "AR": "المعلم الموثوق به", "RU": "доверенный учитель", "FA": "معلم راهنما", "RO": "profesorul de încredere", "emoji_icon": "😇" },
+{ "key": "L5_VOK_22", "DE": "nett", "AR": "لطيف", "RU": "милый", "FA": "خوش برخورد", "RO": "drăguț", "emoji_icon": "😊" },
+{ "key": "L5_VOK_23", "DE": "streng", "AR": "صارم", "RU": "строгий", "FA": "سخت‌گیر", "RO": "strict", "emoji_icon": "😠" },
+{ "key": "L5_VOK_24", "DE": "freundlich", "AR": "ودود", "RU": "дружелюбный", "FA": "مهربان", "RO": "prietenos", "emoji_icon": "🙂" },
+{ "key": "L5_VOK_25", "DE": "geduldig", "AR": "صبور", "RU": "терпеливый", "FA": "صبور", "RO": "răbdător", "emoji_icon": "🧘" },
+{ "key": "L5_VOK_26", "DE": "Wer ist das?", "AR": "من هذا؟", "RU": "Кто это?", "FA": "او کیست؟", "RO": "Cine este acesta?", "emoji_icon": "❓" },
+{ "key": "L5_VOK_27", "DE": "Ich verstehe nicht.", "AR": "أنا لا أفهم.", "RU": "Я не понимаю.", "FA": "من متوجه نمی‌شوم.", "RO": "Nu înțeleg.", "emoji_icon": "🤔" },
+{ "key": "L5_VOK_28", "DE": "Können Sie mir helfen?", "AR": "هل يمكنك مساعدتي؟", "RU": "Вы можете мне помочь?", "FA": "می‌توانید به من کمک کنید؟", "RO": "Mă puteți ajuta?", "emoji_icon": "🤲" },
+{ "key": "L5_VOK_29", "DE": "Ich habe eine Frage.", "AR": "لدي سؤال.", "RU": "У меня есть вопрос.", "FA": "من یک سوال دارم.", "RO": "Am o întrebare.", "emoji_icon": "💬" },
+{ "key": "L5_VOK_30", "DE": "Ich brauche Hilfe.", "AR": "أحتاج مساعدة.", "RU": "Мне нужна помощь.", "FA": "من به کمک نیاز دارم.", "RO": "Am nevoie de ajutor.", "emoji_icon": "🆘" }
+],
+"exercises": [
+{ "key": "L5_LÜCKE_01", "type": "gap-fill", "answerKey": "Lehrer", "sentence": { "DE": "Der ________ erklärt die Aufgabe.", "AR": "الـ ________ يشرح الواجب.", "RU": " ________ объясняет задание.", "FA": " ________ تکلیف را توضیح می‌دهد.", "RO": " ________ explică sarcina." }, "hint": "Er unterrichtet." },
+{ "key": "L5_LÜCKE_02", "type": "gap-fill", "answerKey": "helfen", "sentence": { "DE": "Kannst du mir ________?", "AR": "هل يمكنك ________ لي؟", "RU": "Можешь мне ________?", "FA": "می‌توانی به من ________ کنی؟", "RO": "Poți să mă ________?" }, "hint": "Das Verb für Unterstützung." },
+{ "key": "L5_LÜCKE_03", "type": "gap-fill", "answerKey": "streng", "sentence": { "DE": "Der Direktor ist manchmal sehr ________.", "AR": "المدير أحياناً يكون ________ جداً.", "RU": "Директор иногда очень ________.", "FA": "مدیر گاهی اوقات خیلی ________ است.", "RO": "Directorul este uneori foarte ________." }, "hint": "Gegenteil von 'freundlich'." },
+{ "key": "L5_ZUORD_04", "type": "matching", "matchDE": "du", "matchKey": "Sie", "sentence": { "DE": "Das Gegenteil von ________ ist 'du'.", "AR": "عكس ________ هو 'أنت'.", "RU": "Противоположность ________ — 'ты'.", "FA": "متضاد ________، 'تو' است.", "RO": "Opunerea lui ________ ist 'tu'." }, "hint": "Die formelle Anrede." }
+]
+}

@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Feiertage allgemein",
+"AR": "العطلات العامة",
+"RU": "Общие праздники",
+"FA": "تعطیلات عمومی",
+"RO": "Sărbători publice"
+},
+"vocabulary": [
+{ "key": "L26_VOK_01", "DE": "der Feiertag", "AR": "يوم العطلة", "RU": "праздничный день", "FA": "روز تعطیل", "emoji_icon": "🎉" },
+{ "key": "L26_VOK_02", "DE": "die Feier", "AR": "الاحتفال", "RU": "празднование", "FA": "جشن", "RO": "sărbătoarea", "emoji_icon": "🥳" },
+{ "key": "L26_VOK_03", "DE": "feiern", "AR": "يحتفل", "RU": "праздновать", "FA": "جشن گرفتن", "RO": "a sărbători", "emoji_icon": "🎈" },
+{ "key": "L26_VOK_04", "DE": "öffentlich", "AR": "عام", "RU": "общественный", "FA": "عمومی", "RO": "public", "emoji_icon": "🏛️" },
+{ "key": "L26_VOK_05", "DE": "der Staat", "AR": "الدولة", "RU": "государство", "FA": "دولت", "RO": "statul", "emoji_icon": "🇩🇪" },
+{ "key": "L26_VOK_06", "DE": "der Kalender", "AR": "التقويم", "RU": "календарь", "FA": "تقویم", "RO": "calendarul", "emoji_icon": "🗓️" },
+{ "key": "L26_VOK_07", "DE": "der Neujahrstag (1. Jan)", "AR": "يوم رأس السنة", "RU": "Новый год", "FA": "روز سال نو", "RO": "anul nou", "emoji_icon": "🍾" },
+{ "key": "L26_VOK_08", "DE": "der Karfreitag", "AR": "الجمعة العظيمة", "RU": "Страстная пятница", "FA": "جمعه خوب", "RO": "vinerea mare", "emoji_icon": "✝️" },
+{ "key": "L26_VOK_09", "DE": "der Ostersonntag", "AR": "أحد الفصح", "RU": "Пасха", "FA": "یکشنبه عید پاک", "RO": "duminica Paștelui", "emoji_icon": "🐰" },
+{ "key": "L26_VOK_10", "DE": "der Ostermontag", "AR": "اثنين الفصح", "RU": "Пасхальный понедельник", "FA": "دوشنبه عید پاک", "RO": "lunea Paștelui", "emoji_icon": "🥚" },
+{ "key": "L26_VOK_11", "DE": "der 1. Mai (Tag der Arbeit)", "AR": "عيد العمال", "RU": "День труда", "FA": "روز کارگر", "RO": "ziua muncii", "emoji_icon": "🛠️" },
+{ "key": "L26_VOK_12", "DE": "Christi Himmelfahrt", "AR": "عيد الصعود", "RU": "Вознесение", "FA": "عروج مسیح", "RO": "Înălțarea Domnului", "emoji_icon": "⬆️" },
+{ "key": "L26_VOK_13", "DE": "der Pfingstmontag", "AR": "اثنين العنصرة", "RU": "Духов день", "FA": "دوشنبه پنطیکاست", "RO": "lunea Rusaliilor", "emoji_icon": "🕊️" },
+{ "key": "L26_VOK_14", "DE": "der 3. Oktober (Tag der Dt. Einheit)", "AR": "يوم الوحدة", "RU": "День единства", "FA": "روز وحدت آلمان", "RO": "Ziua Unității Germane", "emoji_icon": "🇩🇪" },
+{ "key": "L26_VOK_15", "DE": "der 1. Weihnachtstag", "AR": "يوم عيد الميلاد الأول", "RU": "первый день Рождества", "FA": "اولین روز کریسمس", "RO": "prima zi de Crăciun", "emoji_icon": "🎄" },
+{ "key": "L26_VOK_16", "DE": "der 2. Weihnachtstag", "AR": "يوم عيد الميلاد الثاني", "RU": "второй день Рождества", "FA": "دومین روز کریسمس", "RO": "a doua zi de Crăciun", "emoji_icon": "🎁" },
+{ "key": "L26_VOK_17", "DE": "der Sonntag", "AR": "الأحد", "RU": "воскресенье", "FA": "یکشنبه", "RO": "duminică", "emoji_icon": "📆" },
+{ "key": "L26_VOK_18", "DE": "der Wochentag", "AR": "يوم الأسبوع", "RU": "будний день", "FA": "روز هفته", "RO": "ziua lucrătoare", "emoji_icon": "📆" },
+{ "key": "L26_VOK_19", "DE": "frei haben", "AR": "أن يكون في عطلة", "RU": "иметь выходной", "FA": "تعطیل بودن", "RO": "a avea liber", "emoji_icon": "🥳" },
+{ "key": "L26_VOK_20", "DE": "zu Hause bleiben", "AR": "البقاء في المنزل", "RU": "оставаться дома", "FA": "در خانه ماندن", "RO": "a sta acasă", "emoji_icon": "🏠" },
+{ "key": "L26_VOK_21", "DE": "die Tradition", "AR": "التقليد", "RU": "традиция", "FA": "سنت", "RO": "tradiția", "emoji_icon": "📜" },
+{ "key": "L26_VOK_22", "DE": "die Sitte", "AR": "العادة", "RU": "обычай", "FA": "رسم", "RO": "obiceiul", "emoji_icon": "🤝" },
+{ "key": "L26_VOK_23", "DE": "die Bedeutung", "AR": "المعنى", "RU": "значение", "FA": "معنی", "RO": "semnificația", "emoji_icon": "💡" },
+{ "key": "L26_VOK_24", "DE": "die Geschichte", "AR": "التاريخ", "RU": "история", "FA": "تاریخ", "RO": "istoria", "emoji_icon": "📚" },
+{ "key": "L26_VOK_25", "DE": "gesetzlich", "AR": "قانوني", "RU": "законный", "FA": "قانونی", "RO": "legal", "emoji_icon": "⚖️" },
+{ "key": "L26_VOK_26", "DE": "arbeiten", "AR": "يعمل", "RU": "работать", "FA": "کار کردن", "RO": "a lucra", "emoji_icon": "💼" },
+{ "key": "L26_VOK_27", "DE": "der Gottesdienst", "AR": "القداس", "RU": "служба", "FA": "مراسم مذهبی", "RO": "slujba religioasă", "emoji_icon": "🙏" },
+{ "key": "L26_VOK_28", "DE": "die Schule ist zu", "AR": "المدرسة مغلقة", "RU": "школа закрыта", "FA": "مدرسه تعطیل است", "RO": "școala e închisă", "emoji_icon": "🔒" },
+{ "key": "L26_VOK_29", "DE": "der Urlaub", "AR": "الإجازة", "RU": "отпуск", "FA": "مرخصی", "RO": "concediu", "emoji_icon": "🏖️" },
+{ "key": "L26_VOK_30", "DE": "die Ferien", "AR": "العطلات المدرسية", "RU": "каникулы", "FA": "تعطیلات مدرسه", "RO": "vacanța școlară", "emoji_icon": "🏖️" }
+],
+"exercises": [
+{ "key": "L26_LÜCKE_01", "type": "gap-fill", "answerKey": "Feiertag", "sentence": { "DE": "Neujahr ist ein ________.", "AR": "رأس السنة هو ________.", "RU": "Новый год — это ________.", "FA": "سال نو یک ________ است.", "RO": "Anul Nou este o ________.", "hint_de": "Ein freier Tag im Kalender." }, "hint": "Ein freier Tag im Kalender." },
+{ "key": "L26_LÜCKE_02", "type": "gap-fill", "answerKey": "arbeiten", "sentence": { "DE": "Am 1. Mai ________ die meisten Leute nicht.", "AR": "في الأول من مايو، لا ________ معظم الناس.", "RU": "1 мая большинство людей не ________.", "FA": "اول ماه مه، بیشتر مردم ________ نمی‌کنند.", "RO": "Pe 1 mai, majoritatea oamenilor nu ________." }, "hint": "Das Gegenteil von 'frei haben'." },
+{ "key": "L26_LÜCKE_03", "type": "gap-fill", "answerKey": "Feier", "sentence": { "DE": "Zu Ostern gibt es eine große ________.", "AR": "هناك ________ كبيرة في عيد الفصح.", "RU": "На Пасху большое ________.", "FA": "در عید پاک یک ________ بزرگ وجود دارد.", "RO": "De Paște este o ________ mare." }, "hint": "Das Nomen zu 'feiern'." },
+{ "key": "L26_ZUORD_04", "type": "matching", "matchDE": "gesetzlich", "matchKey": "öffentlich", "sentence": { "DE": "Das ist ein ________ Feiertag.", "AR": "هذه عطلة ________.", "RU": "Это ________ праздник.", "FA": "این یک تعطیلات ________ است.", "RO": "Aceasta este o sărbătoare ________.", "hint_de": "Vom Staat festgelegt." }, "hint": "Vom Staat festgelegt." }
+]
+}

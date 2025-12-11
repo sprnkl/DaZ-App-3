@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Meine Familie",
+"AR": "عائلتي",
+"RU": "Моя семья",
+"FA": "خانواده من",
+"RO": "Familia mea"
+},
+"vocabulary": [
+{ "key": "L11_VOK_01", "DE": "die Familie", "AR": "العائلة", "RU": "семья", "FA": "خانواده", "RO": "familia", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L11_VOK_02", "DE": "die Mutter", "AR": "الأم", "RU": "мать", "FA": "مادر", "RO": "mama", "emoji_icon": "👩" },
+{ "key": "L11_VOK_03", "DE": "der Vater", "AR": "الأب", "RU": "отец", "FA": "پدر", "RO": "tata", "emoji_icon": "👨" },
+{ "key": "L11_VOK_04", "DE": "die Eltern", "AR": "الوالدان", "RU": "родители", "FA": "والدین", "RO": "părinții", "emoji_icon": "👪" },
+{ "key": "L11_VOK_05", "DE": "die Geschwister", "AR": "الإخوة", "RU": "братья и сестры", "FA": "خواهر و برادر", "RO": "frații și surorile", "emoji_icon": "👧👦" },
+{ "key": "L11_VOK_06", "DE": "der Bruder", "AR": "الأخ", "RU": "брат", "FA": "برادر", "RO": "fratele", "emoji_icon": "👦" },
+{ "key": "L11_VOK_07", "DE": "die Schwester", "AR": "الأخت", "RU": "сестра", "FA": "خواهر", "RO": "sora", "emoji_icon": "👧" },
+{ "key": "L11_VOK_08", "DE": "die Großeltern", "AR": "الأجداد", "RU": "бабушка и дедушка", "FA": "پدربزرگ و مادربزرگ", "RO": "bunicii", "emoji_icon": "👵👴" },
+{ "key": "L11_VOK_09", "DE": "die Oma", "AR": "الجدة", "RU": "бабушка", "FA": "مادربزرگ", "RO": "bunica", "emoji_icon": "👵" },
+{ "key": "L11_VOK_10", "DE": "der Opa", "AR": "الجد", "RU": "дедушка", "FA": "پدربزرگ", "RO": "bunicul", "emoji_icon": "👴" },
+{ "key": "L11_VOK_11", "DE": "der Onkel", "AR": "العم/الخال", "RU": "дядя", "FA": "عمو/دایی", "RO": "unchiul", "emoji_icon": "👨" },
+{ "key": "L11_VOK_12", "DE": "die Tante", "AR": "العمة/الخالة", "RU": "тетя", "FA": "عمه/خاله", "RO": "mătușa", "emoji_icon": "👩" },
+{ "key": "L11_VOK_13", "DE": "der Cousin", "AR": "ابن العم", "RU": "двоюродный брат", "FA": "پسر عمو", "RO": "vărul", "emoji_icon": "🧑" },
+{ "key": "L11_VOK_14", "DE": "die Cousine", "AR": "ابنة العم", "RU": "двоюродная сестра", "FA": "دختر عمو", "RO": "verișoara", "emoji_icon": "👧" },
+{ "key": "L11_VOK_15", "DE": "das Kind", "AR": "الطفل", "RU": "ребенок", "FA": "کودک", "RO": "copilul", "emoji_icon": "👶" },
+{ "key": "L11_VOK_16", "DE": "der Mann", "AR": "الرجل", "RU": "мужчина", "FA": "مرد", "RO": "bărbatul", "emoji_icon": "👨" },
+{ "key": "L11_VOK_17", "DE": "die Frau", "AR": "المرأة", "RU": "женщина", "FA": "زن", "RO": "femeia", "emoji_icon": "👩" },
+{ "key": "L11_VOK_18", "DE": "heiraten", "AR": "يَتَزَوَّج", "RU": "жениться/выйти замуж", "FA": "ازدواج کردن", "RO": "a se căsători", "emoji_icon": "💍" },
+{ "key": "L11_VOK_19", "DE": "leben", "AR": "يَعيش", "RU": "жить", "FA": "زندگی کردن", "RO": "a trăi", "emoji_icon": "🌱" },
+{ "key": "L11_VOK_20", "DE": "lieben", "AR": "يُحِب", "RU": "любить", "FA": "دوست داشتن", "RO": "a iubi", "emoji_icon": "❤️" },
+{ "key": "L11_VOK_21", "DE": "groß", "AR": "كبير", "RU": "большой", "FA": "بزرگ", "RO": "mare", "emoji_icon": "⬆️" },
+{ "key": "L11_VOK_22", "DE": "klein", "AR": "صغير", "RU": "маленький", "FA": "کوچک", "RO": "mic", "emoji_icon": "⬇️" },
+{ "key": "L11_VOK_23", "DE": "alt", "AR": "قديم", "RU": "старый", "FA": "پیر", "RO": "bătrân", "emoji_icon": "👴" },
+{ "key": "L11_VOK_24", "DE": "jung", "AR": "شاب", "RU": "молодой", "FA": "جوان", "RO": "tânăr", "emoji_icon": "👦" },
+{ "key": "L11_VOK_25", "DE": "nett", "AR": "لطيف", "RU": "милый", "FA": "مهربان", "RO": "drăguț", "emoji_icon": "😊" },
+{ "key": "L11_VOK_26", "DE": "sympathisch", "AR": "محبوب", "RU": "симпатичный", "FA": "دلچسب", "RO": "simpatica", "emoji_icon": "🙂" },
+{ "key": "L11_VOK_27", "DE": "hübsch", "AR": "جميل", "RU": "красивый", "FA": "زیبا", "RO": "frumos", "emoji_icon": "✨" },
+{ "key": "L11_VOK_28", "DE": "verheiratet", "AR": "متزوج", "RU": "женат/замужем", "FA": "متاهل", "RO": "căsătorit", "emoji_icon": "💍" },
+{ "key": "L11_VOK_29", "DE": "Wie viele?", "AR": "كم العدد؟", "RU": "Сколько?", "FA": "چند تا؟", "RO": "Câți/Câte?", "emoji_icon": "❓" },
+{ "key": "L11_VOK_30", "DE": "ledig", "AR": "أعزب", "RU": "холост", "FA": "مجرد", "RO": "necăsătorit", "emoji_icon": "👤" }
+],
+"exercises": [
+{ "key": "L11_LÜCKE_01", "type": "gap-fill", "answerKey": "Bruder", "sentence": { "DE": "Ich habe einen großen ________.", "AR": "لدي ________ كبير.", "RU": "У меня есть старший ________.", "FA": "من یک ________ بزرگ دارم.", "RO": "Am un ________ mai mare." }, "hint": "Das männliche Geschwister." },
+{ "key": "L11_LÜCKE_02", "type": "gap-fill", "answerKey": "leben", "sentence": { "DE": "Meine Großeltern ________ in Deutschland.", "AR": "أجدادي ________ في ألمانيا.", "RU": "Мои бабушка и дедушка ________ в Германии.", "FA": "پدربزرگ و مادربزرگ من در آلمان ________ می‌کنند.", "RO": "Bunicii mei ________ în Germania." }, "hint": "Das Verb für Wohnen/Existieren." },
+{ "key": "L11_LÜCKE_03", "type": "gap-fill", "answerKey": "Oma", "sentence": { "DE": "Meine Mutter ist die Tochter meiner ________.", "AR": "أمي هي ابنة ________.", "RU": "Моя мама — дочь моей ________.", "FA": "مادرم دختر ________ من است.", "RO": "Mama mea este fiica ________ mele." }, "hint": "Die Mutter deines Vaters oder deiner Mutter." },
+{ "key": "L11_ZUORD_04", "type": "matching", "matchDE": "verheiratet", "matchKey": "ledig", "sentence": { "DE": "Das Gegenteil von ________ ist ledig.", "AR": "عكس ________ هو أعزب.", "RU": "Противоположность ________ — холост.", "FA": "متضاد ________، مجرد است.", "RO": "Opunerea lui ________ este necăsătorit." }, "hint": "Status, wenn man einen Partner hat." }
+]
+}

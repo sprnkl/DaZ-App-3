@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Schulfächer",
+"AR": "المواد الدراسية",
+"RU": "Школьные предметы",
+"FA": "دروس مدرسه",
+"RO": "Materiile școlare"
+},
+"vocabulary": [
+{ "key": "L38_VOK_01", "DE": "Deutsch (DE)", "AR": "الألمانية", "RU": "немецкий", "FA": "آلمانی", "RO": "germană", "emoji_icon": "🇩🇪" },
+{ "key": "L38_VOK_02", "DE": "Englisch (EN)", "AR": "الإنجليزية", "RU": "английский", "FA": "انگلیسی", "RO": "engleză", "emoji_icon": "🇬🇧" },
+{ "key": "L38_VOK_03", "DE": "Mathematik (MA)", "AR": "الرياضيات", "RU": "математика", "FA": "ریاضی", "RO": "matematică", "emoji_icon": "🔢" },
+{ "key": "L38_VOK_04", "DE": "Geschichte (GE)", "AR": "التاريخ", "RU": "история", "FA": "تاریخ", "RO": "istorie", "emoji_icon": "📜" },
+{ "key": "L38_VOK_05", "DE": "Politik (PO)", "AR": "السياسة", "RU": "политика", "FA": "سیاست", "RO": "politică", "emoji_icon": "🗳️" },
+{ "key": "L38_VOK_06", "DE": "Erdkunde (EK)", "AR": "الجغرافيا", "RU": "география", "FA": "جغرافیا", "RO": "geografie", "emoji_icon": "🌍" },
+{ "key": "L38_VOK_07", "DE": "Biologie (BI)", "AR": "الأحياء", "RU": "биология", "FA": "زیست‌شناسی", "RO": "biologie", "emoji_icon": "🧬" },
+{ "key": "L38_VOK_08", "DE": "Chemie (CH)", "AR": "الكيمياء", "RU": "химия", "FA": "شیمی", "RO": "chimie", "emoji_icon": "🧪" },
+{ "key": "L38_VOK_09", "DE": "Physik (PH)", "AR": "الفيزياء", "RU": "физика", "FA": "فیزیک", "RO": "fizică", "emoji_icon": "⚛️" },
+{ "key": "L38_VOK_10", "DE": "Informatik (IT)", "AR": "المعلوماتية", "RU": "информатика", "FA": "کامپیوتر", "RO": "informatică", "emoji_icon": "💻" },
+{ "key": "L38_VOK_11", "DE": "Kunst (KU)", "AR": "الفن", "RU": "искусство", "FA": "هنر", "RO": "artă", "emoji_icon": "🎨" },
+{ "key": "L38_VOK_12", "DE": "Musik (MU)", "AR": "الموسيقى", "RU": "музыка", "FA": "موسیقی", "RO": "muzică", "emoji_icon": "🎶" },
+{ "key": "L38_VOK_13", "DE": "Sport (SP)", "AR": "الرياضة", "RU": "физкультура", "FA": "ورزش", "RO": "sport", "emoji_icon": "⚽" },
+{ "key": "L38_VOK_14", "DE": "Wirtschaft (WI)", "AR": "الاقتصاد", "RU": "экономика", "FA": "اقتصاد", "RO": "economie", "emoji_icon": "📈" },
+{ "key": "L38_VOK_15", "DE": "Religion (RE)", "AR": "الدين", "RU": "религия", "FA": "دین", "RO": "religie", "emoji_icon": "🙏" },
+{ "key": "L38_VOK_16", "DE": "Französisch (FR)", "AR": "الفرنسية", "RU": "французский", "FA": "فرانسه", "RO": "franceză", "emoji_icon": "🇫🇷" },
+{ "key": "L38_VOK_17", "DE": "Latein (LA)", "AR": "اللاتينية", "RU": "латынь", "FA": "لاتین", "RO": "latină", "emoji_icon": "📜" },
+{ "key": "L38_VOK_18", "DE": "Das ist mein Lieblingsfach.", "AR": "هذه مادتي المفضلة.", "RU": "Это мой любимый предмет.", "FA": "این درس مورد علاقه من است.", "RO": "Aceasta este materia mea preferată.", "emoji_icon": "💖" },
+{ "key": "L38_VOK_19", "DE": "Ich bin gut in...", "AR": "أنا جيد في...", "RU": "Я хорош в...", "FA": "من در ... خوب هستم.", "RO": "Sunt bun la...", "emoji_icon": "🧠" },
+{ "key": "L38_VOK_20", "DE": "Ich bin schlecht in...", "AR": "أنا لست جيداً في...", "RU": "Я плох в...", "FA": "من در ... ضعیف هستم.", "RO": "Sunt slab la...", "emoji_icon": "😩" },
+{ "key": "L38_VOK_21", "DE": "schwierig", "AR": "صعب", "RU": "сложный", "FA": "سخت", "RO": "dificil", "emoji_icon": "🤯" },
+{ "key": "L38_VOK_22", "DE": "einfach", "AR": "سهل", "RU": "простой", "FA": "آسان", "RO": "ușor", "emoji_icon": "💡" },
+{ "key": "L38_VOK_23", "DE": "langweilig", "AR": "ممل", "RU": "скучный", "FA": "خسته‌کننده", "RO": "plictisitor", "emoji_icon": "🥱" },
+{ "key": "L38_VOK_24", "DE": "interessant", "AR": "مثير للاهتمام", "RU": "интересный", "FA": "جالب", "RO": "interesant", "emoji_icon": "⭐" },
+{ "key": "L38_VOK_25", "DE": "die Klassenarbeit/Klausur", "AR": "الاختبار", "RU": "контрольная работа", "FA": "امتحان", "RO": "testul", "emoji_icon": "💯" },
+{ "key": "L38_VOK_26", "DE": "die Hausaufgaben", "AR": "الواجبات المنزلية", "RU": "домашнее задание", "FA": "تکالیف", "RO": "temele", "emoji_icon": "📝" },
+{ "key": "L38_VOK_27", "DE": "der Lehrer/die Lehrerin", "AR": "المعلم/المعلمة", "RU": "учитель/учительница", "FA": "معلم/معلمه", "RO": "profesorul/profesoara", "emoji_icon": "👨‍🏫" },
+{ "key": "L38_VOK_28", "DE": "die Stunde", "AR": "الحصة", "RU": "урок", "FA": "ساعت درسی", "RO": "ora", "emoji_icon": "⏰" },
+{ "key": "L38_VOK_29", "DE": "Was hast du in ...?", "AR": "ماذا لديك في ...؟", "RU": "Что у тебя по ...?", "FA": "در ... چه داری؟", "RO": "Ce ai la ...?", "emoji_icon": "❓" },
+{ "key": "L38_VOK_30", "DE": "die Note", "AR": "الدرجة", "RU": "оценка", "FA": "نمره", "RO": "nota", "emoji_icon": "1️⃣" }
+],
+"exercises": [
+{ "key": "L38_LÜCKE_01", "type": "gap-fill", "answerKey": "Mathematik", "sentence": { "DE": "Wir rechnen und lösen Probleme in ________.", "AR": "نحن نحسب ونحل المسائل في ________.", "RU": "Мы считаем и решаем задачи на ________.", "FA": "ما در ________ محاسبه و حل مسئله می‌کنیم.", "RO": "Calculăm și rezolvăm probleme la ________." }, "hint": "Das Fach mit Zahlen." },
+{ "key": "L38_LÜCKE_02", "type": "gap-fill", "answerKey": "Geschichte", "sentence": { "DE": "Im Fach ________ lernen wir über die Vergangenheit.", "AR": "في مادة ________ نتعلم عن الماضي.", "RU": "На ________ мы узнаем о прошлом.", "FA": "در درس ________ در مورد گذشته یاد می‌گیریم.", "RO": "La ________ învățăm despre trecut." }, "hint": "Das Fach über frühere Zeiten (Ihr Fach!)." },
+{ "key": "L38_LÜCKE_03", "type": "gap-fill", "answerKey": "schwierig", "sentence": { "DE": "Physik ist sehr ________.", "AR": "الفيزياء مادة ________ جداً.", "RU": "Физика очень ________.", "FA": "فیزیک خیلی ________ است.", "RO": "Fizica este foarte ________." }, "hint": "Das Gegenteil von 'einfach'." },
+{ "key": "L38_ZUORD_04", "type": "matching", "matchDE": "Biologie", "matchKey": "Tiere", "sentence": { "DE": "In ________ lernen wir über Pflanzen und ________.", "AR": "في ________ نتعلم عن النباتات والـ ________.", "RU": "На ________ мы учимся о растениях и ________.", "FA": "در ________ در مورد گیاهان و ________ یاد می‌گیریم.", "RO": "La ________ învățăm despre plante și ________." }, "hint": "Das Fach mit dem Leben." }
+]
+}

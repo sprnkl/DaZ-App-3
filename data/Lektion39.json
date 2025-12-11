@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Noten und Zeugnisse",
+"AR": "الدرجات والشهادات",
+"RU": "Оценки и аттестаты",
+"FA": "نمرات و کارنامه‌ها",
+"RO": "Note și certificate"
+},
+"vocabulary": [
+{ "key": "L39_VOK_01", "DE": "die Note", "AR": "الدرجة/العلامة", "RU": "оценка", "FA": "نمره", "RO": "nota", "emoji_icon": "💯" },
+{ "key": "L39_VOK_02", "DE": "das Zeugnis", "AR": "الشهادة/الكشف", "RU": "аттестат/табель", "FA": "کارنامه", "RO": "certificatul școlar", "emoji_icon": "📜" },
+{ "key": "L39_VOK_03", "DE": "sehr gut (1)", "AR": "جيد جداً (1)", "RU": "отлично", "FA": "عالی", "RO": "foarte bine", "emoji_icon": "1️⃣" },
+{ "key": "L39_VOK_04", "DE": "gut (2)", "AR": "جيد (2)", "RU": "хорошо", "FA": "خوب", "RO": "bine", "emoji_icon": "2️⃣" },
+{ "key": "L39_VOK_05", "DE": "befriedigend (3)", "AR": "مرضٍ (3)", "RU": "удовлетворительно", "FA": "قابل قبول", "RO": "satisfăcător", "emoji_icon": "3️⃣" },
+{ "key": "L39_VOK_06", "DE": "ausreichend (4)", "AR": "كافٍ (4)", "RU": "достаточно", "FA": "کافی", "RO": "suficient", "emoji_icon": "4️⃣" },
+{ "key": "L39_VOK_07", "DE": "mangelhaft (5)", "AR": "غير كافٍ (5)", "RU": "неудовлетворительно", "FA": "نقص", "RO": "insuficient", "emoji_icon": "5️⃣" },
+{ "key": "L39_VOK_08", "DE": "ungenügend (6)", "AR": "غير مقبول (6)", "RU": "неудовлетворительно", "FA": "نمره رد", "RO": "nesatisfăcător", "emoji_icon": "6️⃣" },
+{ "key": "L39_VOK_09", "DE": "die Versetzung", "AR": "النقل إلى الصف التالي", "RU": "перевод в след. класс", "FA": "ارتقا به کلاس بالاتر", "RO": "promovarea", "emoji_icon": "⬆️" },
+{ "key": "L39_VOK_10", "DE": "Sitzen bleiben", "AR": "إعادة الصف", "RU": "остаться на второй год", "FA": "مردود شدن", "RO": "a rămâne repetent", "emoji_icon": "⬇️" },
+{ "key": "L39_VOK_11", "DE": "der Durchschnitt", "AR": "المعدل", "RU": "средний балл", "FA": "میانگین", "RO": "media", "emoji_icon": "📊" },
+{ "key": "L39_VOK_12", "DE": "die Klassenarbeit", "AR": "الاختبار الصفي", "RU": "контрольная работа", "FA": "امتحان کلاسی", "RO": "lucrarea de control", "emoji_icon": "📝" },
+{ "key": "L39_VOK_13", "DE": "die mündliche Note", "AR": "الدرجة الشفوية", "RU": "устная оценка", "FA": "نمره شفاهی", "RO": "nota orală", "emoji_icon": "🗣️" },
+{ "key": "L39_VOK_14", "DE": "die schriftliche Note", "AR": "الدرجة الكتابية", "RU": "письменная оценка", "FA": "نمره کتبی", "RO": "nota scrisă", "emoji_icon": "✍️" },
+{ "key": "L39_VOK_15", "DE": "die Notenkonferenz", "AR": "اجتماع الدرجات", "RU": "конференция учителей", "FA": "جلسه نمرات", "RO": "conferința notelor", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L39_VOK_16", "DE": "das Halbjahreszeugnis", "AR": "شهادة نصف العام", "RU": "аттестат за полугодие", "FA": "کارنامه نیمسال", "RO": "certificatul semestrial", "emoji_icon": "📄" },
+{ "key": "L39_VOK_17", "DE": "das Endzeugnis", "AR": "الشهادة النهائية", "RU": "итоговый аттестат", "FA": "کارنامه پایانی", "RO": "certificatul final", "emoji_icon": "🥇" },
+{ "key": "L39_VOK_18", "DE": "die Lernentwicklung", "AR": "تطور التعلم", "RU": "развитие обучения", "FA": "روند یادگیری", "RO": "evoluția învățării", "emoji_icon": "📈" },
+{ "key": "L39_VOK_19", "DE": "sich verbessern", "AR": "يتحسن", "RU": "улучшаться", "FA": "بهبود یافتن", "RO": "a se îmbunătăți", "emoji_icon": "🌟" },
+{ "key": "L39_VOK_20", "DE": "schlechte Noten", "AR": "درجات سيئة", "RU": "плохие оценки", "FA": "نمرات بد", "RO": "note proaste", "emoji_icon": "😩" },
+{ "key": "L39_VOK_21", "DE": "gute Noten", "AR": "درجات جيدة", "RU": "хорошие оценки", "FA": "نمرات خوب", "RO": "note bune", "emoji_icon": "😊" },
+{ "key": "L39_VOK_22", "DE": "die Empfehlung", "AR": "التوصية", "RU": "рекомендация", "FA": "توصیه", "RO": "recomandarea", "emoji_icon": "👍" },
+{ "key": "L39_VOK_23", "DE": "die Mitarbeit", "AR": "المشاركة", "RU": "участие", "FA": "مشارکت", "RO": "participarea", "emoji_icon": "✋" },
+{ "key": "L39_VOK_24", "DE": "der Fleiß", "AR": "الاجتهاد", "RU": "усердие", "FA": "سخت‌کوشی", "RO": "sârguința", "emoji_icon": "🐝" },
+{ "key": "L39_VOK_25", "DE": "das Verhalten", "AR": "السلوك", "RU": "поведение", "FA": "رفتار", "RO": "comportamentul", "emoji_icon": "🎭" },
+{ "key": "L39_VOK_26", "DE": "Die Noten sind wichtig.", "AR": "الدرجات مهمة.", "RU": "Оценки важны.", "FA": "نمرات مهم هستند.", "RO": "Notele sunt importante.", "emoji_icon": "⭐" },
+{ "key": "L39_VOK_27", "DE": "Wann bekomme ich mein Zeugnis?", "AR": "متى أحصل على شهادتي؟", "RU": "Когда я получу свой аттестат?", "FA": "کی کارنامه‌ام را می‌گیرم؟", "RO": "Când primesc certificatul?", "emoji_icon": "❓" },
+{ "key": "L39_VOK_28", "DE": "Ich habe bestanden.", "AR": "لقد نجحت.", "RU": "Я сдал.", "FA": "من قبول شدم.", "RO": "Am trecut.", "emoji_icon": "🥳" },
+{ "key": "L39_VOK_29", "DE": "Ich bin durchgefallen.", "AR": "لقد رسبت.", "RU": "Я провалил.", "FA": "من رد شدم.", "RO": "Am picat.", "emoji_icon": "😞" },
+{ "key": "L39_VOK_30", "DE": "die Schulzeit", "AR": "الفترة المدرسية", "RU": "школьное время", "FA": "دوران مدرسه", "RO": "perioada școlară", "emoji_icon": "🏫" }
+],
+"exercises": [
+{ "key": "L39_LÜCKE_01", "type": "gap-fill", "answerKey": "Zeugnis", "sentence": { "DE": "Am Ende des Halbjahres gibt es das ________.", "AR": "في نهاية الفصل الدراسي نحصل على ________.", "RU": "В конце полугодия мы получаем ________.", "FA": "در پایان نیمسال، ________ را می‌گیریم.", "RO": "La sfârșitul semestrului primim ________." }, "hint": "Das offizielle Schul-Dokument." },
+{ "key": "L39_LÜCKE_02", "type": "gap-fill", "answerKey": "Noten", "sentence": { "DE": "In Deutschland gibt es sechs ________.", "AR": "في ألمانيا هناك ست ________.", "RU": "В Германии шесть ________.", "FA": "در آلمان شش ________ وجود دارد.", "RO": "În Germania există șase ________." }, "hint": "Die Ziffern für die Beurteilung (1 bis 6)." },
+{ "key": "L39_LÜCKE_03", "type": "gap-fill", "answerKey": "Versetzung", "sentence": { "DE": "Wenn ich gute Noten habe, schaffe ich die ________.", "AR": "إذا كانت لدي درجات جيدة، سأنجح في الـ ________.", "RU": "Если у меня хорошие оценки, я сдам ________.", "FA": "اگر نمراتم خوب باشد، در ________ موفق می‌شوم.", "RO": "Dacă am note bune, reușesc la ________." }, "hint": "Der Übergang in die nächste Klasse." },
+{ "key": "L39_ZUORD_04", "type": "matching", "matchDE": "schlecht", "matchKey": "gut", "sentence": { "DE": "Das Gegenteil von ________ ist schlecht.", "AR": "عكس ________ هو سيئ.", "RU": "Противоположность ________ — плохой.", "FA": "متضاد ________، بد است.", "RO": "Opunerea lui ________ este rău." }, "hint": "Das Gegenteil von 'schlecht'." }
+]
+}

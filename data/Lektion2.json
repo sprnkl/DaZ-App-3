@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Die Schulwege",
+"AR": "الطرق إلى المدرسة",
+"RU": "Школьные маршруты",
+"FA": "مسیرهای مدرسه",
+"RO": "Drumurile școlare"
+},
+"vocabulary": [
+{ "key": "L2_VOK_01", "DE": "der Bus", "AR": "الحافلة", "RU": "автобус", "FA": "اتوبوس", "RO": "autobuzul", "emoji_icon": "🚌" },
+{ "key": "L2_VOK_02", "DE": "die Bahn", "AR": "القطار", "RU": "поезд", "FA": "قطار", "RO": "trenul", "emoji_icon": "🚆" },
+{ "key": "L2_VOK_03", "DE": "das Fahrrad", "AR": "الدراجة", "RU": "велосипед", "FA": "دوچرخه", "RO": "bicicleta", "emoji_icon": "🚲" },
+{ "key": "L2_VOK_04", "DE": "das Auto", "AR": "السيارة", "RU": "машина", "FA": "ماشین", "RO": "mașina", "emoji_icon": "🚗" },
+{ "key": "L2_VOK_05", "DE": "die Haltestelle", "AR": "المحطة", "RU": "остановка", "FA": "ایستگاه", "RO": "stația", "emoji_icon": "🚏" },
+{ "key": "L2_VOK_06", "DE": "die Ampel", "AR": "إشارة المرور", "RU": "светофор", "FA": "چراغ راهنمایی", "RO": "semaforul", "emoji_icon": "🚦" },
+{ "key": "L2_VOK_07", "DE": "die Kreuzung", "AR": "التقاطع", "RU": "перекресток", "FA": "چهارراه", "RO": "intersecția", "emoji_icon": " 🛣️⤫🛣️" },
+{ "key": "L2_VOK_08", "DE": "der Weg", "AR": "الطريق", "RU": "дорога", "FA": "راه", "RO": "drumul", "emoji_icon": "🛣️" },
+{ "key": "L2_VOK_09", "DE": "der Park", "AR": "الحديقة", "RU": "парк", "FA": "پارک", "RO": "parcul", "emoji_icon": "🌳" },
+{ "key": "L2_VOK_10", "DE": "die Schule", "AR": "المدرسة", "RU": "школа", "FA": "مدرسه", "RO": "școala", "emoji_icon": "🏫" },
+{ "key": "L2_VOK_11", "DE": "gehen", "AR": "يَذْهَب", "RU": "идти", "FA": "رفتن", "RO": "a merge", "emoji_icon": "🚶" },
+{ "key": "L2_VOK_12", "DE": "fahren", "AR": "يَقُود", "RU": "ехать", "FA": "راندن", "RO": "a conduce", "emoji_icon": "🚗" },
+{ "key": "L2_VOK_13", "DE": "warten", "AR": "يَنْتَظِر", "RU": "ждать", "FA": "صبر کردن", "RO": "a aștepta", "emoji_icon": "⏱️" },
+{ "key": "L2_VOK_14", "DE": "abbiegen", "AR": "يَنْعَطِف", "RU": "поворачивать", "FA": "پیچیدن", "RO": "a vira", "emoji_icon": "↩️" },
+{ "key": "L2_VOK_15", "DE": "überqueren", "AR": "يَعْبُر", "RU": "пересекать", "FA": "عبور کردن", "RO": "a traversa", "emoji_icon": "🚸" },
+{ "key": "L2_VOK_16", "DE": "links", "AR": "يسار", "RU": "налево", "FA": "چپ", "RO": "la stânga", "emoji_icon": "⬅️" },
+{ "key": "L2_VOK_17", "DE": "rechts", "AR": "يمين", "RU": "направо", "FA": "راست", "RO": "la dreapta", "emoji_icon": "➡️" },
+{ "key": "L2_VOK_18", "DE": "geradeaus", "AR": "مباشرة", "RU": "прямо", "FA": "مستقیم", "RO": "drept înainte", "emoji_icon": "⬆️" },
+{ "key": "L2_VOK_19", "DE": "neben", "AR": "بجانب", "RU": "рядом", "FA": "کنار", "RO": "lângă", "emoji_icon": "🧍" },
+{ "key": "L2_VOK_20", "DE": "vor", "AR": "أمام", "RU": "перед", "FA": "جلوی", "RO": "în fața", "emoji_icon": "🔼" },
+{ "key": "L2_VOK_21", "DE": "hinter", "AR": "خلف", "RU": "позади", "FA": "پشت", "RO": "în spatele", "emoji_icon": "🔽" },
+{ "key": "L2_VOK_22", "DE": "weit", "AR": "بعيد", "RU": "далеко", "FA": "دور", "RO": "departe", "emoji_icon": "🔭" },
+{ "key": "L2_VOK_23", "DE": "nah", "AR": "قريب", "RU": "близко", "FA": "نزدیک", "RO": "aproape", "emoji_icon": "🤏" },
+{ "key": "L2_VOK_24", "DE": "schnell", "AR": "سريع", "RU": "быстрый", "FA": "سریع", "RO": "rapid", "emoji_icon": "💨" },
+{ "key": "L2_VOK_25", "DE": "langsam", "AR": "بطيء", "RU": "медленный", "FA": "آهسته", "RO": "lent", "emoji_icon": "🐌" },
+{ "key": "L2_VOK_26", "DE": "die Minute", "AR": "الدقيقة", "RU": "минута", "FA": "دقیقه", "RO": "minutul", "emoji_icon": "⏰" },
+{ "key": "L2_VOK_27", "DE": "die Stunde", "AR": "الساعة", "RU": "час", "FA": "ساعت", "RO": "ora", "emoji_icon": "⏳" },
+{ "key": "L2_VOK_28", "DE": "Wie lange?", "AR": "كم المدة؟", "RU": "Сколько времени?", "FA": "چقدر طول می کشد؟", "RO": "Cât timp?", "emoji_icon": "❓" },
+{ "key": "L2_VOK_29", "DE": "Wo ist...?", "AR": "أين هو...؟", "RU": "Где находится...?", "FA": "کجا است...؟", "RO": "Unde este...?", "emoji_icon": "❓" },
+{ "key": "L2_VOK_30", "DE": "Entschuldigung", "AR": "عذراً", "RU": "Извините", "FA": "ببخشید", "RO": "Scuzați", "emoji_icon": "😔" }
+],
+"exercises": [
+{ "key": "L2_LÜCKE_01", "type": "gap-fill", "answerKey": "Bus", "sentence": { "DE": "Ich fahre mit dem ________ zur Schule.", "AR": "أذهب إلى المدرسة بـ ________.", "RU": "Я еду в школу на ________.", "FA": "من با ________ به مدرسه می روم.", "RO": "Merg la școală cu ________." }, "hint": "Ein großes Fahrzeug für viele Leute." },
+{ "key": "L2_LÜCKE_02", "type": "gap-fill", "answerKey": "links", "sentence": { "DE": "An der Kreuzung musst du ________ abbiegen.", "AR": "عند التقاطع يجب أن ________.", "RU": "На перекрестке нужно повернуть ________.", "FA": "در چهارراه باید ________ بپیچی.", "RO": "La intersecție trebuie să faci ________." }, "hint": "Gegenteil von 'rechts'." },
+{ "key": "L2_LÜCKE_03", "type": "gap-fill", "answerKey": "warten", "sentence": { "DE": "Die Ampel ist rot. Wir müssen ________.", "AR": "إشارة المرور حمراء. يجب علينا ________.", "RU": "Светофор красный. Мы должны ________.", "FA": "چراغ راهنمایی قرمز است. ما باید ________.", "RO": "Semaforul este roșu. Trebuie să ________." }, "hint": "Was tust du, wenn du stehen bleiben musst?" },
+{ "key": "L2_ZUORD_04", "type": "matching", "matchDE": "die Haltestelle", "matchKey": "Bus", "sentence": { "DE": "Wo hält der ________?", "AR": "أين تتوقف ________؟", "RU": "Где останавливается ________?", "FA": "کجا ________ توقف می کند؟", "RO": "Unde se oprește ________?" }, "hint": "Man steigt hier in ein großes Fahrzeug ein." }
+]
+}

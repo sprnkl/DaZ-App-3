@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Erzählen von Gestern (Perfekt)",
+"AR": "الحديث عن الأمس",
+"RU": "Рассказ о вчерашнем дне",
+"FA": "صحبت کردن درباره دیروز",
+"RO": "Povestiri despre ieri"
+},
+"vocabulary": [
+{ "key": "L18_VOK_01", "DE": "gestern", "AR": "أمس", "RU": "вчера", "FA": "دیروز", "RO": "ieri", "emoji_icon": "🗓️" },
+{ "key": "L18_VOK_02", "DE": "letzte Woche", "AR": "الأسبوع الماضي", "RU": "на прошлой неделе", "FA": "هفته گذشته", "RO": "săptămâna trecută", "emoji_icon": "📅" },
+{ "key": "L18_VOK_03", "DE": "Perfekt", "AR": "الماضي التام", "RU": "перфект", "FA": "ماضی نقلی", "RO": "perfectul compus", "emoji_icon": "✍️" },
+{ "key": "L18_VOK_04", "DE": "ich bin gewesen", "AR": "كنت", "RU": "я был", "FA": "من بوده‌ام", "RO": "eu am fost", "emoji_icon": "👤" },
+{ "key": "L18_VOK_05", "DE": "ich habe gehabt", "AR": "كان لدي", "RU": "у меня было", "FA": "من داشتم", "RO": "eu am avut", "emoji_icon": "🤝" },
+{ "key": "L18_VOK_06", "DE": "ich habe gemacht", "AR": "فعلت", "RU": "я сделал", "FA": "من انجام دادم", "RO": "eu am făcut", "emoji_icon": "🛠️" },
+{ "key": "L18_VOK_07", "DE": "ich habe gelernt", "AR": "تعلمت", "RU": "я учил", "FA": "من یاد گرفتم", "RO": "eu am învățat", "emoji_icon": "🧠" },
+{ "key": "L18_VOK_08", "DE": "ich bin gegangen", "AR": "ذهبت", "RU": "я пошел", "FA": "من رفتم", "RO": "eu am mers", "emoji_icon": "🚶" },
+{ "key": "L18_VOK_09", "DE": "ich bin gekommen", "AR": "أتيت", "RU": "я пришел", "FA": "من آمدم", "RO": "eu am venit", "emoji_icon": "🚪" },
+{ "key": "L18_VOK_10", "DE": "ich habe gegessen", "AR": "أكلت", "RU": "я ел", "FA": "من خوردم", "RO": "eu am mâncat", "emoji_icon": "🍕" },
+{ "key": "L18_VOK_11", "DE": "ich habe getrunken", "AR": "شربت", "RU": "я пил", "FA": "من نوشیدم", "RO": "eu am băut", "emoji_icon": "🥤" },
+{ "key": "L18_VOK_12", "DE": "ich habe geschlafen", "AR": "نمت", "RU": "я спал", "FA": "من خوابیدم", "RO": "eu am dormit", "emoji_icon": "😴" },
+{ "key": "L18_VOK_13", "DE": "ich habe gesehen", "AR": "رأيت", "RU": "я видел", "FA": "من دیدم", "RO": "eu am văzut", "emoji_icon": "👀" },
+{ "key": "L18_VOK_14", "DE": "ich bin gefahren", "AR": "سافرت", "RU": "я ездил", "FA": "من رانندگی کردم", "RO": "eu am condus", "emoji_icon": "🚗" },
+{ "key": "L18_VOK_15", "DE": "die Vokabel", "AR": "المفردة", "RU": "слово", "FA": "لغت", "RO": "vocabularul", "emoji_icon": "📝" },
+{ "key": "L18_VOK_16", "DE": "der Ausflug", "AR": "الرحلة", "RU": "экскурсия", "FA": "گردش", "RO": "excursia", "emoji_icon": "🏞️" },
+{ "key": "L18_VOK_17", "DE": "der Film", "AR": "الفيلم", "RU": "фильм", "FA": "فیلم", "RO": "filmul", "emoji_icon": "🎬" },
+{ "key": "L18_VOK_18", "DE": "die Freunde", "AR": "الأصدقاء", "RU": "друзья", "FA": "دوستان", "RO": "prietenii", "emoji_icon": "🤝" },
+{ "key": "L18_VOK_19", "DE": "Was hast du gemacht?", "AR": "ماذا فعلت؟", "RU": "Что ты делал?", "FA": "چه کار کردی؟", "RO": "Ce ai făcut?", "emoji_icon": "❓" },
+{ "key": "L18_VOK_20", "DE": "Das war toll!", "AR": "كان هذا رائعاً!", "RU": "Это было здорово!", "FA": "این عالی بود!", "RO": "A fost minunat!", "emoji_icon": "🤩" },
+{ "key": "L18_VOK_21", "DE": "am Wochenende", "AR": "في عطلة نهاية الأسبوع", "RU": "на выходных", "FA": "در آخر هفته", "RO": "în weekend", "emoji_icon": "🎉" },
+{ "key": "L18_VOK_22", "DE": "die Schule", "AR": "المدرسة", "RU": "школа", "FA": "مدرسه", "RO": "școala", "emoji_icon": "🏫" },
+{ "key": "L18_VOK_23", "DE": "der Park", "AR": "الحديقة", "RU": "парк", "FA": "پارک", "RO": "parcul", "emoji_icon": "🌳" },
+{ "key": "L18_VOK_24", "DE": "mit (Präposition)", "AR": "مع", "RU": "с", "FA": "با", "RO": "cu", "emoji_icon": "➕" },
+{ "key": "L18_VOK_25", "DE": "nach (Präposition)", "AR": "بعد", "RU": "после", "FA": "بعد از", "RO": "după", "emoji_icon": "➡️" },
+{ "key": "L18_VOK_26", "DE": "zuerst", "AR": "أولاً", "RU": "сначала", "FA": "اول", "RO": "mai întâi", "emoji_icon": "1️⃣" },
+{ "key": "L18_VOK_27", "DE": "danach", "AR": "بعد ذلك", "RU": "затем", "FA": "بعد از آن", "RO": "după aceea", "emoji_icon": "2️⃣" },
+{ "key": "L18_VOK_28", "DE": "und dann", "AR": "ثم", "RU": "и потом", "FA": "و سپس", "RO": "și apoi", "emoji_icon": "3️⃣" },
+{ "key": "L18_VOK_29", "DE": "einkaufen", "AR": "يتسوق", "RU": "покупать", "FA": "خرید کردن", "RO": "a face cumpărături", "emoji_icon": "🛒" },
+{ "key": "L18_VOK_30", "DE": "sehen", "AR": "يَرَى", "RU": "видеть", "FA": "دیدن", "RO": "a vedea", "emoji_icon": "👀" }
+],
+"exercises": [
+{ "key": "L18_LÜCKE_01", "type": "gap-fill", "answerKey": "gegangen", "sentence": { "DE": "Gestern bin ich in den Park ________.", "AR": "ذهبت أمس إلى الحديقة ________.", "RU": "Вчера я ________ в парк.", "FA": "من دیروز به پارک ________ بودم.", "RO": "Ieri am ________ în parc." }, "hint": "Perfekt von 'gehen' (mit sein)." },
+{ "key": "L18_LÜCKE_02", "type": "gap-fill", "answerKey": "geschlafen", "sentence": { "DE": "Letzte Nacht habe ich lange ________.", "AR": "الليلة الماضية ________ طويلاً.", "RU": "Прошлой ночью я долго ________.", "FA": "من دیشب زیاد ________.", "RO": "Noaptea trecută am ________ mult." }, "hint": "Perfekt von 'schlafen' (mit haben)." },
+{ "key": "L18_LÜCKE_03", "type": "gap-fill", "answerKey": "getrunken", "sentence": { "DE": "Ich habe nur Wasser ________.", "AR": "أنا ________ الماء فقط.", "RU": "Я ________ только воду.", "FA": "من فقط آب ________.", "RO": "Am ________ doar apă." }, "hint": "Perfekt von 'trinken'." },
+{ "key": "L18_ZUORD_04", "type": "matching", "matchDE": "Ausflug", "matchKey": "gemacht", "sentence": { "DE": "Am Samstag haben wir einen ________ ________.", "AR": "يوم السبت ________ ________ رحلة.", "RU": "В субботу мы ________ ________ экскурсию.", "FA": "ما شنبه ________ ________ به گردش.", "RO": "Sâmbătă am ________ ________ o excursie." }, "hint": "Das Verb für 'tun' im Perfekt." }
+]
+}

@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Feste, Ausflüge, Sporttag",
+"AR": "الحفلات والرحلات واليوم الرياضي",
+"RU": "Праздники, экскурсии, спортивный день",
+"FA": "جشن‌ها، اردوها، روز ورزشی",
+"RO": "Sărbători, excursii, ziua sportivă"
+},
+"vocabulary": [
+{ "key": "L40_VOK_01", "DE": "die Klassenfahrt", "AR": "الرحلة الصفية", "RU": "школьная поездка", "FA": "اردوی کلاسی", "RO": "excursia clasei", "emoji_icon": "🚌" },
+{ "key": "L40_VOK_02", "DE": "der Ausflug", "AR": "الرحلة", "RU": "экскурсия", "FA": "گردش", "RO": "excursia", "emoji_icon": "🏞️" },
+{ "key": "L40_VOK_03", "DE": "das Schulfest", "AR": "حفلة المدرسة", "RU": "школьный праздник", "FA": "جشن مدرسه", "RO": "sărbătoarea școlii", "emoji_icon": "🥳" },
+{ "key": "L40_VOK_04", "DE": "der Sporttag", "AR": "اليوم الرياضي", "RU": "спортивный день", "FA": "روز ورزشی", "RO": "ziua sportivă", "emoji_icon": "🏅" },
+{ "key": "L40_VOK_05", "DE": "die Bundesjugendspiele", "AR": "الألعاب الشبابية الاتحادية", "RU": "Федеральные юношеские игры", "FA": "مسابقات ورزشی جوانان", "RO": "jocurile sportive federale", "emoji_icon": "🏃" },
+{ "key": "L40_VOK_06", "DE": "der Wettkampf", "AR": "المسابقة", "RU": "соревнование", "FA": "مسابقه", "RO": "competiția", "emoji_icon": "🏆" },
+{ "key": "L40_VOK_07", "DE": "teilnehmen", "AR": "يشارك", "RU": "участвовать", "FA": "شرکت کردن", "RO": "a participa", "emoji_icon": "🤝" },
+{ "key": "L40_VOK_08", "DE": "die Medaille", "AR": "الميدالية", "RU": "медаль", "FA": "مدال", "RO": "medalia", "emoji_icon": "🥇" },
+{ "key": "L40_VOK_09", "DE": "das Zeugnis (Sport)", "AR": "الشهادة (رياضة)", "RU": "аттестат (спорт)", "FA": "کارنامه ورزشی", "RO": "certificatul (sport)", "emoji_icon": "🏅" },
+{ "key": "L40_VOK_10", "DE": "die Projektwoche", "AR": "أسبوع المشروع", "RU": "проектная неделя", "FA": "هفته پروژه", "RO": "săptămâna proiectului", "emoji_icon": "🧠" },
+{ "key": "L40_VOK_11", "DE": "planen", "AR": "يخطط", "RU": "планировать", "FA": "برنامه‌ریزی کردن", "RO": "a planifica", "emoji_icon": "🗓️" },
+{ "key": "L40_VOK_12", "DE": "organisieren", "AR": "ينظم", "RU": "организовывать", "FA": "سازماندهی کردن", "RO": "a organiza", "emoji_icon": "📋" },
+{ "key": "L40_VOK_13", "DE": "der Besuch (im Museum)", "AR": "الزيارة", "RU": "посещение", "FA": "بازدید", "RO": "vizita", "emoji_icon": "🖼️" },
+{ "key": "L40_VOK_14", "DE": "die Führung", "AR": "الجولة المصحوبة بمرشد", "RU": "экскурсия", "FA": "راهنمایی", "RO": "turul ghidat", "emoji_icon": "🗣️" },
+{ "key": "L40_VOK_15", "DE": "die Aufführung", "AR": "العرض", "RU": "представление", "FA": "اجرا", "RO": "spectacolul", "emoji_icon": "🎭" },
+{ "key": "L40_VOK_16", "DE": "die Dekoration", "AR": "الزينة", "RU": "украшение", "FA": "تزیین", "RO": "decorul", "emoji_icon": "🎀" },
+{ "key": "L40_VOK_17", "DE": "der Kuchen", "AR": "الكعكة", "RU": "пирог", "FA": "کیک", "RO": "prăjitura", "emoji_icon": "🍰" },
+{ "key": "L40_VOK_18", "DE": "das Getränk", "AR": "المشروب", "RU": "напиток", "FA": "نوشیدنی", "RO": "băutura", "emoji_icon": "🥤" },
+{ "key": "L40_VOK_19", "DE": "spenden (für einen guten Zweck)", "AR": "يتبرع", "RU": "жертвовать", "FA": "اهدا کردن", "RO": "a dona", "emoji_icon": "🎁" },
+{ "key": "L40_VOK_20", "DE": "die Spende", "AR": "التبرع", "RU": "пожертвование", "FA": "اهدا", "RO": "donația", "emoji_icon": "💰" },
+{ "key": "L40_VOK_21", "DE": "der Diskoabend", "AR": "أمسية الديسكو", "RU": "диско-вечер", "FA": "شب دیسکو", "RO": "seara de disco", "emoji_icon": "🕺" },
+{ "key": "L40_VOK_22", "DE": "die Schulband", "AR": "فرقة المدرسة", "RU": "школьная группа", "FA": "گروه موسیقی مدرسه", "RO": "formația școlii", "emoji_icon": "🎸" },
+{ "key": "L40_VOK_23", "DE": "der erste Platz", "AR": "المركز الأول", "RU": "первое место", "FA": "مقام اول", "RO": "locul întâi", "emoji_icon": "1️⃣" },
+{ "key": "L40_VOK_24", "DE": "der Verlierer", "AR": "الخاسر", "RU": "проигравший", "FA": "بازنده", "RO": "învinsul", "emoji_icon": "😭" },
+{ "key": "L40_VOK_25", "DE": "der Gewinner", "AR": "الفائز", "RU": "победитель", "FA": "برنده", "RO": "câștigătorul", "emoji_icon": "🏆" },
+{ "key": "L40_VOK_26", "DE": "der Rhythmus", "AR": "الإيقاع", "RU": "ритм", "FA": "ریتم", "RO": "ritmul", "emoji_icon": "🥁" },
+{ "key": "L40_VOK_27", "DE": "die Stimmung (gut/schlecht)", "AR": "المزاج/الجو", "RU": "настроение", "FA": "حال و هوا", "RO": "atmosfera", "emoji_icon": "✨" },
+{ "key": "L40_VOK_28", "DE": "sich vorbereiten", "AR": "يستعد", "RU": "готовиться", "FA": "آماده شدن", "RO": "a se pregăti", "emoji_icon": "📝" },
+{ "key": "L40_VOK_29", "DE": "die Anreise", "AR": "الوصول", "RU": "приезд", "FA": "رسیدن", "RO": "sosirea", "emoji_icon": "➡️" },
+{ "key": "L40_VOK_30", "DE": "die Abreise", "AR": "المغادرة", "RU": "отъезд", "FA": "ترک کردن", "RO": "plecarea", "emoji_icon": "⬅️" }
+],
+"exercises": [
+{ "key": "L40_LÜCKE_01", "type": "gap-fill", "answerKey": "Klassenfahrt", "sentence": { "DE": "Wir fahren drei Tage auf ________.", "AR": "سنذهب في رحلة ________ لمدة ثلاثة أيام.", "RU": "Мы едем на ________ на три дня.", "FA": "ما برای سه روز به ________ می‌رویم.", "RO": "Mergem în ________ pentru trei zile." }, "hint": "Eine mehrtägige Reise mit der Klasse." },
+{ "key": "L40_LÜCKE_02", "type": "gap-fill", "answerKey": "Sporttag", "sentence": { "DE": "Am ________ laufen wir 100 Meter.", "AR": "في ________ نركض 100 متر.", "RU": "В ________ мы бежим 100 метров.", "FA": "در ________، 100 متر می‌دویم.", "RO": "În ________ alergăm 100 de metri." }, "hint": "Der Tag der Wettkämpfe." },
+{ "key": "L40_LÜCKE_03", "type": "gap-fill", "answerKey": "Museum", "sentence": { "DE": "Unsere Klasse besucht heute das ________.", "AR": "صفنا يزور ________ اليوم.", "RU": "Наш класс сегодня посещает ________.", "FA": "کلاس ما امروز از ________ بازدید می‌کند.", "RO": "Clasa noastră vizitează ________ astăzi." }, "hint": "Ein Ort mit alten Dingen und Kunst." },
+{ "key": "L40_ZUORD_04", "type": "matching", "matchDE": "verlieren", "matchKey": "gewinnen", "sentence": { "DE": "Ich will den Wettkampf ________.", "AR": "أريد أن ________ في المسابقة.", "RU": "Я хочу ________ соревнование.", "FA": "من می‌خواهم ________ مسابقه را.", "RO": "Vreau să ________ competiția." }, "hint": "Das Gegenteil von 'verlieren'." }
+]
+}

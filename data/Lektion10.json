@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Körper und Gesundheit",
+"AR": "الجسم والصحة",
+"RU": "Тело и здоровье",
+"FA": "بدن و سلامتی",
+"RO": "Corp și sănătate"
+},
+"vocabulary": [
+{ "key": "L10_VOK_01", "DE": "der Kopf", "AR": "الرأس", "RU": "голова", "FA": "سر", "RO": "capul", "emoji_icon": "😀" },
+{ "key": "L10_VOK_02", "DE": "der Bauch", "AR": "البطن", "RU": "живот", "FA": "شکم", "RO": "burta", "emoji_icon": "🤰" },
+{ "key": "L10_VOK_03", "DE": "der Arm", "AR": "الذراع", "RU": "рука", "FA": "بازو", "RO": "brațul", "emoji_icon": "💪" },
+{ "key": "L10_VOK_04", "DE": "das Bein", "AR": "الساق", "RU": "нога", "FA": "پا", "RO": "piciorul", "emoji_icon": "🦵" },
+{ "key": "L10_VOK_05", "DE": "die Hand", "AR": "اليد", "RU": "кисть", "FA": "دست", "RO": "mâna", "emoji_icon": "✋" },
+{ "key": "L10_VOK_06", "DE": "der Fuß", "AR": "القدم", "RU": "стопа", "FA": "کف پا", "RO": "piciorul (talpa)", "emoji_icon": "🦶" },
+{ "key": "L10_VOK_07", "DE": "die Augen", "AR": "العيون", "RU": "глаза", "FA": "چشم‌ها", "RO": "ochii", "emoji_icon": "👁️" },
+{ "key": "L10_VOK_08", "DE": "die Ohren", "AR": "الآذان", "RU": "уши", "FA": "گوش‌ها", "RO": "urechile", "emoji_icon": "👂" },
+{ "key": "L10_VOK_09", "DE": "der Hals", "AR": "العنق", "RU": "шея/горло", "FA": "گردن", "RO": "gâtul", "emoji_icon": "🧣" },
+{ "key": "L10_VOK_10", "DE": "der Rücken", "AR": "الظهر", "RU": "спина", "FA": "کمر", "RO": "spatele", "emoji_icon": "🔙" },
+{ "key": "L10_VOK_11", "DE": "die Gesundheit", "AR": "الصحة", "RU": "здоровье", "FA": "سلامتی", "RO": "sănătatea", "emoji_icon": "❤️" },
+{ "key": "L10_VOK_12", "DE": "krank", "AR": "مريض", "RU": "больной", "FA": "مریض", "RO": "bolnav", "emoji_icon": "🤒" },
+{ "key": "L10_VOK_13", "DE": "gesund", "AR": "صحي", "RU": "здоровый", "FA": "سالم", "RO": "sănătos", "emoji_icon": "🍏" },
+{ "key": "L10_VOK_14", "DE": "der Schmerz", "AR": "الألم", "RU": "боль", "FA": "درد", "RO": "durerea", "emoji_icon": "💥" },
+{ "key": "L10_VOK_15", "DE": "die Kopfschmerzen", "AR": "الصداع", "RU": "головная боль", "FA": "سردرد", "RO": "durerea de cap", "emoji_icon": "🤕" },
+{ "key": "L10_VOK_16", "DE": "der Husten", "AR": "السعال", "RU": "кашель", "FA": "سرفه", "RO": "tusea", "emoji_icon": "🤧" },
+{ "key": "L10_VOK_17", "DE": "das Fieber", "AR": "الحمى", "RU": "температура", "FA": "تب", "RO": "febra", "emoji_icon": "🌡️" },
+{ "key": "L10_VOK_18", "DE": "der Arzt", "AR": "الطبيب", "RU": "врач", "FA": "دکتر", "RO": "doctorul", "emoji_icon": "👨‍⚕️" },
+{ "key": "L10_VOK_19", "DE": "die Apotheke", "AR": "الصيدلية", "RU": "аптека", "FA": "داروخانه", "RO": "farmacia", "emoji_icon": "🏥" },
+{ "key": "L10_VOK_20", "DE": "die Tablette", "AR": "القرص", "RU": "таблетка", "FA": "قرص", "RO": "pastila", "emoji_icon": "💊" },
+{ "key": "L10_VOK_21", "DE": "wehtun", "AR": "يُؤْلِم", "RU": "болеть", "FA": "درد کردن", "RO": "a durea", "emoji_icon": "🤕" },
+{ "key": "L10_VOK_22", "DE": "schlafen", "AR": "يَنَام", "RU": "спать", "FA": "خوابیدن", "RO": "a dormi", "emoji_icon": "😴" },
+{ "key": "L10_VOK_23", "DE": "ausruhen", "AR": "يَسْتَرِيح", "RU": "отдыхать", "FA": "استراحت کردن", "RO": "a se odihni", "emoji_icon": "🛋️" },
+{ "key": "L10_VOK_24", "DE": "Ich fühle mich...", "AR": "أشعر بـ...", "RU": "Я чувствую себя...", "FA": "احساس می‌کنم...", "RO": "Mă simt...", "emoji_icon": "🙂" },
+{ "key": "L10_VOK_25", "DE": "Mir ist schlecht.", "AR": "أنا مريض.", "RU": "Мне плохо.", "FA": "من حالم بد است.", "RO": "Mi-e rău.", "emoji_icon": "🤢" },
+{ "key": "L10_VOK_26", "DE": "Zum Arzt gehen", "AR": "الذهاب إلى الطبيب", "RU": "идти к врачу", "FA": "نزد دکتر رفتن", "RO": "a merge la doctor", "emoji_icon": "👨‍⚕️" },
+{ "key": "L10_VOK_27", "DE": "die Besserung", "AR": "التحسن", "RU": "выздоровление", "FA": "بهبودی", "RO": "însănătoșirea", "emoji_icon": "👍" },
+{ "key": "L10_VOK_28", "DE": "die Verletzung", "AR": "الإصابة", "RU": "травма", "FA": "آسیب", "RO": "vătămarea", "emoji_icon": "🤕" },
+{ "key": "L10_VOK_29", "DE": "die Behandlung", "AR": "العلاج", "RU": "лечение", "FA": "درمان", "RO": "tratamentul", "emoji_icon": "🩹" },
+{ "key": "L10_VOK_30", "DE": "gute Besserung", "AR": "أتمنى لك الشفاء", "RU": "выздоравливай", "FA": "بهبودی سریع", "RO": "însănătoșire grabnică", "emoji_icon": "🍀" }
+],
+"exercises": [
+{ "key": "L10_LÜCKE_01", "type": "gap-fill", "answerKey": "Kopf", "sentence": { "DE": "Ich habe starke Schmerzen im ________.", "AR": "لدي ألم قوي في الـ ________.", "RU": "У меня сильная боль в ________.", "FA": "من درد شدیدی در ________ دارم.", "RO": "Am dureri puternice de ________." }, "hint": "Das Teil des Körpers, auf dem die Haare wachsen." },
+{ "key": "L10_LÜCKE_02", "type": "gap-fill", "answerKey": "Arzt", "sentence": { "DE": "Wenn ich Fieber habe, gehe ich zum ________.", "AR": "عندما يكون لدي حمى، أذهب إلى ________.", "RU": "Когда у меня жар, я иду к ________.", "FA": "وقتی تب دارم، نزد ________ می‌روم.", "RO": "Când am febră, merg la ________." }, "hint": "Der Mensch, der dir hilft, wenn du krank bist." },
+{ "key": "L10_LÜCKE_03", "type": "gap-fill", "answerKey": "Tablette", "sentence": { "DE": "Ich nehme eine ________ gegen die Schmerzen.", "AR": "آخذ ________ ضد الألم.", "RU": "Я принимаю ________ от боли.", "FA": "من یک ________ برای درد می‌خورم.", "RO": "Eu iau o ________ împotriva durerii." }, "hint": "Das kleine Medikament aus der Apotheke." },
+{ "key": "L10_ZUORD_04", "type": "matching", "matchDE": "wehtun", "matchKey": "Schmerz", "sentence": { "DE": "Wo ist der ________?", "AR": "أين هو ________؟", "RU": "Где ________?", "FA": " ________ کجاست؟", "RO": "Unde este ________?" }, "hint": "Das Gefühl, wenn dir etwas wehtut." }
+]
+}

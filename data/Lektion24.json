@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Ämter und Verwaltung",
+"AR": "المكاتب والإدارة",
+"RU": "Органы власти и управление",
+"FA": "ادارات و مدیریت",
+"RO": "Instituții și administrație"
+},
+"vocabulary": [
+{ "key": "L24_VOK_01", "DE": "das Amt/die Behörde", "AR": "المكتب/الهيئة", "RU": "орган власти", "FA": "اداره", "RO": "instituția", "emoji_icon": "🏛️" },
+{ "key": "L24_VOK_02", "DE": "das Rathaus", "AR": "مبنى البلدية", "RU": "мэрия", "FA": "شهرداری", "RO": "primăria", "emoji_icon": "🏛️" },
+{ "key": "L24_VOK_03", "DE": "das Bürgerbüro", "AR": "مكتب المواطنين", "RU": "бюро по работе с гражданами", "FA": "اداره شهروندی", "RO": "biroul cetățenilor", "emoji_icon": "📝" },
+{ "key": "L24_VOK_04", "DE": "der Antrag", "AR": "الطلب", "RU": "заявление", "FA": "درخواست", "RO": "cererea", "emoji_icon": "📄" },
+{ "key": "L24_VOK_05", "DE": "ausfüllen", "AR": "يملأ", "RU": "заполнять", "FA": "پر کردن", "RO": "a completa", "emoji_icon": "✍️" },
+{ "key": "L24_VOK_06", "DE": "unterschreiben", "AR": "يوقع", "RU": "подписывать", "FA": "امضا کردن", "RO": "a semna", "emoji_icon": "🖋️" },
+{ "key": "L24_VOK_07", "DE": "der Ausweis", "AR": "بطاقة الهوية", "RU": "удостоверение", "FA": "کارت شناسایی", "RO": "actul de identitate", "emoji_icon": "💳" },
+{ "key": "L24_VOK_08", "DE": "die Zulassung (Kfz)", "AR": "تسجيل المركبة", "RU": "регистрация ТС", "FA": "مجوز (ماشین)", "RO": "înmatricularea (auto)", "emoji_icon": "🚗" },
+{ "key": "L24_VOK_09", "DE": "das Jugendamt", "AR": "مكتب رعاية الشباب", "RU": "отдел по делам молодежи", "FA": "اداره جوانان", "RO": "serviciul social pentru minori", "emoji_icon": "🧑‍🍼" },
+{ "key": "L24_VOK_10", "DE": "die Hundesteuer", "AR": "ضريبة الكلاب", "RU": "налог на собак", "FA": "مالیات سگ", "RO": "taxa pentru câini", "emoji_icon": "🐕" },
+{ "key": "L24_VOK_11", "DE": "die Beglaubigung", "AR": "التصديق", "RU": "заверение", "FA": "تأییدیه", "RO": "legalizarea", "emoji_icon": "📜" },
+{ "key": "L24_VOK_12", "DE": "die Gebühr", "AR": "الرسوم", "RU": "пошлина", "FA": "هزینه", "RO": "taxa", "emoji_icon": "💶" },
+{ "key": "L24_VOK_13", "DE": "der Termin", "AR": "الموعد", "RU": "встреча", "FA": "قرار ملاقات", "RO": "programarea", "emoji_icon": "🗓️" },
+{ "key": "L24_VOK_14", "DE": "warten", "AR": "ينتظر", "RU": "ждать", "FA": "منتظر ماندن", "RO": "a aștepta", "emoji_icon": "⏱️" },
+{ "key": "L24_VOK_15", "DE": "die Nummer ziehen", "AR": "أخذ رقم", "RU": "взять номер", "FA": "نوبت گرفتن", "RO": "a lua un număr", "emoji_icon": "🔢" },
+{ "key": "L24_VOK_16", "DE": "der Beamte/die Beamtin", "AR": "الموظف/الموظفة", "RU": "чиновник", "FA": "کارمند", "RO": "funcționarul", "emoji_icon": "🧑‍💼" },
+{ "key": "L24_VOK_17", "DE": "der Schalter", "AR": "النافذة/الكونتر", "RU": "окошко", "FA": "پنجره", "RO": "ghișeul", "emoji_icon": "🗄️" },
+{ "key": "L24_VOK_18", "DE": "der Personalausweis", "AR": "بطاقة الهوية الشخصية", "RU": "паспорт", "FA": "کارت ملی", "RO": "cartea de identitate", "emoji_icon": "💳" },
+{ "key": "L24_VOK_19", "DE": "die Meldebescheinigung", "AR": "شهادة التسجيل", "RU": "свидетельство о регистрации", "FA": "گواهی ثبت", "RO": "certificatul de înregistrare", "emoji_icon": "📝" },
+{ "key": "L24_VOK_20", "DE": "die Unterschrift", "AR": "التوقيع", "RU": "подпись", "FA": "امضا", "RO": "semnătura", "emoji_icon": "🖋️" },
+{ "key": "L24_VOK_21", "DE": "Ich habe einen Termin.", "AR": "لدي موعد.", "RU": "У меня есть запись.", "FA": "من وقت ملاقات دارم.", "RO": "Am o programare.", "emoji_icon": "🗓️" },
+{ "key": "L24_VOK_22", "DE": "Ich brauche das Formular.", "AR": "أحتاج النموذج.", "RU": "Мне нужна форма.", "FA": "من به فرم نیاز دارم.", "RO": "Am nevoie de formular.", "emoji_icon": "📄" },
+{ "key": "L24_VOK_23", "DE": "Wo muss ich hingehen?", "AR": "إلى أين يجب أن أذهب؟", "RU": "Куда мне нужно идти?", "FA": "کجا باید بروم؟", "RO": "Unde trebuie să merg?", "emoji_icon": "❓" },
+{ "key": "L24_VOK_24", "DE": "der Vordruck", "AR": "الاستمارة", "RU": "бланк", "FA": "فرم", "RO": "formularul", "emoji_icon": "📝" },
+{ "key": "L24_VOK_25", "DE": "der Stempel", "AR": "الختم", "RU": "печать", "FA": "مهر", "RO": "ștampila", "emoji_icon": "✅" },
+{ "key": "L24_VOK_26", "DE": "das Original", "AR": "الأصل", "RU": "оригинал", "FA": "اصل", "RO": "originalul", "emoji_icon": "⭐" },
+{ "key": "L24_VOK_27", "DE": "die Kopie", "AR": "النسخة", "RU": "копия", "FA": "کپی", "RO": "copia", "emoji_icon": "📑" },
+{ "key": "L24_VOK_28", "DE": "Wann ist es fertig?", "AR": "متى سيكون جاهزاً؟", "RU": "Когда это будет готово?", "FA": "کی حاضر می‌شود؟", "RO": "Când este gata?", "emoji_icon": "⏱️" },
+{ "key": "L24_VOK_29", "DE": "Gültigkeit", "AR": "الصلاحية", "RU": "срок действия", "FA": "اعتبار", "RO": "valabilitatea", "emoji_icon": "✅" },
+{ "key": "L24_VOK_30", "DE": "die Verlängerung", "AR": "التمديد", "RU": "продление", "FA": "تمدید", "RO": "prelungirea", "emoji_icon": "🔁" }
+],
+"exercises": [
+{ "key": "L24_LÜCKE_01", "type": "gap-fill", "answerKey": "Rathaus", "sentence": { "DE": "Ich gehe zum ________, um meinen Ausweis zu verlängern.", "AR": "أذهب إلى ________ لتجديد هويتي.", "RU": "Я иду в ________, чтобы продлить удостоверение.", "FA": "من برای تمدید کارت شناسایی به ________ می‌روم.", "RO": "Merg la ________ să-mi reînnoiesc actul." }, "hint": "Das Gebäude der Stadtverwaltung." },
+{ "key": "L24_LÜCKE_02", "type": "gap-fill", "answerKey": "unterschreiben", "sentence": { "DE": "Sie müssen das Formular ________.", "AR": "يجب عليك ________ النموذج.", "RU": "Вы должны ________ формуляр.", "FA": "شما باید فرم را ________ کنید.", "RO": "Trebuie să ________ formularul." }, "hint": "Den Namen mit dem Stift unter das Dokument setzen." },
+{ "key": "L24_LÜCKE_03", "type": "gap-fill", "answerKey": "Gebühr", "sentence": { "DE": "Für die Anmeldung muss ich eine ________ zahlen.", "AR": "لتسجيل يجب علي دفع ________.", "RU": "Для регистрации я должен заплатить ________.", "FA": "برای ثبت نام باید ________ بپردازم.", "RO": "Pentru înregistrare trebuie să plătesc o ________." }, "hint": "Das Geld, das das Amt verlangt (Gebühren)." },
+{ "key": "L24_ZUORD_04", "type": "matching", "matchDE": "Ausweis", "matchKey": "Meldebescheinigung", "sentence": { "DE": "Ich brauche meinen ________ und die ________.", "AR": "أحتاج ________ و ________.", "RU": "Мне нужно ________ и ________.", "FA": "من به ________ و ________ نیاز دارم.", "RO": "Am nevoie de ________ și de ________." }, "hint": "Das Dokument, das die Adresse bestätigt." }
+]
+}

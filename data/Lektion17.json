@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Medien und Internet",
+"AR": "الإعلام والإنترنت",
+"RU": "Медиа и Интернет",
+"FA": "رسانه و اینترنت",
+"RO": "Media și Internetul"
+},
+"vocabulary": [
+{ "key": "L17_VOK_01", "DE": "das Handy", "AR": "الهاتف المحمول", "RU": "телефон", "FA": "موبایل", "RO": "telefonul", "emoji_icon": "📱" },
+{ "key": "L17_VOK_02", "DE": "der Computer", "AR": "الكمبيوتر", "RU": "компьютер", "FA": "کامپیوتر", "RO": "calculatorul", "emoji_icon": "💻" },
+{ "key": "L17_VOK_03", "DE": "das Internet", "AR": "الإنترنت", "RU": "Интернет", "FA": "اینترنت", "RO": "internetul", "emoji_icon": "🌐" },
+{ "key": "L17_VOK_04", "DE": "die App", "AR": "التطبيق", "RU": "приложение", "FA": "برنامه (اپلیکیشن)", "RO": "aplicația", "emoji_icon": "📲" },
+{ "key": "L17_VOK_05", "DE": "chatten", "AR": "يُدَرْدِش", "RU": "переписываться", "FA": "چت کردن", "RO": "a chatui", "emoji_icon": "💬" },
+{ "key": "L17_VOK_06", "DE": "posten", "AR": "يَنْشُر", "RU": "публиковать", "FA": "پست کردن", "RO": "a posta", "emoji_icon": "📤" },
+{ "key": "L17_VOK_07", "DE": "surfen", "AR": "يَتَصَفَّح", "RU": "серфить", "FA": "وبگردی کردن", "RO": "a naviga", "emoji_icon": "🏄" },
+{ "key": "L17_VOK_08", "DE": "die Nachricht", "AR": "الرسالة", "RU": "сообщение", "FA": "پیام", "RO": "mesajul", "emoji_icon": "✉️" },
+{ "key": "L17_VOK_09", "DE": "die sozialen Medien", "AR": "وسائل التواصل الاجتماعي", "RU": "социальные сети", "FA": "رسانه‌های اجتماعی", "RO": "rețelele sociale", "emoji_icon": "📲" },
+{ "key": "L17_VOK_10", "DE": "das Video", "AR": "الفيديو", "RU": "видео", "FA": "ویدیو", "RO": "videoclipul", "emoji_icon": "🎬" },
+{ "key": "L17_VOK_11", "DE": "streamen", "AR": "يَبُث", "RU": "стримить", "FA": "استریم کردن", "RO": "a face streaming", "emoji_icon": "▶️" },
+{ "key": "L17_VOK_12", "DE": "die E-Mail", "AR": "البريد الإلكتروني", "RU": "электронное письмо", "FA": "ایمیل", "RO": "e-mailul", "emoji_icon": "📧" },
+{ "key": "L17_VOK_13", "DE": "sicher", "AR": "آمن", "RU": "безопасный", "FA": "امن", "RO": "sigur", "emoji_icon": "🔒" },
+{ "key": "L17_VOK_14", "DE": "Passwort", "AR": "كلمة المرور", "RU": "пароль", "FA": "رمز عبور", "RO": "parola", "emoji_icon": "🔑" },
+{ "key": "L17_VOK_15", "DE": "der Bildschirm", "AR": "الشاشة", "RU": "экран", "FA": "صفحه نمایش", "RO": "ecranul", "emoji_icon": "🖥️" },
+{ "key": "L17_VOK_16", "DE": "downloaden", "AR": "يُحَمِّل", "RU": "скачивать", "FA": "دانلود کردن", "RO": "a descărca", "emoji_icon": "📥" },
+{ "key": "L17_VOK_17", "DE": "hochladen", "AR": "يَرْفَع", "RU": "загружать", "FA": "آپلود کردن", "RO": "a încărca", "emoji_icon": "📤" },
+{ "key": "L17_VOK_18", "DE": "teilen", "AR": "يُشَارِك", "RU": "делиться", "FA": "اشتراک گذاشتن", "RO": "a distribui", "emoji_icon": "🔗" },
+{ "key": "L17_VOK_19", "DE": "die Fake News", "AR": "الأخبار الكاذبة", "RU": "фейковые новости", "FA": "اخبار جعلی", "RO": "știri false", "emoji_icon": "🤥" },
+{ "key": "L17_VOK_20", "DE": "checken/prüfen", "AR": "يَتَحَقَّق", "RU": "проверять", "FA": "بررسی کردن", "RO": "a verifica", "emoji_icon": "🔍" },
+{ "key": "L17_VOK_21", "DE": "die Quelle", "AR": "المصدر", "RU": "источник", "FA": "منبع", "RO": "sursa", "emoji_icon": "📜" },
+{ "key": "L17_VOK_22", "DE": "löschen", "AR": "يَحْذِف", "RU": "удалять", "FA": "حذف کردن", "RO": "a șterge", "emoji_icon": "🗑️" },
+{ "key": "L17_VOK_23", "DE": "speichern", "AR": "يَحْفَظ", "RU": "сохранять", "FA": "ذخیره کردن", "RO": "a salva", "emoji_icon": "💾" },
+{ "key": "L17_VOK_24", "DE": "Ich habe kein Netz.", "AR": "ليس لدي شبكة.", "RU": "У меня нет сети.", "FA": "من آنتن ندارم.", "RO": "Nu am semnal.", "emoji_icon": "📶" },
+{ "key": "L17_VOK_25", "DE": "Ich bin online.", "AR": "أنا متصل.", "RU": "Я онлайн.", "FA": "من آنلاین هستم.", "RO": "Sunt online.", "emoji_icon": "🟢" },
+{ "key": "L17_VOK_26", "DE": "der Kommentar", "AR": "التعليق", "RU": "комментарий", "FA": "نظر", "RO": "comentariul", "emoji_icon": "💭" },
+{ "key": "L17_VOK_27", "DE": "der Link", "AR": "الرابط", "RU": "ссылка", "FA": "لینک", "RO": "link-ul", "emoji_icon": "📎" },
+{ "key": "L17_VOK_28", "DE": "die Webseite", "AR": "الموقع الإلكتروني", "RU": "веб-сайт", "FA": "وبسایت", "RO": "site-ul web", "emoji_icon": "🌐" },
+{ "key": "L17_VOK_29", "DE": "das Profil", "AR": "الملف الشخصي", "RU": "профиль", "FA": "پروفایل", "RO": "profilul", "emoji_icon": "👤" },
+{ "key": "L17_VOK_30", "DE": "vorsichtig sein", "AR": "أن يكون حذراً", "RU": "быть осторожным", "FA": "مراقب بودن", "RO": "a fi atent", "emoji_icon": "👀" }
+],
+"exercises": [
+{ "key": "L17_LÜCKE_01", "type": "gap-fill", "answerKey": "chatten", "sentence": { "DE": "Am Abend ________ ich mit meinen Freunden.", "AR": "في المساء ________ مع أصدقائي.", "RU": "Вечером я ________ со своими друзьями.", "FA": "من شب با دوستانم ________ می‌کنم.", "RO": "Seara ________ cu prietenii mei." }, "hint": "Das Verb für Textnachrichten senden." },
+{ "key": "L17_LÜCKE_02", "type": "gap-fill", "answerKey": "sicher", "sentence": { "DE": "Im Internet muss man ________ sein.", "AR": "في الإنترنت يجب أن يكون المرء ________.", "RU": "В Интернете нужно быть ________.", "FA": "در اینترنت باید ________ بود.", "RO": "Pe internet trebuie să fii ________." }, "hint": "Das Gegenteil von 'gefährlich'." },
+{ "key": "L17_LÜCKE_03", "type": "gap-fill", "answerKey": "Video", "sentence": { "DE": "Ich schaue mir ein ________ auf YouTube an.", "AR": "أنا أشاهد ________ على يوتيوب.", "RU": "Я смотрю ________ на YouTube.", "FA": "من یک ________ در یوتیوب تماشا می‌کنم.", "RO": "Mă uit la un ________ pe YouTube." }, "hint": "Bewegte Bilder mit Ton." },
+{ "key": "L17_ZUORD_04", "type": "matching", "matchDE": "downloaden", "matchKey": "hochladen", "sentence": { "DE": "Man kann Bilder ________ und herunterladen.", "AR": "يمكن للمرء ________ الصور وتنزيلها.", "RU": "Можно ________ и скачивать фотографии.", "FA": "می‌توان عکس‌ها را ________ و دانلود کرد.", "RO": "Poți ________ și descărca imagini." }, "hint": "Das Gegenteil von 'herunterladen'." }
+]
+}

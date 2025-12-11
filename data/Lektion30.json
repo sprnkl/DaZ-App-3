@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Advent & Weihnachten",
+"AR": "المجيء وعيد الميلاد",
+"RU": "Адвент и Рождество",
+"FA": "ظهور و کریسمس",
+"RO": "Advent și Crăciun"
+},
+"vocabulary": [
+{ "key": "L30_VOK_01", "DE": "der Advent", "AR": "المجيء", "RU": "Адвент", "FA": "ظهور", "RO": "Adventul", "emoji_icon": "🕯️" },
+{ "key": "L30_VOK_02", "DE": "die Kerze", "AR": "الشمعة", "RU": "свеча", "FA": "شمع", "RO": "lumânarea", "emoji_icon": "🕯️" },
+{ "key": "L30_VOK_03", "DE": "der Adventskranz", "AR": "إكليل المجيء", "RU": "венок Адвента", "FA": "تاج ظهور", "RO": "coroana de Advent", "emoji_icon": "🌿" },
+{ "key": "L30_VOK_04", "DE": "der Nikolaustag (6. Dez)", "AR": "يوم القديس نيكولاس", "RU": "День Святого Николая", "FA": "روز سنت نیکلاس", "RO": "Ziua Sf. Nicolae", "emoji_icon": "🎅" },
+{ "key": "L30_VOK_05", "DE": "Weihnachten (25./26. Dez)", "AR": "عيد الميلاد", "RU": "Рождество", "FA": "کریسمس", "RO": "Crăciunul", "emoji_icon": "🎄" },
+{ "key": "L30_VOK_06", "DE": "Heiligabend (24. Dez)", "AR": "عشية الميلاد", "RU": "Сочельник", "FA": "شب کریسمس", "RO": "Ajunul Crăciunului", "emoji_icon": "🎁" },
+{ "key": "L30_VOK_07", "DE": "der Weihnachtsbaum", "AR": "شجرة عيد الميلاد", "RU": "рождественская елка", "FA": "درخت کریسمس", "RO": "bradul de Crăciun", "emoji_icon": "🎄" },
+{ "key": "L30_VOK_08", "DE": "das Geschenk", "AR": "الهدية", "RU": "подарок", "FA": "هدیه", "RO": "cadoul", "emoji_icon": "🎁" },
+{ "key": "L30_VOK_09", "DE": "schenken", "AR": "يهدي", "RU": "дарить", "FA": "هدیه دادن", "RO": "a dărui", "emoji_icon": "🎁" },
+{ "key": "L30_VOK_10", "DE": "die Krippe", "AR": "المذود", "RU": "вертеп", "FA": "آخور", "RO": "ieslea", "emoji_icon": "👶" },
+{ "key": "L30_VOK_11", "DE": "der Weihnachtsmann", "AR": "بابا نويل", "RU": "Дед Мороз", "FA": "بابا نوئل", "RO": "Moș Crăciun", "emoji_icon": "🎅" },
+{ "key": "L30_VOK_12", "DE": "die Familie", "AR": "العائلة", "RU": "семья", "FA": "خانواده", "RO": "familia", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L30_VOK_13", "DE": "backen", "AR": "يخبز", "RU": "печь", "FA": "پختن", "RO": "a coace", "emoji_icon": "🍪" },
+{ "key": "L30_VOK_14", "DE": "der Plätzchen", "AR": "بسكويت", "RU": "печенье", "FA": "شیرینی", "RO": "prăjitura", "emoji_icon": "🍪" },
+{ "key": "L30_VOK_15", "DE": "der Weihnachtsmarkt", "AR": "سوق عيد الميلاد", "RU": "рождественская ярмарка", "FA": "بازار کریسمس", "RO": "târgul de Crăciun", "emoji_icon": "🎠" },
+{ "key": "L30_VOK_16", "DE": "der Glühwein", "AR": "نبيذ ساخن", "RU": "глинтвейн", "FA": "شراب داغ", "RO": "vin fiert", "emoji_icon": "🍷" },
+{ "key": "L30_VOK_17", "DE": "die Stille Nacht (Lied)", "AR": "ليلة صامتة", "RU": "Тихая ночь", "FA": "شب آرام", "RO": "Noapte de vis", "emoji_icon": "🎶" },
+{ "key": "L30_VOK_18", "DE": "der Winter", "AR": "الشتاء", "RU": "зима", "FA": "زمستان", "RO": "iarna", "emoji_icon": "🥶" },
+{ "key": "L30_VOK_19", "DE": "der Schnee", "AR": "الثلج", "RU": "снег", "FA": "برف", "RO": "zăpada", "emoji_icon": "❄️" },
+{ "key": "L30_VOK_20", "DE": "die Bescherung", "AR": "توزيع الهدايا", "RU": "вручение подарков", "FA": "تقسیم هدایا", "RO": "împărțirea cadourilor", "emoji_icon": "🎁" },
+{ "key": "L30_VOK_21", "DE": "das Fest", "AR": "العيد", "RU": "праздник", "FA": "جشن", "RO": "sărbătoare", "emoji_icon": "🥳" },
+{ "key": "L30_VOK_22", "DE": "der Jahreswechsel", "AR": "انتقال السنة", "RU": "смена года", "FA": "تغییر سال", "RO": "schimbarea anului", "emoji_icon": "🗓️" },
+{ "key": "L30_VOK_23", "DE": "die Adventszeit", "AR": "زمن المجيء", "RU": "время Адвента", "FA": "زمان ظهور", "RO": "timpul Adventului", "emoji_icon": "🗓️" },
+{ "key": "L30_VOK_24", "DE": "die Besinnlichkeit", "AR": "التأمل", "RU": "созерцательность", "FA": "آرامش درونی", "RO": "liniștea sufletească", "emoji_icon": "🧘" },
+{ "key": "L30_VOK_25", "DE": "Wann feiert man?", "AR": "متى يحتفل الناس؟", "RU": "Когда празднуют?", "FA": "چه زمانی جشن می‌گیرند؟", "RO": "Când se sărbătorește?", "emoji_icon": "❓" },
+{ "key": "L30_VOK_26", "DE": "die Tanne/der Nadelbaum", "AR": "شجرة التنوب", "RU": "ель", "FA": "درخت کاج", "RO": "bradul", "emoji_icon": "🌲" },
+{ "key": "L30_VOK_27", "DE": "der Tannenbaumschmuck", "AR": "زينة شجرة التنوب", "RU": "украшение елки", "FA": "تزیین درخت کاج", "RO": "decorațiunile de brad", "emoji_icon": "🌟" },
+{ "key": "L30_VOK_28", "DE": "das Lied", "AR": "الأغنية", "RU": "песня", "FA": "آهنگ", "RO": "cântecul", "emoji_icon": "🎶" },
+{ "key": "L30_VOK_29", "DE": "Gänsebraten", "AR": "وزة مشوية", "RU": "жареный гусь", "FA": "غاز بریان", "RO": "friptură de gâscă", "emoji_icon": "🍗" },
+{ "key": "L30_VOK_30", "DE": "die Bescherung", "AR": "توزيع الهدايا", "RU": "вручение подарков", "FA": "تقسیم هدایا", "RO": "împărțirea cadourilor", "emoji_icon": "🎁" }
+],
+"exercises": [
+{ "key": "L30_LÜCKE_01", "type": "gap-fill", "answerKey": "Tannenbaum", "sentence": { "DE": "Wir stellen einen ________ in das Wohnzimmer.", "AR": "نضع ________ في غرفة المعيشة.", "RU": "Мы ставим ________ в гостиной.", "FA": "ما یک ________ در اتاق نشیمن می‌گذاریم.", "RO": "Punem un ________ în sufragerie." }, "hint": "Der Baum zu Weihnachten." },
+{ "key": "L30_LÜCKE_02", "type": "gap-fill", "answerKey": "Kerze", "sentence": { "DE": "Jede Woche zünden wir eine neue ________ an.", "AR": "كل أسبوع نشعل ________ جديدة.", "RU": "Каждую неделю мы зажигаем новую ________.", "FA": "هر هفته ما یک ________ جدید روشن می‌کنیم.", "RO": "În fiecare săptămână aprindem o ________ nouă." }, "hint": "Wird im Adventskranz angezündet." },
+{ "key": "L30_LÜCKE_03", "type": "gap-fill", "answerKey": "Geschenke", "sentence": { "DE": "An Heiligabend tauschen wir ________ aus.", "AR": "في ليلة الميلاد نتبادل ________.", "RU": "В Сочельник мы обмениваемся ________.", "FA": "در شب کریسمس ________ رد و بدل می‌کنیم.", "RO": "În Ajunul Crăciunului facem schimb de ________." }, "hint": "Das Objekt, das man bekommt (Plural)." },
+{ "key": "L30_ZUORD_04", "type": "matching", "matchDE": "Weihnachten", "matchKey": "Ostern", "sentence": { "DE": "________ ist im Winter, Ostern ist im Frühling.", "AR": " ________ في الشتاء، وعيد الفصح في الربيع.", "RU": " ________ зимой, а Пасха весной.", "FA": " ________ در زمستان است، عید پاک در بهار.", "RO": " ________ este iarna, Paștele este primăvara." }, "hint": "Das große Fest im Dezember." }
+]
+}

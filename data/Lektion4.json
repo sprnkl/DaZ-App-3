@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Die Schule als Gebäude",
+"AR": "المبنى المدرسي",
+"RU": "Здание школы",
+"FA": "ساختمان مدرسه",
+"RO": "Clădirea școlii"
+},
+"vocabulary": [
+{ "key": "L4_VOK_01", "DE": "das Sekretariat", "AR": "السكرتارية", "RU": "секретариат", "FA": "دفتر اداری", "RO": "secretariatul", "emoji_icon": "🧑‍💼" },
+{ "key": "L4_VOK_02", "DE": "die Sporthalle", "AR": "قاعة الرياضة", "RU": "спортзал", "FA": "سالن ورزش", "RO": "sala de sport", "emoji_icon": "🏟️" },
+{ "key": "L4_VOK_03", "DE": "die Cafeteria", "AR": "الكافيتريا", "RU": "كافيتريا", "FA": "کافه‌تریا", "RO": "cantina", "emoji_icon": "🍔" },
+{ "key": "L4_VOK_04", "DE": "die Toilette", "AR": "المرحاض", "RU": "туалет", "FA": "دستشویی", "RO": "toaleta", "emoji_icon": "🚽" },
+{ "key": "L4_VOK_05", "DE": "die Bibliothek", "AR": "المكتبة", "RU": "библиотека", "FA": "کتابخانه", "RO": "biblioteca", "emoji_icon": "📚" },
+{ "key": "L4_VOK_06", "DE": "der Flur", "AR": "الممر", "RU": "коридор", "FA": "راهرو", "RO": "holul", "emoji_icon": "🚶" },
+{ "key": "L4_VOK_07", "DE": "die Treppe", "AR": "الدرج", "RU": "лестница", "FA": "پله", "RO": "scara", "emoji_icon": "🪜" },
+{ "key": "L4_VOK_08", "DE": "die Etage (Stock)", "AR": "الطابق", "RU": "этаж", "FA": "طبقه", "RO": "etajul", "emoji_icon": "🏢" },
+{ "key": "L4_VOK_09", "DE": "oben", "AR": "فوق", "RU": "наверху", "FA": "بالا", "RO": "sus", "emoji_icon": "⬆️" },
+{ "key": "L4_VOK_10", "DE": "unten", "AR": "تحت", "RU": "внизу", "FA": "پایین", "RO": "jos", "emoji_icon": "⬇️" },
+{ "key": "L4_VOK_11", "DE": "der Pausenhof", "AR": "ساحة الاستراحة", "RU": "школьный двор", "FA": "حیاط مدرسه", "RO": "curtea școlii", "emoji_icon": "🌳" },
+{ "key": "L4_VOK_12", "DE": "die Aula", "AR": "القاعة الكبرى", "RU": "актовый зал", "FA": "سالن اجتماعات", "RO": "sala de festivități", "emoji_icon": "🎤" },
+{ "key": "L4_VOK_13", "DE": "suchen", "AR": "يَبْحَث", "RU": "искать", "FA": "جستجو کردن", "RO": "a căuta", "emoji_icon": "❓" },
+{ "key": "L4_VOK_14", "DE": "finden", "AR": "يَجِد", "RU": "находить", "FA": "پیدا کردن", "RO": "a găsi", "emoji_icon": "✔️" },
+{ "key": "L4_VOK_15", "DE": "dürfen", "AR": "يُسمَح", "RU": "разрешено", "FA": "اجازه داشتن", "RO": "a avea voie", "emoji_icon": "✅" },
+{ "key": "L4_VOK_16", "DE": "müssen", "AR": "يَجِب", "RU": "должен", "FA": "باید", "RO": "a trebui", "emoji_icon": "⚠️" },
+{ "key": "L4_VOK_17", "DE": "der Schlüssel", "AR": "المفتاح", "RU": "ключ", "FA": "کلید", "RO": "cheia", "emoji_icon": "🔑" },
+{ "key": "L4_VOK_18", "DE": "die Anmeldung", "AR": "التسجيل", "RU": "регистрация", "FA": "ثبت نام", "RO": "înregistrarea", "emoji_icon": "📝" },
+{ "key": "L4_VOK_19", "DE": "die Krankmeldung", "AR": "إخطار المرض", "RU": "уведомление о болезни", "FA": "اطلاع بیماری", "RO": "înștiințarea de boală", "emoji_icon": "🤒" },
+{ "key": "L4_VOK_20", "DE": "der Erste-Hilfe-Raum", "AR": "غرفة الإسعافات", "RU": "пункт первой помощи", "FA": "اتاق کمک‌های اولیه", "RO": "camera de prim ajutor", "emoji_icon": "🩹" },
+{ "key": "L4_VOK_21", "DE": "das Erdgeschoss", "AR": "الطابق الأرضي", "RU": "первый этаж", "FA": "طبقه همکف", "RO": "parterul", "emoji_icon": "1️⃣" },
+{ "key": "L4_VOK_22", "DE": "der Lift/Aufzug", "AR": "المصعد", "RU": "лифт", "FA": "آسانسور", "RO": "liftul", "emoji_icon": "⬆️⬇️" },
+{ "key": "L4_VOK_23", "DE": "offen", "AR": "مفتوح", "RU": "открытый", "FA": "باز", "RO": "deschis", "emoji_icon": "🔓" },
+{ "key": "L4_VOK_24", "DE": "geschlossen", "AR": "مغلق", "RU": "закрытый", "FA": "بسته", "RO": "închis", "emoji_icon": "🔒" },
+{ "key": "L4_VOK_25", "DE": "wichtig", "AR": "مهم", "RU": "важный", "FA": "مهم", "RO": "important", "emoji_icon": "⭐" },
+{ "key": "L4_VOK_26", "DE": "bitte", "AR": "من فضلك", "RU": "пожалуйста", "FA": "لطفا", "RO": "te rog", "emoji_icon": "🙏" },
+{ "key": "L4_VOK_27", "DE": "danke", "AR": "شكراً", "RU": "спасибо", "FA": "ممنون", "RO": "mulțumesc", "emoji_icon": "👍" },
+{ "key": "L4_VOK_28", "DE": "Wie komme ich zu...?", "AR": "كيف أصل إلى...؟", "RU": "Как мне попасть к...?", "FA": "چگونه به ... برسم؟", "RO": "Cum ajung la...?", "emoji_icon": "🗺️" },
+{ "key": "L4_VOK_29", "DE": "Das ist verboten.", "AR": "هذا ممنوع.", "RU": "Это запрещено.", "FA": "این ممنوع است.", "RO": "Este interzis.", "emoji_icon": "❌" },
+{ "key": "L4_VOK_30", "DE": "Das ist erlaubt.", "AR": "هذا مسموح.", "RU": "Это разрешено.", "FA": "این مجاز است.", "RO": "Es ist erlaubt.", "emoji_icon": "✔️" }
+],
+"exercises": [
+{ "key": "L4_LÜCKE_01", "type": "gap-fill", "answerKey": "Sekretariat", "sentence": { "DE": "Wenn ich krank bin, ruft mein Vater im ________ an.", "AR": "إذا كنت مريضاً، يتصل والدي بـ ________.", "RU": "Если я болен, мой папа звонит в ________.", "FA": "اگر مریض باشم، پدرم به ________ زنگ می‌زند.", "RO": "Dacă sunt bolnav, tatăl meu sună la ________." }, "hint": "Hier arbeiten die Damen im Büro." },
+{ "key": "L4_LÜCKE_02", "type": "gap-fill", "answerKey": "oben", "sentence": { "DE": "Unser Klassenzimmer ist ________ im ersten Stock.", "AR": "فصلنا الدراسي هو ________ في الطابق الأول.", "RU": "Наш класс находится ________ на первом этаже.", "FA": "کلاس ما ________ در طبقه اول است.", "RO": "Clasa noastră este ________ la primul etaj." }, "hint": "Gegenteil von 'unten'." },
+{ "key": "L4_LÜCKE_03", "type": "gap-fill", "answerKey": "dürfen", "sentence": { "DE": "Wir ________ in der Pause auf den Pausenhof gehen.", "AR": "نحن ________ الذهاب إلى ساحة الاستراحة في الاستراحة.", "RU": "Мы ________ идти во двор на перемене.", "FA": "ما ________ در زنگ تفریح به حیاط برویم.", "RO": "Noi ________ merge în curtea școlii în pauză." }, "hint": "Das Verb bedeutet 'Erlaubnis haben'." },
+{ "key": "L4_ZUORD_04", "type": "matching", "matchDE": "verboten", "matchKey": "erlaubt", "sentence": { "DE": "Das Gegenteil von verboten ist ________.", "AR": "عكس ممنوع هو ________.", "RU": "Противоположность запрещенному — ________.", "FA": "متضاد ________، разрешено.", "RO": "Opunerea lui interzis este ________." }, "hint": "Es ist OK." }
+]
+}

@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Beim Einkaufen",
+"AR": "عند التسوق",
+"RU": "При совершении покупок",
+"FA": "هنگام خرید",
+"RO": "La cumpărături"
+},
+"vocabulary": [
+{ "key": "L9_VOK_01", "DE": "kaufen", "AR": "يَشْتَرِي", "RU": "покупать", "FA": "خریدن", "RO": "a cumpăra", "emoji_icon": "🛒" },
+{ "key": "L9_VOK_02", "DE": "verkaufen", "AR": "يَبيع", "RU": "продавать", "FA": "فروختن", "RO": "a vinde", "emoji_icon": "🛍️" },
+{ "key": "L9_VOK_03", "DE": "der Supermarkt", "AR": "المتجر الكبير", "RU": "супермаркет", "FA": "سوپرمارکت", "RO": "supermarketul", "emoji_icon": "🏪" },
+{ "key": "L9_VOK_04", "DE": "die Kasse", "AR": "صندوق الدفع", "RU": "касса", "FA": "صندوق", "RO": "casa de marcat", "emoji_icon": "💰" },
+{ "key": "L9_VOK_05", "DE": "der Kunde", "AR": "الزبون", "RU": "покупатель", "FA": "مشتری", "RO": "clientul", "emoji_icon": "🧑" },
+{ "key": "L9_VOK_06", "DE": "die Verkäuferin", "AR": "البائعة", "RU": "продавщица", "FA": "فروشنده (f.)", "RO": "vânzătoarea", "emoji_icon": "👩‍💼" },
+{ "key": "L9_VOK_07", "DE": "der Euro", "AR": "اليورو", "RU": "евро", "FA": "یورو", "RO": "euro", "emoji_icon": "💶" },
+{ "key": "L9_VOK_08", "DE": "das Geld", "AR": "النقود", "RU": "деньги", "FA": "پول", "RO": "banii", "emoji_icon": "💵" },
+{ "key": "L9_VOK_09", "DE": "der Preis", "AR": "الثمن", "RU": "цена", "FA": "قیمت", "RO": "prețul", "emoji_icon": "🏷️" },
+{ "key": "L9_VOK_10", "DE": "Wie viel kostet...?", "AR": "كم ثمن...؟", "RU": "Сколько стоит...?", "FA": "قیمت ... چقدر است؟", "RO": "Cât costă...?", "emoji_icon": "❓" },
+{ "key": "L9_VOK_11", "DE": "das Angebot", "AR": "العرض", "RU": "предложение", "FA": "پیشنهاد", "RO": "oferta", "emoji_icon": "🎁" },
+{ "key": "L9_VOK_12", "DE": "die Quittung", "AR": "الإيصال", "RU": "чек/квитанция", "FA": "رسید", "RO": "bonul", "emoji_icon": "🧾" },
+{ "key": "L9_VOK_13", "DE": "zahlen", "AR": "يَدْفَع", "RU": "платить", "FA": "پرداخت کردن", "RO": "a plăti", "emoji_icon": "💳" },
+{ "key": "L9_VOK_14", "DE": "bezahlen", "AR": "يَدْفَع", "RU": "оплачивать", "FA": "پرداخت کردن", "RO": "a achita", "emoji_icon": "💳" },
+{ "key": "L9_VOK_15", "DE": "die Karte (Bankkarte)", "AR": "البطاقة (المصرفية)", "RU": "карта (банковская)", "FA": "کارت (بانکی)", "RO": "cardul (bancar)", "emoji_icon": "💳" },
+{ "key": "L9_VOK_16", "DE": "das Wechselgeld", "AR": "الباقي", "RU": "сдача", "FA": "باقیمانده پول", "RO": "restul", "emoji_icon": "💵" },
+{ "key": "L9_VOK_17", "DE": "eins", "AR": "واحد", "RU": "один", "FA": "یک", "RO": "unu", "emoji_icon": "1️⃣" },
+{ "key": "L9_VOK_18", "DE": "zehn", "AR": "عشرة", "RU": "десять", "FA": "ده", "RO": "zece", "emoji_icon": "🔟" },
+{ "key": "L9_VOK_19", "DE": "zwanzig", "AR": "عشرون", "RU": "двадцать", "FA": "بیست", "RO": "douăzeci", "emoji_icon": "2️⃣0️⃣" },
+{ "key": "L9_VOK_20", "DE": "hundert", "AR": "مائة", "RU": "сто", "FA": "صد", "RO": "o sută", "emoji_icon": "💯" },
+{ "key": "L9_VOK_21", "DE": "tausend", "AR": "ألف", "RU": "тысяча", "FA": "هزار", "RO": "o mie", "emoji_icon": "🔢" },
+{ "key": "L9_VOK_22", "DE": "billig", "AR": "رخيص", "RU": "дешевый", "FA": "ارزان", "RO": "ieftin", "emoji_icon": "📉" },
+{ "key": "L9_VOK_23", "DE": "teuer", "AR": "غال", "RU": "дорогой", "FA": "گران", "RO": "scump", "emoji_icon": "📈" },
+{ "key": "L9_VOK_24", "DE": "die Tüte", "AR": "الكيس", "RU": "пакет", "FA": "کیسه", "RO": "punga", "emoji_icon": "🛍️" },
+{ "key": "L9_VOK_25", "DE": "brauchen", "AR": "يَحْتَاج", "RU": "нуждаться", "FA": "نیاز داشتن", "RO": "a avea nevoie", "emoji_icon": "❓" },
+{ "key": "L9_VOK_26", "DE": "die Öffnungszeit", "AR": "ساعات العمل", "RU": "часы работы", "FA": "ساعات کاری", "RO": "programul", "emoji_icon": "⏰" },
+{ "key": "L9_VOK_27", "DE": "der Einkaufswagen", "AR": "عربة التسوق", "RU": "тележка", "FA": "چرخ خرید", "RO": "căruciorul de cumpărături", "emoji_icon": "🛒" },
+{ "key": "L9_VOK_28", "DE": "bar zahlen", "AR": "الدفع نقداً", "RU": "платить наличными", "FA": "پرداخت نقدی", "RO": "a plăti cash", "emoji_icon": "💸" },
+{ "key": "L9_VOK_29", "DE": "Geben Sie mir...", "AR": "أعطني...", "RU": "Дайте мне...", "FA": "به من بدهید...", "RO": "Dă-mi...", "emoji_icon": "🙏" },
+{ "key": "L9_VOK_30", "DE": "Kann ich mit Karte zahlen?", "AR": "هل يمكنني الدفع بالبطاقة؟", "RU": "Могу ли я заплатить картой?", "FA": "آیا می‌توانم با کارت پرداخت کنم؟", "RO": "Pot plăti cu cardul?", "emoji_icon": "💳" }
+],
+"exercises": [
+{ "key": "L9_LÜCKE_01", "type": "gap-fill", "answerKey": "Kasse", "sentence": { "DE": "Ich bezahle meine Äpfel an der ________.", "AR": "أدفع ثمن التفاح عند ________.", "RU": "Я плачу за яблоки на ________.", "FA": "من پول سیب‌هایم را در ________ پرداخت می‌کنم.", "RO": "Plătesc merele la ________." }, "hint": "Der Ort im Supermarkt, wo man bezahlt." },
+{ "key": "L9_LÜCKE_02", "type": "gap-fill", "answerKey": "kostet", "sentence": { "DE": "Wie viel ________ das Brot?", "AR": "كم ________ ثمن الخبز؟", "RU": "Сколько ________ хлеб?", "FA": "قیمت نان چقدر ________ است؟", "RO": "Cât ________ pâinea?" }, "hint": "Das Verb für den Preis." },
+{ "key": "L9_LÜCKE_03", "type": "gap-fill", "answerKey": "zahlen", "sentence": { "DE": "Ich möchte bitte mit Karte ________.", "AR": "أريد أن ________ بالبطاقة من فضلك.", "RU": "Я хотел бы ________ картой, пожалуйста.", "FA": "من می‌خواهم با کارت ________ کنم، لطفا.", "RO": "Aș dori să ________ cu cardul, vă rog." }, "hint": "Das Verb für 'Geld geben'." },
+{ "key": "L9_ZUORD_04", "type": "matching", "matchDE": "billig", "matchKey": "teuer", "sentence": { "DE": "Das Gegenteil von ________ ist billig.", "AR": "عكس ________ هو رخيص.", "RU": "Противоположность ________ — дешевый.", "FA": "متضاد ________، ارزان است.", "RO": "Opunerea lui ________ este ieftin." }, "hint": "Sehr hoher Preis." }
+]
+}

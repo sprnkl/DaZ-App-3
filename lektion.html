@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DaZ Modul: Lektion Dynamisch</title>
+    <!-- Lade Tailwind und Styles -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="style.css" rel="stylesheet"> 
+    
+    <!-- Styles CSS (enthält alle notwendigen Stile für Flip-Cards und Spiele) -->
+    <style>
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background-color: #f7f9fb; 
+            perspective: 1000px; 
+        }
+        .rtl { 
+            direction: rtl; 
+            text-align: right; 
+        }
+        .tab-active { 
+            border-color: #3b82f6 !important; 
+            color: #3b82f6 !important; 
+        }
+        .tab-inactive { 
+            border-color: transparent; 
+            color: #6b7280; 
+        }
+        /* FLIP CARD STYLES */
+        .flip-card {
+            background-color: transparent;
+            width: 100%;
+            height: 100px;
+        }
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.6s;
+            transform-style: preserve-3d;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+            border-radius: 0.5rem; /* rounded-lg */
+        }
+        .flip-card-inner.flipped {
+            transform: rotateY(180deg);
+        }
+        .flip-card-front, .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden;
+            backface-visibility: hidden;
+            display: flex; 
+            align-items: center;
+            justify-content: space-between;
+        }
+        .flip-card-back {
+            transform: rotateY(180deg);
+            justify-content: center !important; 
+        }
+        /* Styles für die Spiele (Wichtig für die 3D-Ansicht) */
+        .perspective { perspective: 1000px; }
+        .preserve-3d { transform-style: preserve-3d; }
+        .rotate-y-180 { transform: rotateY(180deg); }
+        .backface-hidden { backface-visibility: hidden; }
+    </style>
+</head>
+<body class="p-4 sm:p-8" data-lesson-key=""> 
+    <div class="max-w-4xl mx-auto bg-white shadow-xl rounded-xl p-6 md:p-10">
+        <!-- Button Zurück -->
+        <a href="index.html" class="inline-flex items-center text-indigo-600 hover:text-indigo-800 mb-6 text-sm">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mr-1">
+                <path d="M19 12H5"></path>
+                <polyline points="12 19 5 12 12 5"></polyline>
+            </svg>
+            Zurück zur Übersicht
+        </a>
+
+        <h1 id="lesson-title" class="text-3xl font-bold text-gray-800 mb-6 border-b pb-2">
+            Wird geladen...
+        </h1>
+
+        <!-- Sprachauswahl -->
+        <div class="mb-6 flex flex-wrap gap-2 justify-center p-3 bg-gray-50 rounded-lg">
+            <span class="text-sm font-semibold text-gray-700 mr-2">Sprache wählen:</span>
+            <button data-lang="DE" class="lang-btn px-3 py-1 rounded-full text-sm transition">DE</button>
+            <button data-lang="AR" class="lang-btn px-3 py-1 rounded-full text-sm transition">AR</button>
+            <button data-lang="RU" class="lang-btn px-3 py-1 rounded-full text-sm transition">RU</button>
+            <button data-lang="FA" class="lang-btn px-3 py-1 rounded-full text-sm transition">FA</button>
+            <button data-lang="RO" class="lang-btn px-3 py-1 rounded-full text-sm transition">RO</button>
+        </div>
+
+        <!-- TABS FÜR SPIELE UND ÜBUNGEN -->
+        <div class="flex border-b border-gray-200 mb-6 overflow-x-auto">
+            <button data-view="vocabulary" class="tab-btn py-2 px-4 text-lg font-medium border-b-2 tab-active transition duration-150 ease-in-out whitespace-nowrap">
+                Wortschatz
+            </button>
+            <button data-view="exercises" class="tab-btn py-2 px-4 text-lg font-medium border-b-2 tab-inactive hover:border-gray-300 transition duration-150 ease-in-out whitespace-nowrap">
+                Begriffe schreiben
+            </button>
+            <button data-view="memory" class="tab-btn py-2 px-4 text-lg font-medium border-b-2 tab-inactive hover:border-gray-300 transition duration-150 ease-in-out whitespace-nowrap">
+                Memorie (Spiel)
+            </button>
+            <button data-view="scramble" class="tab-btn py-2 px-4 text-lg font-medium border-b-2 tab-inactive hover:border-gray-300 transition duration-150 ease-in-out whitespace-nowrap">
+                Buchstabensalat
+            </button>
+        </div>
+
+        <!-- CONTENEUR PRINCIPAL (Contient les vues) -->
+        <div id="content-area">
+            
+            <!-- Vue 1: Wortschatz (ID: vocabulary-view) -->
+            <div id="vocabulary-view" class="active-view">
+                <p class="text-sm text-gray-500 mb-4">Klicken Sie auf ein deutsches Wort, um die Aussprache zu hören und die Übersetzung zu sehen.</p>
+                <div id="vocabulary-list" class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                    <!-- Wortschatz-Karten werden hier geladen -->
+                </div>
+            </div>
+
+            <!-- Vue 2: Exercises (ID: exercises-view) -->
+            <div id="exercises-view" class="hidden active-view">
+                <div id="exercises-container">
+                    <!-- ACHTUNG: ID ist jetzt exercises-container -->
+                    <!-- Standard-Übungen werden hier geladen -->
+                </div>
+            </div>
+
+            <!-- Vue 3: Memorie (ID: memory-view) -->
+            <div id="memory-view" class="hidden active-view">
+                <div id="memory-container">
+                    <!-- ACHTUNG: ID ist jetzt memory-container -->
+                    <!-- Memorie-Spiel wird hier geladen -->
+                </div>
+            </div>
+
+            <!-- Vue 4: Buchstabensalat (ID: scramble-view) -->
+            <div id="scramble-view" class="hidden active-view">
+                <div id="scramble-container">
+                    <!-- ACHTUNG: ID ist jetzt scramble-container -->
+                    <!-- Buchstabensalat wird hier geladen -->
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+    <!-- Lade Logik (WICHTIG: Das externe Skript enthält die DOMContentLoaded-Logik) -->
+    <script src="js/script.js" defer></script>
+    
+    <!-- GELÖSCHT: Der doppelte DOMContentLoaded-Block hier unten wurde entfernt, um Konflikte zu vermeiden. -->
+</body>
+</html>

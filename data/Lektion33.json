@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Große Familienfeste",
+"AR": "احتفالات عائلية كبيرة",
+"RU": "Большие семейные праздники",
+"FA": "جشن‌های بزرگ خانوادگی",
+"RO": "Mari sărbători de familie"
+},
+"vocabulary": [
+{ "key": "L33_VOK_01", "DE": "die Hochzeit", "AR": "حفل الزفاف", "RU": "свадьба", "FA": "عروسی", "RO": "nunta", "emoji_icon": "💍" },
+{ "key": "L33_VOK_02", "DE": "die Taufe", "AR": "المعمودية", "RU": "крещение", "FA": "غسل تعمید", "RO": "botezul", "emoji_icon": "👶" },
+{ "key": "L33_VOK_03", "DE": "der Geburtstag", "AR": "عيد الميلاد", "RU": "день рождения", "FA": "تولد", "RO": "ziua de naștere", "emoji_icon": "🎂" },
+{ "key": "L33_VOK_04", "DE": "das Jubiläum", "AR": "اليوبيل/الذكرى السنوية", "RU": "юбилей", "FA": "سالگرد", "RO": "aniversarea", "emoji_icon": "🏅" },
+{ "key": "L33_VOK_05", "DE": "feiern", "AR": "يحتفل", "RU": "праздновать", "FA": "جشن گرفتن", "RO": "a sărbători", "emoji_icon": "🥳" },
+{ "key": "L33_VOK_06", "DE": "gratulieren", "AR": "يهنئ", "RU": "поздравлять", "FA": "تبریک گفتن", "RO": "a felicita", "emoji_icon": "🎉" },
+{ "key": "L33_VOK_07", "DE": "der Gast", "AR": "الضيف", "RU": "гость", "FA": "مهمان", "RO": "invitatul", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L33_VOK_08", "DE": "der Gastgeber", "AR": "المضيف", "RU": "хозяин", "FA": "میزبان", "RO": "gazda", "emoji_icon": "🙋‍♂️" },
+{ "key": "L33_VOK_09", "DE": "die Einladung", "AR": "الدعوة", "RU": "приглашение", "FA": "دعوت", "RO": "invitația", "emoji_icon": "💌" },
+{ "key": "L33_VOK_10", "DE": "die Kirche", "AR": "الكنيسة", "RU": "церковь", "FA": "کلیسا", "RO": "biserica", "emoji_icon": "⛪" },
+{ "key": "L33_VOK_11", "DE": "das Standesamt", "AR": "مكتب السجل المدني", "RU": "ЗАГС", "FA": "دفتر ثبت احوال", "RO": "starea civilă", "emoji_icon": "🏛️" },
+{ "key": "L33_VOK_12", "DE": "die Torte", "AR": "التورتة", "RU": "торт", "FA": "کیک", "RO": "tortul", "emoji_icon": "🍰" },
+{ "key": "L33_VOK_13", "DE": "das Geschenk", "AR": "الهدية", "RU": "подарок", "FA": "هدیه", "RO": "cadoul", "emoji_icon": "🎁" },
+{ "key": "L33_VOK_14", "DE": "die Blumen", "AR": "الزهور", "RU": "цветы", "FA": "گل‌ها", "RO": "florile", "emoji_icon": "💐" },
+{ "key": "L33_VOK_15", "DE": "der Ring", "AR": "الخاتم", "RU": "кольцо", "FA": "حلقه", "RO": "inelul", "emoji_icon": "💍" },
+{ "key": "L33_VOK_16", "DE": "der Anzug", "AR": "البدلة", "RU": "костюм", "FA": "کت و شلوار", "RO": "costumul", "emoji_icon": "🤵" },
+{ "key": "L33_VOK_17", "DE": "das Kleid", "AR": "الفستان", "RU": "платье", "FA": "لباس", "RO": "rochia", "emoji_icon": "👗" },
+{ "key": "L33_VOK_18", "DE": "fotografieren", "AR": "يلتقط صوراً", "RU": "фотографировать", "FA": "عکس گرفتن", "RO": "a fotografia", "emoji_icon": "📸" },
+{ "key": "L33_VOK_19", "DE": "tanzen", "AR": "يرقص", "RU": "танцевать", "FA": "رقصیدن", "RO": "a dansa", "emoji_icon": "💃" },
+{ "key": "L33_VOK_20", "DE": "der Toast/die Rede", "AR": "الخطاب", "RU": "тост/речь", "FA": "سخنرانی", "RO": "discursul", "emoji_icon": "🎤" },
+{ "key": "L33_VOK_21", "DE": "Glückwünsche aussprechen", "AR": "تقديم التهاني", "RU": "произнести тост", "FA": "آرزوی موفقیت کردن", "RO": "a rosti felicitări", "emoji_icon": "💬" },
+{ "key": "L33_VOK_22", "DE": "das Brautpaar", "AR": "العروس والعريس", "RU": "молодожены", "FA": "عروس و داماد", "RO": "mirii", "emoji_icon": "👰‍♀️🤵" },
+{ "key": "L33_VOK_23", "DE": "der Trauzeuge", "AR": "شاهد الزفاف", "RU": "свидетель", "FA": "شاهد عقد", "RO": "martorul", "emoji_icon": "🧑" },
+{ "key": "L33_VOK_24", "DE": "fein angezogen", "AR": "مرتدي ملابس أنيقة", "RU": "нарядно одет", "FA": "لباس شیک", "RO": "îmbrăcat elegant", "emoji_icon": "🎩" },
+{ "key": "L33_VOK_25", "DE": "die Atmosphäre", "AR": "الأجواء", "RU": "атмосфера", "FA": "جو", "RO": "atmosfera", "emoji_icon": "✨" },
+{ "key": "L33_VOK_26", "DE": "die Rede halten", "AR": "إلقاء خطاب", "RU": "произнести речь", "FA": "سخنرانی کردن", "RO": "a ține un discurs", "emoji_icon": "🎤" },
+{ "key": "L33_VOK_27", "DE": "die Musik", "AR": "الموسيقى", "RU": "музыка", "FA": "موسیقی", "RO": "muzica", "emoji_icon": "🎶" },
+{ "key": "L33_VOK_28", "DE": "Wir stoßen auf das Brautpaar an.", "AR": "نرفع كأسنا للعروسين.", "RU": "Мы пьем за молодых.", "FA": "ما به سلامتی عروس و داماد می‌گوییم.", "RO": "Noi ciocnim în cinstea mirilor.", "emoji_icon": "🥂" },
+{ "key": "L33_VOK_29", "DE": "das Baby", "AR": "الطفل الرضيع", "RU": "младенец", "FA": "نوزاد", "RO": "bebelușul", "emoji_icon": "👶" },
+{ "key": "L33_VOK_30", "DE": "die Goldene Hochzeit (50 Jahre)", "AR": "الزفاف الذهبي", "RU": "Золотая свадьба", "FA": "عروسی طلایی", "RO": "nunta de aur", "emoji_icon": "🥇" }
+],
+"exercises": [
+{ "key": "L33_LÜCKE_01", "type": "gap-fill", "answerKey": "Hochzeit", "sentence": { "DE": "Die ________ findet in der Kirche statt.", "AR": "الـ ________ تقام في الكنيسة.", "RU": " ________ проходит в церкви.", "FA": " ________ در کلیسا برگزار می‌شود.", "RO": " ________ are loc în biserică." }, "hint": "Der Tag, an dem man heiratet." },
+{ "key": "L33_LÜCKE_02", "type": "gap-fill", "answerKey": "Geschenk", "sentence": { "DE": "Ich packe das ________ für das Baby ein.", "AR": "أنا أغلف الـ ________ للطفل.", "RU": "Я заворачиваю ________ для младенца.", "FA": "من ________ را برای بچه کادو می‌کنم.", "RO": "Împachetez ________ pentru bebeluș." }, "hint": "Das Objekt, das man gibt." },
+{ "key": "L33_LÜCKE_03", "type": "gap-fill", "answerKey": "feiern", "sentence": { "DE": "Wir ________ den 50. Geburtstag von Opa.", "AR": "نحن ________ عيد ميلاد الجد الخمسين.", "RU": "Мы ________ 50-летие дедушки.", "FA": "ما ________ تولد 50 سالگی پدربزرگ را.", "RO": "Noi ________ ziua de naștere de 50 de ani a bunicului." }, "hint": "Das Verb für 'eine Party haben'." },
+{ "key": "L33_ZUORD_04", "type": "matching", "matchDE": "Einladung", "matchKey": "Gast", "sentence": { "DE": "Der ________ braucht eine ________.", "AR": "الـ ________ يحتاج ________.", "RU": " ________ нужен ________.", "FA": " ________ به یک ________ نیاز دارد.", "RO": " ________ are nevoie de o ________." }, "hint": "Das Papier, das man bekommt, um eingeladen zu sein." }
+]
+}

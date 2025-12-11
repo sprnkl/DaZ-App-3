@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Tag der Deutschen Einheit (3. Oktober)",
+"AR": "يوم الوحدة الألمانية",
+"RU": "День Единства Германии",
+"FA": "روز وحدت آلمان",
+"RO": "Ziua Unității Germane"
+},
+"vocabulary": [
+{ "key": "L29_VOK_01", "DE": "die Einheit", "AR": "الوحدة", "RU": "единство", "FA": "وحدت", "RO": "unitatea", "emoji_icon": "🇩🇪" },
+{ "key": "L29_VOK_02", "DE": "die Teilung", "AR": "التقسيم", "RU": "разделение", "FA": "تقسیم", "RO": "diviziunea", "emoji_icon": "➗" },
+{ "key": "L29_VOK_03", "DE": "die Mauer (1961-1989)", "AR": "الجدار", "RU": "стена", "FA": "دیوار", "RO": "zidul", "emoji_icon": "🧱" },
+{ "key": "L29_VOK_04", "DE": "die DDR (Ostdeutschland)", "AR": "ألمانيا الشرقية", "RU": "ГДР", "FA": "آلمان شرقی", "RO": "RDG", "emoji_icon": "◀️" },
+{ "key": "L29_VOK_05", "DE": "die BRD (Westdeutschland)", "AR": "ألمانيا الغربية", "RU": "ФРГ", "FA": "آلمان غربی", "RO": "RFG", "emoji_icon": "▶️" },
+{ "key": "L29_VOK_06", "DE": "die Wiedervereinigung", "AR": "إعادة التوحيد", "RU": "воссоединение", "FA": "اتحاد مجدد", "RO": "reunificarea", "emoji_icon": "🤝" },
+{ "key": "L29_VOK_07", "DE": "der Feiertag", "AR": "يوم العطلة", "RU": "праздничный день", "FA": "روز تعطیل", "RO": "sărbătoarea", "emoji_icon": "🎉" },
+{ "key": "L29_VOK_08", "DE": "die Geschichte", "AR": "التاريخ", "RU": "история", "FA": "تاریخ", "RO": "istoria", "emoji_icon": "📜" },
+{ "key": "L29_VOK_09", "DE": "die Freiheit", "AR": "الحرية", "RU": "свобода", "FA": "آزادی", "RO": "libertatea", "emoji_icon": "🕊️" },
+{ "key": "L29_VOK_10", "DE": "die friedliche Revolution (1989)", "AR": "الثورة السلمية", "RU": "мирная революция", "FA": "انقلاب صلح‌آمیز", "RO": "revoluția pașnică", "emoji_icon": "🕊️" },
+{ "key": "L29_VOK_11", "DE": "der Vertrag", "AR": "المعاهدة", "RU": "договор", "FA": "قرارداد", "RO": "tratatul", "emoji_icon": "🤝" },
+{ "key": "L29_VOK_12", "DE": "der Bürger", "AR": "المواطن", "RU": "гражданин", "FA": "شهروند", "RO": "cetățeanul", "emoji_icon": "🧑" },
+{ "key": "L29_VOK_13", "DE": "die Politik", "AR": "السياسة", "RU": "политика", "FA": "سیاست", "RO": "politica", "emoji_icon": "🗳️" },
+{ "key": "L29_VOK_14", "DE": "die Demokratie", "AR": "الديمقراطية", "RU": "демократия", "FA": "دموکراسی", "RO": "democrația", "emoji_icon": "🗳️" },
+{ "key": "L29_VOK_15", "DE": "die Hauptstadt", "AR": "العاصمة", "RU": "столица", "FA": "پایتخت", "RO": "capitala", "emoji_icon": "🏛️" },
+{ "key": "L29_VOK_16", "DE": "Berlin", "AR": "برلين", "RU": "Берлин", "FA": "برلین", "RO": "Berlinul", "emoji_icon": " 🏛️" },
+{ "key": "L29_VOK_17", "DE": "feiern", "AR": "يحتفل", "RU": "праздновать", "FA": "جشن گرفتن", "RO": "a sărbători", "emoji_icon": "🥳" },
+{ "key": "L29_VOK_18", "DE": "die Fahne/Flagge", "AR": "العلم", "RU": "флаг", "FA": "پرچم", "RO": "steagul", "emoji_icon": "🇩🇪" },
+{ "key": "L29_VOK_19", "DE": "die Hymne", "AR": "النشيد الوطني", "RU": "гимн", "FA": "سرود ملی", "RO": "imnul", "emoji_icon": "🎵" },
+{ "key": "L29_VOK_20", "DE": "das Bundesland", "AR": "الولاية", "RU": "федеральная земля", "FA": "ایالت", "RO": "landul", "emoji_icon": "🗺️" },
+{ "key": "L29_VOK_21", "DE": "der Mauerfall (9. Nov 1989)", "AR": "سقوط الجدار", "RU": "падение стены", "FA": "سقوط دیوار", "RO": "căderea zidului", "emoji_icon": "🚧" },
+{ "key": "L29_VOK_22", "DE": "der Tag", "AR": "اليوم", "RU": "день", "FA": "روز", "RO": "ziua", "emoji_icon": "🗓️" },
+{ "key": "L29_VOK_23", "DE": "der Monat", "AR": "الشهر", "RU": "месяц", "FA": "ماه", "RO": "luna", "emoji_icon": "📅" },
+{ "key": "L29_VOK_24", "DE": "der Osten", "AR": "الشرق", "RU": "восток", "FA": "شرق", "RO": "estul", "emoji_icon": "➡️" },
+{ "key": "L29_VOK_25", "DE": "der Westen", "AR": "الغرب", "RU": "запад", "FA": "غرب", "RO": "vestul", "emoji_icon": "⬅️" },
+{ "key": "L29_VOK_26", "DE": "die Grenze", "AR": "الحدود", "RU": "граница", "FA": "مرز", "RO": "granița", "emoji_icon": "⛔" },
+{ "key": "L29_VOK_27", "DE": "die Wiedervereinigung feiern", "AR": "الاحتفال بالوحدة", "RU": "праздновать воссоединение", "FA": "جشن اتحاد مجدد", "RO": "a sărbători reunificarea", "emoji_icon": "🥳" },
+{ "key": "L29_VOK_28", "DE": "politisch", "AR": "سياسي", "RU": "политический", "FA": "سیاسی", "RO": "politic", "emoji_icon": "🗳️" },
+{ "key": "L29_VOK_29", "DE": "historisch", "AR": "تاريخي", "RU": "исторический", "FA": "تاریخی", "RO": "istoric", "emoji_icon": "📜" },
+{ "key": "L29_VOK_30", "DE": "Deutschland ist ein Land.", "AR": "ألمانيا دولة واحدة.", "RU": "Германия - одна страна.", "FA": "آلمان یک کشور است.", "RO": "Germania este o singură țară.", "emoji_icon": "🇩🇪" }
+],
+"exercises": [
+{ "key": "L29_LÜCKE_01", "type": "gap-fill", "answerKey": "Einheit", "sentence": { "DE": "Wir feiern den Tag der Deutschen ________.", "AR": "نحتفل بيوم الوحدة ________.", "RU": "Мы празднуем День Немецкого ________.", "FA": "ما روز ________ آلمان را جشن می‌گیریم.", "RO": "Sărbătorim Ziua ________ Germane." }, "hint": "Das Ziel der Wiedervereinigung (Nomen)." },
+{ "key": "L29_LÜCKE_02", "type": "gap-fill", "answerKey": "Mauer", "sentence": { "DE": "Bis 1989 gab es in Berlin eine ________.", "AR": "حتى عام 1989، كان هناك ________ في برلين.", "RU": "До 1989 года в Берлине была ________.", "FA": "تا سال 1989 در برلین یک ________ وجود داشت.", "RO": "Până în 1989, a existat un ________ în Berlin." }, "hint": "Die große Trennung zwischen Ost und West." },
+{ "key": "L29_LÜCKE_03", "type": "gap-fill", "answerKey": "Oktober", "sentence": { "DE": "Der Tag der Deutschen Einheit ist am 3. ________.", "AR": "يوم الوحدة الألمانية هو في 3 ________.", "RU": "День Единства Германии — 3 ________.", "FA": "روز وحدت آلمان 3 ________ است.", "RO": "Ziua Unității Germane este pe 3 ________." }, "hint": "Der Monat nach dem September." },
+{ "key": "L29_ZUORD_04", "type": "matching", "matchDE": "DDR", "matchKey": "BRD", "sentence": { "DE": "Die ________ war Westdeutschland.", "AR": "الـ ________ كانت ألمانيا الغربية.", "RU": " ________ была Западной Германией.", "FA": " ________ آلمان غربی بود.", "RO": " ________ era Germania de Vest." }, "hint": "Die Abkürzung für Westdeutschland." }
+]
+}

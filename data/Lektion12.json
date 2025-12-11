@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Die Wohnung/Das Zimmer",
+"AR": "المنزل/الغرفة",
+"RU": "Квартира/Комната",
+"FA": "خانه/اتاق",
+"RO": "Apartamentul/Camera"
+},
+"vocabulary": [
+{ "key": "L12_VOK_01", "DE": "die Wohnung", "AR": "الشقة", "RU": "квартира", "FA": "آپارتمان", "RO": "apartamentul", "emoji_icon": "🏘️" },
+{ "key": "L12_VOK_02", "DE": "das Haus", "AR": "المنزل", "RU": "дом", "FA": "خانه", "RO": "casa", "emoji_icon": "🏠" },
+{ "key": "L12_VOK_03", "DE": "das Zimmer", "AR": "الغرفة", "RU": "комната", "FA": "اتاق", "RO": "camera", "emoji_icon": "🚪" },
+{ "key": "L12_VOK_04", "DE": "die Küche", "AR": "المطبخ", "RU": "кухня", "FA": "آشپزخانه", "RO": "bucătăria", "emoji_icon": "🔪" },
+{ "key": "L12_VOK_05", "DE": "das Bad/Badezimmer", "AR": "الحمام", "RU": "ванная", "FA": "حمام", "RO": "baia", "emoji_icon": "🛁" },
+{ "key": "L12_VOK_06", "DE": "das Wohnzimmer", "AR": "غرفة المعيشة", "RU": "гостиная", "FA": "اتاق نشیمن", "RO": "sufrageria", "emoji_icon": "🛋️" },
+{ "key": "L12_VOK_07", "DE": "das Schlafzimmer", "AR": "غرفة النوم", "RU": "спальня", "FA": "اتاق خواب", "RO": "dormitorul", "emoji_icon": "🛌" },
+{ "key": "L12_VOK_08", "DE": "der Flur", "AR": "الممر", "RU": "коридор", "FA": "راهرو", "RO": "holul", "emoji_icon": "🚶" },
+{ "key": "L12_VOK_09", "DE": "die Möbel (Plural)", "AR": "الأثاث", "RU": "мебель", "FA": "مبلمان", "RO": "mobilierul", "emoji_icon": "🪑" },
+{ "key": "L12_VOK_10", "DE": "das Bett", "AR": "السرير", "RU": "кровать", "FA": "تخت", "RO": "patul", "emoji_icon": "🛏️" },
+{ "key": "L12_VOK_11", "DE": "der Schrank", "AR": "الخزانة", "RU": "шкаф", "FA": "کمد", "RO": "dulapul", "emoji_icon": "🚪" },
+{ "key": "L12_VOK_12", "DE": "der Sessel", "AR": "الكرسي بذراعين", "RU": "кресло", "FA": "مبل یک نفره", "RO": "fotoliul", "emoji_icon": "🛋️" },
+{ "key": "L12_VOK_13", "DE": "die Lampe", "AR": "المصباح", "RU": "лампа", "FA": "لامپ", "RO": "lampa", "emoji_icon": "💡" },
+{ "key": "L12_VOK_14", "DE": "der Teppich", "AR": "السجادة", "RU": "ковер", "FA": "فرش", "RO": "covorul", "emoji_icon": "🗺️" },
+{ "key": "L12_VOK_15", "DE": "das Bild", "AR": "الصورة", "RU": "картина", "FA": "تصویر", "RO": "imaginea", "emoji_icon": "🖼️" },
+{ "key": "L12_VOK_16", "DE": "die Dusche", "AR": "الدش", "RU": "душ", "FA": "دوش", "RO": "dușul", "emoji_icon": "🚿" },
+{ "key": "L12_VOK_17", "DE": "das Sofa", "AR": "الأريكة", "RU": "диван", "FA": "مبل", "RO": "canapeaua", "emoji_icon": "🛋️" },
+{ "key": "L12_VOK_18", "DE": "aufräumen", "AR": "يُرَتِّب", "RU": "убирать", "FA": "مرتب کردن", "RO": "a face ordine", "emoji_icon": "🧹" },
+{ "key": "L12_VOK_19", "DE": "putzen", "AR": "يُنَظِّف", "RU": "чистить", "FA": "تمیز کردن", "RO": "a curăța", "emoji_icon": "🧼" },
+{ "key": "L12_VOK_20", "DE": "sauber", "AR": "نظيف", "RU": "чистый", "FA": "تمیز", "RO": "curat", "emoji_icon": "✨" },
+{ "key": "L12_VOK_21", "DE": "schmutzig", "AR": "قذر", "RU": "грязный", "FA": "کثیف", "RO": "murdar", "emoji_icon": "💩" },
+{ "key": "L12_VOK_22", "DE": "der Müll", "AR": "القمامة", "RU": "мусор", "FA": "زباله", "RO": "gunoiul", "emoji_icon": "🗑️" },
+{ "key": "L12_VOK_23", "DE": "waschen", "AR": "يَغْسِل", "RU": "мыть", "FA": "شستن", "RO": "a spăla", "emoji_icon": "🧺" },
+{ "key": "L12_VOK_24", "DE": "der Boden", "AR": "الأرضية", "RU": "пол", "FA": "کف", "RO": "podeaua", "emoji_icon": "⬇️" },
+{ "key": "L12_VOK_25", "DE": "unter", "AR": "تحت", "RU": "под", "FA": "زیر", "RO": "sub", "emoji_icon": "🔽" },
+{ "key": "L12_VOK_26", "DE": "auf", "AR": "على", "RU": "на", "FA": "روی", "RO": "pe", "emoji_icon": "⬆️" },
+{ "key": "L12_VOK_27", "DE": "neben", "AR": "بجانب", "RU": "рядом с", "FA": "کنار", "RO": "lângă", "emoji_icon": "↔️" },
+{ "key": "L12_VOK_28", "DE": "in", "AR": "في/داخل", "RU": "в/внутри", "FA": "در/داخل", "RO": "în", "emoji_icon": "📦" },
+{ "key": "L12_VOK_29", "DE": "draußen", "AR": "في الخارج", "RU": "снаружи", "FA": "بیرون", "RO": "afară", "emoji_icon": "🌳" },
+{ "key": "L12_VOK_30", "DE": "hell", "AR": "مشرق", "RU": "светлый", "FA": "روشن", "RO": "luminos", "emoji_icon": "💡" }
+],
+"exercises": [
+{ "key": "L12_LÜCKE_01", "type": "gap-fill", "answerKey": "Küche", "sentence": { "DE": "Wir kochen und essen in der ________.", "AR": "نحن نطبخ و نأكل في ________.", "RU": "Мы готовим и едим на ________.", "FA": "ما در ________ آشپزی و غذا می‌خوریم.", "RO": "Gătim și mâncăm în ________." }, "hint": "Der Raum für Essen." },
+{ "key": "L12_LÜCKE_02", "type": "gap-fill", "answerKey": "Schrank", "sentence": { "DE": "Ich bewahre meine Kleidung im ________ auf.", "AR": "أحتفظ بملابسي في الـ ________.", "RU": "Я храню свою одежду в ________.", "FA": "من لباس‌هایم را در ________ نگه می‌دارم.", "RO": "Îmi păstrez hainele în ________." }, "hint": "Möbelstück, in dem Kleidung hängt." },
+{ "key": "L12_LÜCKE_03", "type": "gap-fill", "answerKey": "unter", "sentence": { "DE": "Die Schuhe stehen ________ dem Bett.", "AR": "الأحذية توجد ________ السرير.", "RU": "Ботинки стоят ________ кроватью.", "FA": "کفش‌ها ________ تخت هستند.", "RO": "Pantofii stau ________ pat." }, "hint": "Gegenteil von 'auf'." },
+{ "key": "L12_ZUORD_04", "type": "matching", "matchDE": "sauber", "matchKey": "schmutzig", "sentence": { "DE": "Das Gegenteil von ________ ist schmutzig.", "AR": "عكس ________ هو قذر.", "RU": "Противоположность ________ — грязный.", "FA": "متضاد ________، کثیف است.", "RO": "Opunerea lui ________ este murdar." }, "hint": "Ein Synonym für 'rein'." }
+]
+}

@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Beerdigung / Trauerfeier",
+"AR": "الجنازة ومراسم العزاء",
+"RU": "Похороны / Траурная церемония",
+"FA": "مراسم تدفین / عزاداری",
+"RO": "Înmormântare / Ceremonie de doliu"
+},
+"vocabulary": [
+{ "key": "L34_VOK_01", "DE": "sterben", "AR": "يموت", "RU": "умирать", "FA": "مردن", "RO": "a muri", "emoji_icon": "⚰️" },
+{ "key": "L34_VOK_02", "DE": "der Tod", "AR": "الموت", "RU": "смерть", "FA": "مرگ", "RO": "moartea", "emoji_icon": "💀" },
+{ "key": "L34_VOK_03", "DE": "die Trauer", "AR": "الحزن", "RU": "траур", "FA": "عزاداری", "RO": "doliul", "emoji_icon": "😢" },
+{ "key": "L34_VOK_04", "DE": "die Beerdigung", "AR": "الجنازة", "RU": "похороны", "FA": "تدفین", "RO": "înmormântarea", "emoji_icon": "⚰️" },
+{ "key": "L34_VOK_05", "DE": "der Sarg", "AR": "التابوت", "RU": "гроб", "FA": "تابوت", "RO": "sicriul", "emoji_icon": "⚰️" },
+{ "key": "L34_VOK_06", "DE": "die Urne", "AR": "الجرار", "RU": "урна", "FA": "کوزه", "RO": "urna", "emoji_icon": "🏺" },
+{ "key": "L34_VOK_07", "DE": "der Friedhof", "AR": "المقبرة", "RU": "кладбище", "FA": "قبرستان", "RO": "cimitirul", "emoji_icon": "🪦" },
+{ "key": "L34_VOK_08", "DE": "die Trauerfeier", "AR": "مراسم العزاء", "RU": "траурная церемония", "FA": "مراسم عزاداری", "RO": "ceremonia de doliu", "emoji_icon": "🕯️" },
+{ "key": "L34_VOK_09", "DE": "die Kerze", "AR": "الشمعة", "RU": "свеча", "FA": "شمع", "RO": "lumânarea", "emoji_icon": "🕯️" },
+{ "key": "L34_VOK_10", "DE": "die Beileidsbekundung", "AR": "تقديم العزاء", "RU": "соболезнование", "FA": "ابراز همدردی", "RO": "condoleanța", "emoji_icon": "💬" },
+{ "key": "L34_VOK_11", "DE": "Mein Beileid.", "AR": "أقدم تعازي.", "RU": "Мои соболезнования.", "FA": "تسلیت می‌گویم.", "RO": "Condoleanțe.", "emoji_icon": "💬" },
+{ "key": "L34_VOK_12", "DE": "die Familie (des Verstorbenen)", "AR": "عائلة الفقيد", "RU": "семья усопшего", "FA": "خانواده متوفی", "RO": "familia îndoliată", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L34_VOK_13", "DE": "der Pfarrer/die Pfarrerin", "AR": "القس/القسة", "RU": "священник", "FA": "کشیش", "RO": "preotul", "emoji_icon": "⛪" },
+{ "key": "L34_VOK_14", "DE": "der Trauerkranz", "AR": "إكليل الزهور", "RU": "траурный венок", "FA": "تاج گل عزاداری", "RO": "coroana funerară", "emoji_icon": "💐" },
+{ "key": "L34_VOK_15", "DE": "die Stille", "AR": "الصمت", "RU": "тишина", "FA": "سکوت", "RO": "liniștea", "emoji_icon": "🤫" },
+{ "key": "L34_VOK_16", "DE": "leise", "AR": "بهدوء", "RU": "тихо", "FA": "آرام", "RO": "încet", "emoji_icon": "🤫" },
+{ "key": "L34_VOK_17", "DE": "die Kleiderordnung", "AR": "قواعد اللباس", "RU": "дресс-код", "FA": "قانون لباس", "RO": "codul vestimentar", "emoji_icon": "👔" },
+{ "key": "L34_VOK_18", "DE": "schwarz tragen", "AR": "يرتدي الأسود", "RU": "носить черное", "FA": "لباس سیاه پوشیدن", "RO": "a purta negru", "emoji_icon": "⚫" },
+{ "key": "L34_VOK_19", "DE": "die Kondolenzkarte", "AR": "بطاقة التعزية", "RU": "открытка соболезнования", "FA": "کارت تسلیت", "RO": "felicitarea de condoleanțe", "emoji_icon": "💌" },
+{ "key": "L34_VOK_20", "DE": "das Grab", "AR": "القبر", "RU": "могила", "FA": "قبر", "RO": "mormântul", "emoji_icon": "🪦" },
+{ "key": "L34_VOK_21", "DE": "die Verabschiedung", "AR": "الوداع", "RU": "прощание", "FA": "خداحافظی", "RO": "despărțirea", "emoji_icon": "👋" },
+{ "key": "L34_VOK_22", "DE": "die Verbrennung (Feuerbestattung)", "AR": "الحرق", "RU": "кремация", "FA": "سوزاندن", "RO": "incinerarea", "emoji_icon": "🔥" },
+{ "key": "L34_VOK_23", "DE": "die Erdbestattung", "AR": "الدفن", "RU": "захоронение в земле", "FA": "دفن", "RO": "înmormântarea în pământ", "emoji_icon": "⬇️" },
+{ "key": "L34_VOK_24", "DE": "die Träne", "AR": "الدمعة", "RU": "слеза", "FA": "اشک", "RO": "lacrima", "emoji_icon": "😭" },
+{ "key": "L34_VOK_25", "DE": "Trost spenden", "AR": "المواساة", "RU": "утешать", "FA": "تسلیت دادن", "RO": "a mângâia", "emoji_icon": "🤝" },
+{ "key": "L34_VOK_26", "DE": "die Wertschätzung", "AR": "التقدير", "RU": "уважение", "FA": "قدردانی", "RO": "aprecierea", "emoji_icon": "⭐" },
+{ "key": "L34_VOK_27", "DE": "Wir werden ihn vermissen.", "AR": "سوف نفتقده.", "RU": "Нам будет его не хватать.", "FA": "ما دلتنگش خواهیم شد.", "RO": "Ne va lipsi.", "emoji_icon": "😥" },
+{ "key": "L34_VOK_28", "DE": "im Stillen", "AR": "في صمت", "RU": "молча", "FA": "در سکوت", "RO": "în tăcere", "emoji_icon": "🤫" },
+{ "key": "L34_VOK_29", "DE": "die Blumen niederlegen", "AR": "وضع الزهور", "RU": "возложить цветы", "FA": "گل گذاشتن", "RO": "a depune flori", "emoji_icon": "💐" },
+{ "key": "L34_VOK_30", "DE": "die Anteilnahme", "AR": "المشاركة الوجدانية", "RU": "сочувствие", "FA": "همدردی", "RO": "compasiunea", "emoji_icon": "❤️" }
+],
+"exercises": [
+{ "key": "L34_LÜCKE_01", "type": "gap-fill", "answerKey": "Beileid", "sentence": { "DE": "Ich spreche der Familie mein tiefstes ________ aus.", "AR": "أعبر للعائلة عن خالص ________.", "RU": "Я выражаю семье свои глубочайшие ________.", "FA": "من عمیق‌ترین ________ خود را به خانواده ابراز می‌کنم.", "RO": "Îmi exprim cele mai profunde ________ familiei." }, "hint": "Das Wort für Mitgefühl/Trost." },
+{ "key": "L34_LÜCKE_02", "type": "gap-fill", "answerKey": "schwarz", "sentence": { "DE": "Man sollte ________ Kleidung tragen.", "AR": "يجب ارتداء ملابس ________.", "RU": "Следует носить ________ одежду.", "FA": "باید لباس ________ پوشید.", "RO": "Ar trebui să purtați haine ________." }, "hint": "Die Farbe der Trauer in Deutschland." },
+{ "key": "L34_LÜCKE_03", "type": "gap-fill", "answerKey": "Friedhof", "sentence": { "DE": "Die Beerdigung findet auf dem ________ statt.", "AR": "الجنازة تقام في ________.", "RU": "Похороны проходят на ________.", "FA": "مراسم تدفین در ________ برگزار می‌شود.", "RO": "Înmormântarea are loc la ________." }, "hint": "Der Ort mit Gräbern." },
+{ "key": "L34_ZUORD_04", "type": "matching", "matchDE": "weinen", "matchKey": "Träne", "sentence": { "DE": "Beim ________ fließen ________.", "AR": "عند ________ تتدفق ________.", "RU": "При ________ льются ________.", "FA": "هنگام ________، ________ می‌ریزد.", "RO": "Când ________, curg ________." }, "hint": "Das salzige Wasser, das aus dem Auge kommt." }
+]
+}

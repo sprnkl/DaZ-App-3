@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Zukunftspläne (Futur)",
+"AR": "خطط المستقبل",
+"RU": "Планы на будущее",
+"FA": "برنامه‌های آینده",
+"RO": "Planuri de viitor"
+},
+"vocabulary": [
+{ "key": "L20_VOK_01", "DE": "werden (Hilfsverb)", "AR": "سَوْفَ (مساعد)", "RU": "буду (вспом. гл.)", "FA": "خواهم (کمکی)", "RO": "voi (auxiliar)", "emoji_icon": "🔜" },
+{ "key": "L20_VOK_02", "DE": "ich werde", "AR": "سأكون", "RU": "я буду", "FA": "من خواهم بود", "RO": "eu voi fi", "emoji_icon": "👤" },
+{ "key": "L20_VOK_03", "DE": "du wirst", "AR": "سوف تكون", "RU": "ты будешь", "FA": "تو خواهی بود", "RO": "tu vei fi", "emoji_icon": "➡️" },
+{ "key": "L20_VOK_04", "DE": "nächste Woche", "AR": "الأسبوع القادم", "RU": "на следующей неделе", "FA": "هفته آینده", "RO": "săptămâna viitoare", "emoji_icon": "📅" },
+{ "key": "L20_VOK_05", "DE": "nächstes Jahr", "AR": "العام القادم", "RU": "в следующем году", "FA": "سال آینده", "RO": "anul viitor", "emoji_icon": "🗓️" },
+{ "key": "L20_VOK_06", "DE": "ich möchte", "AR": "أريد أن", "RU": "я хотел бы", "FA": "من می‌خواهم", "RO": "aș vrea să", "emoji_icon": "💭" },
+{ "key": "L20_VOK_07", "DE": "der Wunsch", "AR": "الرغبة/الأمنية", "RU": "желание", "FA": "آرزو", "RO": "dorința", "emoji_icon": "✨" },
+{ "key": "L20_VOK_08", "DE": "der Traum", "AR": "الحلم", "RU": "мечта", "FA": "رویا", "RO": "visul", "emoji_icon": "🔮" },
+{ "key": "L20_VOK_09", "DE": "der Plan", "AR": "الخطة", "RU": "план", "FA": "برنامه", "RO": "planul", "emoji_icon": "🗺️" },
+{ "key": "L20_VOK_10", "DE": "die Ferien/der Urlaub", "AR": "العطلة", "RU": "каникулы/отпуск", "FA": "تعطیلات", "RO": "vacanța", "emoji_icon": "🏖️" },
+{ "key": "L20_VOK_11", "DE": "sparen", "AR": "يُوَفِّر", "RU": "копить", "FA": "پس‌انداز کردن", "RO": "a economisi", "emoji_icon": "💰" },
+{ "key": "L20_VOK_12", "DE": "heiraten", "AR": "يَتَزَوَّج", "RU": "жениться/выйти замуж", "FA": "ازدواج کردن", "RO": "a se căsători", "emoji_icon": "💍" },
+{ "key": "L20_VOK_13", "DE": "die Welt", "AR": "العالم", "RU": "мир", "FA": "دنیا", "RO": "lumea", "emoji_icon": "🌍" },
+{ "key": "L20_VOK_14", "DE": "reisen", "AR": "يُسَافِر", "RU": "путешествовать", "FA": "سفر کردن", "RO": "a călători", "emoji_icon": "✈️" },
+{ "key": "L20_VOK_15", "DE": "das Studium", "AR": "الدراسة الجامعية", "RU": "учеба в ВУЗе", "FA": "تحصیلات دانشگاهی", "RO": "studiile universitare", "emoji_icon": "📚" },
+{ "key": "L20_VOK_16", "DE": "die Berufsschule", "AR": "المدرسة المهنية", "RU": "профессиональное училище", "FA": "هنرستان", "RO": "școala profesională", "emoji_icon": "🏫" },
+{ "key": "L20_VOK_17", "DE": "der Führerschein", "AR": "رخصة القيادة", "RU": "права", "FA": "گواهینامه رانندگی", "RO": "permisul de conducere", "emoji_icon": "🚗" },
+{ "key": "L20_VOK_18", "DE": "kaufen", "AR": "يَشْتَرِي", "RU": "покупать", "FA": "خریدن", "RO": "a cumpăra", "emoji_icon": "🛍️" },
+{ "key": "L20_VOK_19", "DE": "verkaufen", "AR": "يَبيع", "RU": "продавать", "FA": "فروختن", "RO": "a vinde", "emoji_icon": "🏷️" },
+{ "key": "L20_VOK_20", "DE": "die Sprache", "AR": "اللغة", "RU": "язык", "FA": "زبان", "RO": "limba", "emoji_icon": "🗣️" },
+{ "key": "L20_VOK_21", "DE": "lernen", "AR": "يَتَعَلَّم", "RU": "учить", "FA": "یاد گرفتن", "RO": "a învățat", "emoji_icon": "🧠" },
+{ "key": "L20_VOK_22", "DE": "mögen", "AR": "يُحِب", "RU": "нравиться", "FA": "دوست داشتن", "RO": "a plăcea", "emoji_icon": "👍" },
+{ "key": "L20_VOK_23", "DE": "versuchen", "AR": "يُحَاوِل", "RU": "пытаться", "FA": "تلاش کردن", "RO": "a încerca", "emoji_icon": "🎯" },
+{ "key": "L20_VOK_24", "DE": "hoffentlich", "AR": "نأمل أن", "RU": "надеюсь", "FA": "امیدوارم", "RO": "sper", "emoji_icon": "🙏" },
+{ "key": "L20_VOK_25", "DE": "bestimmt", "AR": "بالتأكيد", "RU": "обязательно", "FA": "حتما", "RO": "cu siguranță", "emoji_icon": "✔️" },
+{ "key": "L20_VOK_26", "DE": "Ich glaube, ich werde...", "AR": "أعتقد أنني سأكون...", "RU": "Я думаю, я буду...", "FA": "فکر می‌کنم خواهم بود...", "RO": "Cred că voi fi...", "emoji_icon": "🤔" },
+{ "key": "L20_VOK_27", "DE": "Was wirst du machen?", "AR": "ماذا ستفعل؟", "RU": "Что ты будешь делать?", "FA": "چه کار خواهی کرد؟", "RO": "Ce vei face?", "emoji_icon": "❓" },
+{ "key": "L20_VOK_28", "DE": "Ich weiß es noch nicht.", "AR": "لا أعرف بعد.", "RU": "Я еще не знаю.", "FA": "من هنوز نمی‌دانم.", "RO": "Nu știu încă.", "emoji_icon": "🤷" },
+{ "key": "L20_VOK_29", "DE": "der Umzug", "AR": "الانتقال", "RU": "переезд", "FA": "اسباب‌کشی", "RO": "mutarea", "emoji_icon": "📦" },
+{ "key": "L20_VOK_30", "DE": "die eigene Wohnung", "AR": "الشقة الخاصة", "RU": "собственная квартира", "FA": "آپارتمان خودم", "RO": "apartamentul propriu", "emoji_icon": "🏡" }
+],
+"exercises": [
+{ "key": "L20_LÜCKE_01", "type": "gap-fill", "answerKey": "werde", "sentence": { "DE": "Ich ________ nächstes Jahr in Deutschland bleiben.", "AR": "أنا ________ البقاء في ألمانيا العام القادم.", "RU": "Я ________ оставаться в Германии в следующем году.", "FA": "من ________ سال آینده در آلمان بمانم.", "RO": "Eu ________ rămâne în Germania anul viitor." }, "hint": "Das Hilfsverb für die Zukunft." },
+{ "key": "L20_LÜCKE_02", "type": "gap-fill", "answerKey": "möchte", "sentence": { "DE": "Ich ________ später Informatiker werden.", "AR": "أنا ________ أن أصبح خبيراً في المعلوماتية لاحقاً.", "RU": "Я ________ стать IT-специалистом позже.", "FA": "من ________ بعداً متخصص آی‌تی شوم.", "RO": "Aș ________ să devin specialist IT mai târziu." }, "hint": "Das Modalverb für Wünsche." },
+{ "key": "L20_LÜCKE_03", "type": "gap-fill", "answerKey": "reisen", "sentence": { "DE": "In den Ferien ________ ich nach Italien.", "AR": "في العطلة ________ إلى إيطاليا.", "RU": "На каникулах я ________ в Италию.", "FA": "من در تعطیلات به ایتالیا ________.", "RO": "În vacanță ________ în Italia." }, "hint": "Das Verb für 'in ein anderes Land fahren'." },
+{ "key": "L20_ZUORD_04", "type": "matching", "matchDE": "Universität", "matchKey": "studieren", "sentence": { "DE": "Ich möchte an der ________.", "AR": "أريد أن ________ في الجامعة.", "RU": "Я хотел бы ________ в университете.", "FA": "من می‌خواهم در دانشگاه ________.", "RO": "Aș vrea să ________ la universitate." }, "hint": "Das Verb für Lernen an der Uni." }
+]
+}

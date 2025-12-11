@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Berufe und Praktika",
+"AR": "المهن والتدريب العملي",
+"RU": "Профессии и практика",
+"FA": "شغل و کارآموزی",
+"RO": "Meserii și stagii"
+},
+"vocabulary": [
+{ "key": "L19_VOK_01", "DE": "der Beruf", "AR": "المهنة", "RU": "профессия", "FA": "شغل", "RO": "meseria", "emoji_icon": "💼" },
+{ "key": "L19_VOK_02", "DE": "arbeiten", "AR": "يَعْمَل", "RU": "работать", "FA": "کار کردن", "RO": "a lucra", "emoji_icon": "👷" },
+{ "key": "L19_VOK_03", "DE": "der Arzt", "AR": "الطبيب", "RU": "врач", "FA": "دکتر", "RO": "doctorul", "emoji_icon": "👨‍⚕️" },
+{ "key": "L19_VOK_04", "DE": "die Krankenschwester", "AR": "الممرضة", "RU": "медсестра", "FA": "پرستار", "RO": "asistenta medicală", "emoji_icon": "👩‍⚕️" },
+{ "key": "L19_VOK_05", "DE": "der Ingenieur", "AR": "المهندس", "RU": "инженер", "FA": "مهندس", "RO": "inginerul", "emoji_icon": "⚙️" },
+{ "key": "L19_VOK_06", "DE": "der Verkäufer", "AR": "البائع", "RU": "продавец", "FA": "فروشنده", "RO": "vânzătorul", "emoji_icon": "🛍️" },
+{ "key": "L19_VOK_07", "DE": "der Bäcker", "AR": "الخباز", "RU": "пекарь", "FA": "نانوا", "RO": "brutarul", "emoji_icon": "👨‍🍳" },
+{ "key": "L19_VOK_08", "DE": "der Polizist", "AR": "الشرطي", "RU": "полицейский", "FA": "پلیس", "RO": "polițistul", "emoji_icon": "👮" },
+{ "key": "L19_VOK_09", "DE": "die IT-Expertin", "AR": "خبير تكنولوجيا المعلومات (f.)", "RU": "ИТ-специалист (f.)", "FA": "متخصص آی‌تی (f.)", "RO": "experta IT", "emoji_icon": "👩‍💻" },
+{ "key": "L19_VOK_10", "DE": "der Handwerker", "AR": "الحرفي", "RU": "ремесленник", "FA": "صنعتگر", "RO": "muncitorul calificat", "emoji_icon": "🛠️" },
+{ "key": "L19_VOK_11", "DE": "Was machst du beruflich?", "AR": "ماذا تعمل؟", "RU": "Кем ты работаешь?", "FA": "شغل شما چیست؟", "RO": "Ce lucrezi?", "emoji_icon": "❓" },
+{ "key": "L19_VOK_12", "DE": "das Praktikum", "AR": "التدريب العملي", "RU": "практика", "FA": "کارآموزی", "RO": "stagiul", "emoji_icon": "📋" },
+{ "key": "L19_VOK_13", "DE": "die Bewerbung", "AR": "الطلب", "RU": "заявление", "FA": "درخواست", "RO": "aplicația", "emoji_icon": "📧" },
+{ "key": "L19_VOK_14", "DE": "der Lebenslauf", "AR": "السيرة الذاتية", "RU": "резюме", "FA": "رزومه", "RO": "CV-ul", "emoji_icon": "📄" },
+{ "key": "L19_VOK_15", "DE": "die Ausbildung", "AR": "التدريب المهني", "RU": "обучение", "FA": "آموزش شغلی", "RO": "formarea profesională", "emoji_icon": "🎓" },
+{ "key": "L19_VOK_16", "DE": "studieren", "AR": "يَدْرُس (جامعة)", "RU": "учиться (в ВУЗе)", "FA": "تحصیل کردن (دانشگاه)", "RO": "a studia (la facultate)", "emoji_icon": "📚" },
+{ "key": "L19_VOK_17", "DE": "lernen", "AR": "يَتَعَلَّم", "RU": "учиться/изучать", "FA": "یاد گرفتن", "RO": "a învățat", "emoji_icon": "🧠" },
+{ "key": "L19_VOK_18", "DE": "die Universität", "AR": "الجامعة", "RU": "университет", "FA": "دانشگاه", "RO": "universitatea", "emoji_icon": "🏛️" },
+{ "key": "L19_VOK_19", "DE": "verdienen", "AR": "يَكْسَب", "RU": "зарабатывать", "FA": "کسب کردن", "RO": "a câștiga (bani)", "emoji_icon": "💰" },
+{ "key": "L19_VOK_20", "DE": "die Stelle/der Job", "AR": "الوظيفة", "RU": "работа", "FA": "کار", "RO": "slujba", "emoji_icon": "👔" },
+{ "key": "L19_VOK_21", "DE": "der Kollege", "AR": "الزميل", "RU": "коллега", "FA": "همکار", "RO": "colegul", "emoji_icon": "🤝" },
+{ "key": "L19_VOK_22", "DE": "der Chef", "AR": "الرئيس", "RU": "начальник", "FA": "رئیس", "RO": "șeful", "emoji_icon": "👑" },
+{ "key": "L19_VOK_23", "DE": "teamfähig", "AR": "قادر على العمل الجماعي", "RU": "способный работать в команде", "FA": "قابلیت کار تیمی", "RO": "capabil de lucru în echipă", "emoji_icon": "👥" },
+{ "key": "L19_VOK_24", "DE": "zuverlässig", "AR": "موثوق", "RU": "надежный", "FA": "قابل اعتماد", "RO": "de încredere", "emoji_icon": "✔️" },
+{ "key": "L19_VOK_25", "DE": "kreativ", "AR": "إبداعي", "RU": "креативный", "FA": "خلاق", "RO": "creativ", "emoji_icon": "💡" },
+{ "key": "L19_VOK_26", "DE": "suchen", "AR": "يَبْحَث", "RU": "искать", "FA": "جستجو کردن", "RO": "a căuta", "emoji_icon": "🔍" },
+{ "key": "L19_VOK_27", "DE": "finden", "AR": "يَجِد", "RU": "находить", "FA": "پیدا کردن", "RO": "a găsi", "emoji_icon": "✅" },
+{ "key": "L19_VOK_28", "DE": "der Plan", "AR": "الخطة", "RU": "план", "FA": "برنامه", "RO": "planul", "emoji_icon": "🗺️" },
+{ "key": "L19_VOK_29", "DE": "die Zukunft", "AR": "المستقبل", "RU": "будущее", "FA": "آینده", "RO": "viitorul", "emoji_icon": "🔮" },
+{ "key": "L19_VOK_30", "DE": "der Lebensweg", "AR": "مسار الحياة", "RU": "жизненный путь", "FA": "مسیر زندگی", "RO": "calea vieții", "emoji_icon": "🛤️" }
+],
+"exercises": [
+{ "key": "L19_LÜCKE_01", "type": "gap-fill", "answerKey": "Praktikum", "sentence": { "DE": "Ich mache ein ________ in einer Firma.", "AR": "أنا أقوم بـ ________ في شركة.", "RU": "Я прохожу ________ в фирме.", "FA": "من در یک شرکت ________ می‌کنم.", "RO": "Fac un ________ la o firmă." }, "hint": "Kurzzeitige Arbeit zum Lernen." },
+{ "key": "L19_LÜCKE_02", "type": "gap-fill", "answerKey": "arbeiten", "sentence": { "DE": "Mein Vater ________ als Ingenieur.", "AR": "والدي ________ كمهندس.", "RU": "Мой папа ________ инженером.", "FA": "پدرم به عنوان مهندس ________ می‌کند.", "RO": "Tatăl meu ________ ca inginer." }, "hint": "Das Verb für 'einen Beruf ausüben'." },
+{ "key": "L19_LÜCKE_03", "type": "gap-fill", "answerKey": "Bewerbung", "sentence": { "DE": "Ich schreibe eine ________ für den Job.", "AR": "أنا أكتب ________ للوظيفة.", "RU": "Я пишу ________ на эту работу.", "FA": "من برای این شغل ________ می‌نویسم.", "RO": "Eu scriu o ________ pentru slujbă." }, "hint": "Das Dokument, das man für einen Job schickt." },
+{ "key": "L19_ZUORD_04", "type": "matching", "matchDE": "Ausbildung", "matchKey": "studieren", "sentence": { "DE": "Nach der Schule kann man eine ________ machen oder ________.", "AR": "بعد المدرسة يمكن للمرء أن يقوم بـ ________ أو ________.", "RU": "После школы можно получить ________ или ________.", "FA": "بعد مدرسه می‌توان ________ کرد یا ________.", "RO": "După școală poți face o ________ sau ________." }, "hint": "Das Verb für Uni/Hochschule." }
+]
+}

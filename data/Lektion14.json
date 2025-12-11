@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Gefühle und Befinden",
+"AR": "المشاعر والحالة",
+"RU": "Чувства и состояние",
+"FA": "احساسات و حال",
+"RO": "Emoții și stare de spirit"
+},
+"vocabulary": [
+{ "key": "L14_VOK_01", "DE": "glücklich", "AR": "سعيد", "RU": "счастливый", "FA": "خوشحال", "RO": "fericit", "emoji_icon": "😊" },
+{ "key": "L14_VOK_02", "DE": "traurig", "AR": "حزين", "RU": "грустный", "FA": "غمگین", "RO": "trist", "emoji_icon": "😢" },
+{ "key": "L14_VOK_03", "DE": "wütend/ärgerlich", "AR": "غاضب", "RU": "злой", "FA": "عصبانی", "RO": "supărat", "emoji_icon": "😡" },
+{ "key": "L14_VOK_04", "DE": "müde", "AR": "متعب", "RU": "усталый", "FA": "خسته", "RO": "obosit", "emoji_icon": "😴" },
+{ "key": "L14_VOK_05", "DE": "langweilig (mir ist langw.)", "AR": "ممل", "RU": "скучно", "FA": "حوصله‌سربر", "RO": "plictisitor", "emoji_icon": "🥱" },
+{ "key": "L14_VOK_06", "DE": "interessiert", "AR": "مهتم", "RU": "заинтересованный", "FA": "علاقه‌مند", "RO": "interesat", "emoji_icon": "👀" },
+{ "key": "L14_VOK_07", "DE": "verliebt", "AR": "واقع في الحب", "RU": "влюбленный", "FA": "عاشق", "RO": "îndrăgostit", "emoji_icon": "😍" },
+{ "key": "L14_VOK_08", "DE": "entspannt", "AR": "مسترخ", "RU": "расслабленный", "FA": "آرام", "RO": "relaxat", "emoji_icon": "😌" },
+{ "key": "L14_VOK_09", "DE": "gestresst", "AR": "مجهد", "RU": "в стрессе", "FA": "پراسترس", "RO": "stresat", "emoji_icon": "😩" },
+{ "key": "L14_VOK_10", "DE": "Wie geht es dir?", "AR": "كيف حالك؟", "RU": "Как дела?", "FA": "حالت چطوره؟", "RO": "Ce mai faci?", "emoji_icon": "❓" },
+{ "key": "L14_VOK_11", "DE": "Es geht mir gut.", "AR": "أنا بخير.", "RU": "У меня все хорошо.", "FA": "حال من خوب است.", "RO": "Sunt bine.", "emoji_icon": "👍" },
+{ "key": "L14_VOK_12", "DE": "Es geht mir schlecht.", "AR": "أنا لست بخير.", "RU": "Мне плохо.", "FA": "حال من بد است.", "RO": "Nu sunt bine.", "emoji_icon": "👎" },
+{ "key": "L14_VOK_13", "DE": "fühlen", "AR": "يَشْعُر", "RU": "чувствовать", "FA": "احساس کردن", "RO": "a simți", "emoji_icon": "🖐️" },
+{ "key": "L14_VOK_14", "DE": "weil...", "AR": "لأن...", "RU": "потому что...", "FA": "چون...", "RO": "deoarece...", "emoji_icon": "💬" },
+{ "key": "L14_VOK_15", "DE": "denken", "AR": "يُفَكِّر", "RU": "думать", "FA": "فکر کردن", "RO": "a gândi", "emoji_icon": "🤔" },
+{ "key": "L14_VOK_16", "DE": "hoffen", "AR": "يَأمَل", "RU": "надеяться", "FA": "امیدوار بودن", "RO": "a spera", "emoji_icon": "🤞" },
+{ "key": "L14_VOK_17", "DE": "weinen", "AR": "يَبْكِي", "RU": "плакать", "FA": "گریه کردن", "RO": "a plânge", "emoji_icon": "😭" },
+{ "key": "L14_VOK_18", "DE": "lachen", "AR": "يَضْحَك", "RU": "смеяться", "FA": "خندیدن", "RO": "a râde", "emoji_icon": "😂" },
+{ "key": "L14_VOK_19", "DE": "stolz", "AR": "فخور", "RU": "гордый", "FA": "مفتخر", "RO": "mândru", "emoji_icon": "💪" },
+{ "key": "L14_VOK_20", "DE": "ängstlich", "AR": "خائف", "RU": "напуганный", "FA": "ترسیده", "RO": "speriat", "emoji_icon": "😨" },
+{ "key": "L14_VOK_21", "DE": "Ich bin in dich verliebt.", "AR": "أنا مغرم بك.", "RU": "Я в тебя влюблен.", "FA": "من عاشقت هستم.", "RO": "Sunt îndrăgostit de tine.", "emoji_icon": "😍" },
+{ "key": "L14_VOK_22", "DE": "der Grund", "AR": "السبب", "RU": "причина", "FA": "دلیل", "RO": "motivul", "emoji_icon": "❔" },
+{ "key": "L14_VOK_23", "DE": "Warum?", "AR": "لماذا؟", "RU": "Почему?", "FA": "چرا؟", "RO": "De ce?", "emoji_icon": "❓" },
+{ "key": "L14_VOK_24", "DE": "die Überraschung", "AR": "المفاجأة", "RU": "сюрприз", "FA": "تعجب", "RO": "surpriza", "emoji_icon": "🤯" },
+{ "key": "L14_VOK_25", "DE": "die Sorge", "AR": "القلق", "RU": "беспокойство", "FA": "نگرانی", "RO": "grija", "emoji_icon": "😟" },
+{ "key": "L14_VOK_26", "DE": "wunderbar", "AR": "رائع", "RU": "замечательный", "FA": "فوق‌العاده", "RO": "minunat", "emoji_icon": "🤩" },
+{ "key": "L14_VOK_27", "DE": "schrecklich", "AR": "فظيع", "RU": "ужасный", "FA": "وحشتناک", "RO": "teribil", "emoji_icon": "🤮" },
+{ "key": "L14_VOK_28", "DE": "Ich freue mich.", "AR": "أنا سعيد.", "RU": "Я рад.", "FA": "من خوشحالم.", "RO": "Mă bucur.", "emoji_icon": "😄" },
+{ "key": "L14_VOK_29", "DE": "Ich bin sauer.", "AR": "أنا غاضب.", "RU": "Я злой.", "FA": "من عصبانی هستم.", "RO": "Sunt nervos.", "emoji_icon": "😠" },
+{ "key": "L14_VOK_30", "DE": "Ich habe Angst.", "AR": "أنا خائف.", "RU": "Мне страшно.", "FA": "من می‌ترسم.", "RO": "Mi-e frică.", "emoji_icon": "😱" }
+],
+"exercises": [
+{ "key": "L14_LÜCKE_01", "type": "gap-fill", "answerKey": "traurig", "sentence": { "DE": "Er ist ________, weil er seinen Hund vermisst.", "AR": "هو ________ لأنه اشتاق إلى كلبه.", "RU": "Он ________, потому что скучает по собаке.", "FA": "او ________ است چون دلتنگ سگش است.", "RO": "El este ________, deoarece îi lipsește câinele." }, "hint": "Das Gegenteil von 'glücklich'." },
+{ "key": "L14_LÜCKE_02", "type": "gap-fill", "answerKey": "weil", "sentence": { "DE": "Ich bin müde, ________ ich schlecht geschlafen habe.", "AR": "أنا متعب ________ لم أنم جيداً.", "RU": "Я устал, ________ плохо спал.", "FA": "من خسته هستم ________ بد خوابیدم.", "RO": "Sunt obosit ________ am dormit prost." }, "hint": "Das Wort, das den Grund angibt (Nebensatz)." },
+{ "key": "L14_LÜCKE_03", "type": "gap-fill", "answerKey": "fühlt", "sentence": { "DE": "Sie ________ sich heute entspannt.", "AR": "هي ________ بالاسترخاء اليوم.", "RU": "Она ________ себя сегодня расслабленной.", "FA": "او امروز احساس ________ آرامش می‌کند.", "RO": "Ea se ________ relaxată astăzi." }, "hint": "Das Verb für 'spüren' (3. Person)." },
+{ "key": "L14_ZUORD_04", "type": "matching", "matchDE": "wunderbar", "matchKey": "schrecklich", "sentence": { "DE": "Das Gegenteil von ________ ist schrecklich.", "AR": "عكس ________ هو فظيع.", "RU": "Противоположность ________ — ужасный.", "FA": "متضاد ________، وحشتناک است.", "RO": "Opunerea lui ________ este teribil." }, "hint": "Ein Synonym für 'toll'." }
+]
+}

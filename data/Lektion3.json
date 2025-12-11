@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Mein Klassenzimmer",
+"AR": "صفي",
+"RU": "Мой класс",
+"FA": "کلاس من",
+"RO": "Clasa mea"
+},
+"vocabulary": [
+{ "key": "L3_VOK_01", "DE": "der Tisch", "AR": "الطاولة", "RU": "стол", "FA": "میز", "RO": "masa", "emoji_icon": "⌈ ⌉" },
+{ "key": "L3_VOK_02", "DE": "der Stuhl", "AR": "الكرسي", "RU": "стул", "FA": "صندلی", "RO": "scaun", "emoji_icon": "🪑" },
+{ "key": "L3_VOK_03", "DE": "die Tafel", "AR": "السبورة", "RU": "доска", "FA": "تخته سیاه", "RO": "tabla", "emoji_icon": "🟩" },
+{ "key": "L3_VOK_04", "DE": "die Kreide", "AR": "الطباشير", "RU": "мел", "FA": "گچ", "RO": "creta", "emoji_icon": "🖍️" },
+{ "key": "L3_VOK_05", "DE": "das Buch", "AR": "الكتاب", "RU": "книга", "FA": "کتاب", "RO": "carte", "emoji_icon": "📖" },
+{ "key": "L3_VOK_06", "DE": "das Heft", "AR": "الدفتر", "RU": "тетрадь", "FA": "دفتر", "RO": "caietul", "emoji_icon": "📓" },
+{ "key": "L3_VOK_07", "DE": "der Stift", "AR": "القلم", "RU": "ручка/карандаш", "FA": "قلم", "RO": "stiloul/creionul", "emoji_icon": "🖊️" },
+{ "key": "L3_VOK_08", "DE": "der Radiergummi", "AR": "الممحاة", "RU": "ластик", "FA": "پاک کن", "RO": "radiera", "emoji_icon": "🧼" },
+{ "key": "L3_VOK_09", "DE": "der Rucksack", "AR": "حقيبة الظهر", "RU": "рюкзак", "FA": "کوله پشتی", "RO": "ghiozdanul", "emoji_icon": "🎒" },
+{ "key": "L3_VOK_10", "DE": "die Tür", "AR": "الباب", "RU": "дверь", "FA": "در", "RO": "ușa", "emoji_icon": "🚪" },
+{ "key": "L3_VOK_11", "DE": "das Fenster", "AR": "النافذة", "RU": "окна", "FA": "پنجره", "RO": "fereastra", "emoji_icon": "🪟" },
+{ "key": "L3_VOK_12", "DE": "das Regal", "AR": "الرف", "RU": "полка", "FA": "قفسه", "RO": "raftul", "emoji_icon": "📚" },
+{ "key": "L3_VOK_13", "DE": "der Boden", "AR": "الأرضية", "RU": "пол", "FA": "کف", "RO": "podeaua", "emoji_icon": "⬇️" },
+{ "key": "L3_VOK_14", "DE": "die Wand", "AR": "الحائط", "RU": "стена", "FA": "دیوار", "RO": "peretele", "emoji_icon": "🧱" },
+{ "key": "L3_VOK_15", "DE": "das Bild", "AR": "الصورة", "RU": "картина", "FA": "تصویر", "RO": "imagineا", "emoji_icon": "🖼️" },
+{ "key": "L3_VOK_16", "DE": "schreiben", "AR": "يكتب", "RU": "писать", "FA": "نوشتن", "RO": "a scrie", "emoji_icon": "✍️" },
+{ "key": "L3_VOK_17", "DE": "lesen", "AR": "يقرأ", "RU": "читать", "FA": "خواندن", "RO": "a citi", "emoji_icon": "📖" },
+{ "key": "L3_VOK_18", "DE": "hören", "AR": "يسمع", "RU": "слушать", "FA": "گوش دادن", "RO": "a asculta", "emoji_icon": "👂" },
+{ "key": "L3_VOK_19", "DE": "lernen", "AR": "يتعلم", "RU": "учить", "FA": "یاد گرفتن", "RO": "a învățaa", "emoji_icon": "🧠" },
+{ "key": "L3_VOK_20", "DE": "fragen", "AR": "يسأل", "RU": "спрашивать", "FA": "پرسیدن", "RO": "a întreba", "emoji_icon": "❓" },
+{ "key": "L3_VOK_21", "DE": "antworten", "AR": "يجيب", "RU": "отвечать", "FA": "پاسخ دادن", "RO": "a răspunde", "emoji_icon": "💬" },
+{ "key": "L3_VOK_22", "DE": "der Lehrer", "AR": "المعلم", "RU": "учитель", "FA": "معلم (м.)", "RO": "profesorul", "emoji_icon": "👨‍🏫" },
+{ "key": "L3_VOK_23", "DE": "die Lehrerin", "AR": "المعلمة", "RU": "учительница", "FA": "معلم (f.)", "RO": "profesoara", "emoji_icon": "👩‍🏫" },
+{ "key": "L3_VOK_24", "DE": "der Schüler", "AR": "التلميذ", "RU": "ученик", "FA": "دانش‌آموز (м.)", "RO": "elevul", "emoji_icon": "🧑‍🎓" },
+{ "key": "L3_VOK_25", "DE": "die Schülerin", "AR": "التلميذة", "RU": "ученица", "FA": "دانش‌آموز (f.)", "RO": "eleva", "emoji_icon": "👧" },
+{ "key": "L3_VOK_26", "DE": "groß", "AR": "كبير", "RU": "большой", "FA": "بزرگ", "RO": "mare", "emoji_icon": "🐘" },
+{ "key": "L3_VOK_27", "DE": "klein", "AR": "صغير", "RU": "маленький", "FA": "کوچک", "RO": "mic", "emoji_icon": "🐜" },
+{ "key": "L3_VOK_28", "DE": "neu", "AR": "جديد", "RU": "новый", "FA": "جدید", "RO": "nou", "emoji_icon": "🆕" },
+{ "key": "L3_VOK_29", "DE": "laut", "AR": "صاخب", "RU": "громкий", "FA": "بلند", "RO": "tare (zgomotos)", "emoji_icon": "📢" },
+{ "key": "L3_VOK_30", "DE": "leise", "AR": "هادئ", "RU": "тихий", "FA": "آرام", "RO": "liniștit", "emoji_icon": "🤫" }
+],
+"exercises": [
+{ "key": "L3_LÜCKE_01", "type": "gap-fill", "answerKey": "Tafel", "sentence": { "DE": "Der Lehrer schreibt mit Kreide an die ________.", "AR": "يكتب المعلم بالطباشير على ________.", "RU": "Учитель пишет мелом на ________.", "FA": "معلم با گچ روی ________ می‌نویسد.", "RO": "Profesorul scrie con creta pe ________." }, "hint": "Hier steht das große schwarze Brett." },
+{ "key": "L3_LÜCKE_02", "type": "gap-fill", "answerKey": "hört", "sentence": { "DE": "Der Schüler ________ dem Lehrer zu.", "AR": "التلميذ ________ للمعلم.", "RU": "Ученик ________ учителя.", "FA": "دانش‌آموز به معلم ________ می‌دهد.", "RO": "Elevul îl ________ pe profesor." }, "hint": "Was machst du mit deinen Ohren?" },
+{ "key": "L3_LÜCKE_03", "type": "gap-fill", "answerKey": "Stuhl", "sentence": { "DE": "Ich sitze auf meinem ________.", "AR": "أنا أجلس على ________ الخاص بي.", "RU": "Я сижу на своем ________.", "FA": "من روی ________ خودم نشسته‌ام.", "RO": "Eu stau pe ________ meu." }, "hint": "Das Möbelstück, um zu sitzen." },
+{ "key": "L3_ZUORD_04", "type": "matching", "matchDE": "laut", "matchKey": "leise", "sentence": { "DE": "Das Gegenteil von ________ ist laut.", "AR": "عكس ________ هو صاخب.", "RU": "Противоpoloжность ________ — громкий.", "FA": "متضاد ________ بلند است.", "RO": "Opunerea lui ________ ist tare." }, "hint": "Du musst sein, damit der Lehrer dich versteht." }
+]
+}

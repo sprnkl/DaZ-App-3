@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Ich und mein Name",
+"AR": "أنا واسمي",
+"RU": "Я и мое имя",
+"FA": "من و نامم",
+"RO": "Eu și numele meu"
+},
+"vocabulary": [
+{ "key": "L1_VOK_01", "DE": "heißen", "AR": "يُدْعَى", "RU": "зваться", "FA": "نام داشتن", "RO": "a se numi", "emoji_icon": "🗣️" },
+{ "key": "L1_VOK_02", "DE": "kommen (aus)", "AR": "يَأْتِي (من)", "RU": "приходить (из)", "FA": "آمدن (از)", "RO": "a veni (din)", "emoji_icon": "🌍" },
+{ "key": "L1_VOK_03", "DE": "wohnen", "AR": "يَسْكُن", "RU": "жить", "FA": "زندگی کردن", "RO": "a locui", "emoji_icon": "🏠" },
+{ "key": "L1_VOK_04", "DE": "der Name", "AR": "الاسم", "RU": "имя", "FA": "نام", "RO": "numele", "emoji_icon": "🏷️" },
+{ "key": "L1_VOK_05", "DE": "das Alter", "AR": "العمر", "RU": "возраст", "FA": "سن", "RO": "vârsta", "emoji_icon": "🎂" },
+{ "key": "L1_VOK_06", "DE": "die Herkunft", "AR": "الأصل", "RU": "происхождение", "FA": "زادگاه", "RO": "originea", "emoji_icon": "📍" },
+{ "key": "L1_VOK_07", "DE": "die Straße", "AR": "الشارع", "RU": "улица", "FA": "خیابان", "RO": "strada", "emoji_icon": "🛣️" },
+{ "key": "L1_VOK_08", "DE": "die Stadt", "AR": "المدينة", "RU": "город", "FA": "شهر", "RO": "orașul", "emoji_icon": "🏙️" },
+{ "key": "L1_VOK_09", "DE": "das Land", "AR": "البلد", "RU": "страна", "FA": "کشور", "RO": "țara", "emoji_icon": "🗺️" },
+{ "key": "L1_VOK_10", "DE": "sprechen", "AR": "يَتَحَدَّث", "RU": "говорить", "FA": "صحبت کردن", "RO": "a vorbi", "emoji_icon": "💬" },
+{ "key": "L1_VOK_11", "DE": "die Sprache", "AR": "اللغة", "RU": "язык", "FA": "زبان", "RO": "limba", "emoji_icon": "🗣️" },
+{ "key": "L1_VOK_12", "DE": "die Eltern", "AR": "الوالدان", "RU": "родители", "FA": "والدین", "RO": "părinții", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L1_VOK_13", "DE": "der Bruder", "AR": "الأخ", "RU": "брат", "FA": "برادر", "RO": "fratele", "emoji_icon": "👦" },
+{ "key": "L1_VOK_14", "DE": "die Schwester", "AR": "الأخت", "RU": "сестра", "FA": "خواهر", "RO": "sora", "emoji_icon": "👧" },
+{ "key": "L1_VOK_15", "DE": "der Mensch", "AR": "الشخص", "RU": "человек", "FA": "شخص", "RO": "persoana", "emoji_icon": "👤" },
+{ "key": "L1_VOK_16", "DE": "alt", "AR": "قديم", "RU": "старый", "FA": "پیر", "RO": "vechi / bătrân", "emoji_icon": "👴" },
+{ "key": "L1_VOK_17", "DE": "jung", "AR": "شاب", "RU": "молодой", "FA": "جوان", "RO": "tânăr / tânără", "emoji_icon": "👶" },
+{ "key": "L1_VOK_18", "DE": "neu", "AR": "جديد", "RU": "новый", "FA": "جدید", "RO": "nou / nouă", "emoji_icon": "🆕" },
+{ "key": "L1_VOK_19", "DE": "falsch", "AR": "خطأ", "RU": "неправильный", "FA": "غلط", "RO": "greșit", "emoji_icon": "❌" },
+{ "key": "L1_VOK_20", "DE": "richtig", "AR": "صحيح", "RU": "правильный", "FA": "درست", "RO": "corect", "emoji_icon": "✅" },
+{ "key": "L1_VOK_21", "DE": "Wie?", "AR": "كيف؟", "RU": "Как?", "FA": "چطور؟", "RO": "Cum?", "emoji_icon": "❓" },
+{ "key": "L1_VOK_22", "DE": "Wo?", "AR": "أين؟", "RU": "Где?", "FA": "کجا؟", "RO": "Unde?", "emoji_icon": "🗺️" },
+{ "key": "L1_VOK_23", "DE": "Woher?", "AR": "من أين؟", "RU": "Откуда?", "FA": "اهل کجایی؟", "RO": "De unde?", "emoji_icon": "🌎" },
+{ "key": "L1_VOK_24", "DE": "eins", "AR": "واحد", "RU": "один", "FA": "یک", "RO": "unu", "emoji_icon": "1️⃣" },
+{ "key": "L1_VOK_25", "DE": "zwei", "AR": "اثنان", "RU": "два", "FA": "دو", "RO": "doi", "emoji_icon": "2️⃣" },
+{ "key": "L1_VOK_26", "DE": "drei", "AR": "ثلاثة", "RU": "три", "FA": "سه", "RO": "trei", "emoji_icon": "3️⃣" },
+{ "key": "L1_VOK_27", "DE": "vier", "AR": "أربعة", "RU": "четыре", "FA": "چهار", "RO": "patru", "emoji_icon": "4️⃣" },
+{ "key": "L1_VOK_28", "DE": "fünf", "AR": "خمسة", "RU": "пять", "FA": "پنج", "RO": "cinci", "emoji_icon": "5️⃣" },
+{ "key": "L1_VOK_29", "DE": "Guten Tag", "AR": "مرحبا", "RU": "Здравствуйте", "FA": "سلام", "RO": "Bună ziua", "emoji_icon": "👋" },
+{ "key": "L1_VOK_30", "DE": "Auf Wiedersehen", "AR": "إلى اللقاء", "RU": "До свидания", "FA": "خداحافظ", "RO": "La revedere", "emoji_icon": "🚪" }
+],
+"exercises": [
+{ "key": "L1_LÜCKE_03", "type": "gap-fill", "answerKey": "habe", "sentence": { "DE": "Ich ________ zwei Geschwister.", "AR": "لدي ________ أختان.", "RU": "У меня ________ две сестры.", "FA": "من دو خواهر ________.", "RO": "Eu ________ doi frați." }, "hint": "Das Verb 'haben' in der 1. Person Singular." },
+{ "key": "L1_LÜCKE_04", "type": "gap-fill", "answerKey": "wohnt", "sentence": { "DE": "Max ________ in der Bismarckstraße.", "AR": "ماكس ________ في شارع بسمارك.", "RU": "Макс ________ на улице Бисмаркштрассе.", "FA": "مکس در خیابان بیسمارک ________ می‌کند.", "RO": "Max ________ pe strada Bismarck." }, "hint": "Das Verb 'wohnen' in der 3. Person Singular." },
+{ "key": "L1_LÜCKE_05", "type": "gap-fill", "answerKey": "Land", "sentence": { "DE": "Ich komme aus Syrien. Das ist mein ________.", "AR": "أنا قادم من سوريا. هذه هي ________ الخاصة بي.", "RU": "Я из Сирии. Это моя ________.", "FA": "من اهل سوریه هستم. این ________ من است.", "RO": "Eu vin din Siria. Aceasta este ________ mea." }, "hint": "Das Wort für 'country'." },
+{ "key": "L1_ZUORD_01", "type": "matching", "matchDE": "richtig", "matchKey": "falsch", "sentence": { "DE": "Richtig oder ________?", "AR": "صحيح أم ________؟", "RU": "Правильно или ________?", "FA": "درست یا ________؟", "RO": "Corect sau ________?" }, "hint": "Das Gegenteil von 'richtig'." }
+]
+}

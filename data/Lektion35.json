@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Deutsches Schulsystem",
+"AR": "نظام التعليم الألماني",
+"RU": "Немецкая школьная система",
+"FA": "سیستم آموزشی آلمان",
+"RO": "Sistemul școlar german"
+},
+"vocabulary": [
+{ "key": "L35_VOK_01", "DE": "die Grundschule (1.–4. Klasse)", "AR": "المدرسة الابتدائية", "RU": "начальная школа", "FA": "دبستان", "RO": "școala primară", "emoji_icon": "🏫" },
+{ "key": "L35_VOK_02", "DE": "die Sekundarstufe", "AR": "المرحلة الثانوية", "RU": "средняя ступень", "FA": "مرحله متوسطه", "RO": "învățământul secundar", "emoji_icon": "🎓" },
+{ "key": "L35_VOK_03", "DE": "die Hauptschule", "AR": "المدرسة الأساسية", "RU": "основная школа", "FA": "مدرسه اصلی", "RO": "școala generală", "emoji_icon": "🎒" },
+{ "key": "L35_VOK_04", "DE": "die Realschule", "AR": "المدرسة الإعدادية", "RU": "реальная школа", "FA": "دبیرستان فنی", "RO": "școala reală", "emoji_icon": "📚" },
+{ "key": "L35_VOK_05", "DE": "das Gymnasium", "AR": "الجمنازيوم", "RU": "гимназия", "FA": "دبیرستان", "RO": "gimnaziul", "emoji_icon": "🏛️" },
+{ "key": "L35_VOK_06", "DE": "die Gesamtschule", "AR": "المدرسة الشاملة", "RU": "объединенная школа", "FA": "مدرسه جامع", "RO": "școala generală", "emoji_icon": "🏫" },
+{ "key": "L35_VOK_07", "DE": "die Berufsschule", "AR": "المدرسة المهنية", "RU": "профессиональное училище", "FA": "هنرستان", "RO": "școala profesională", "emoji_icon": "🛠️" },
+{ "key": "L35_VOK_08", "DE": "die Schulpflicht", "AR": "إلزامية التعليم", "RU": "обязательное образование", "FA": "تحصیل اجباری", "RO": "obligativitatea școlarizării", "emoji_icon": "⚠️" },
+{ "key": "L35_VOK_09", "DE": "der Abschluss", "AR": "الشهادة/الإنهاء", "RU": "аттестат", "FA": "مدرک", "RO": "absolvirea", "emoji_icon": "📜" },
+{ "key": "L35_VOK_10", "DE": "der Hauptschulabschluss", "AR": "شهادة المدرسة الأساسية", "RU": "аттестат основной школы", "FA": "مدرک دبیرستان", "RO": "absolvirea șc. generale", "emoji_icon": "1️⃣" },
+{ "key": "L35_VOK_11", "DE": "die Mittlere Reife", "AR": "شهادة الإعدادية المتوسطة", "RU": "среднее образование", "FA": "دیپلم متوسطه", "RO": "bacalaureatul intermediar", "emoji_icon": "2️⃣" },
+{ "key": "L35_VOK_12", "DE": "das Abitur", "AR": "الثانوية العامة", "RU": "аттестат зрелости", "FA": "دیپلم کامل", "RO": "bacalaureatul", "emoji_icon": "3️⃣" },
+{ "key": "L35_VOK_13", "DE": "das Zeugnis", "AR": "الشهادة/الكشف", "RU": "табель", "FA": "کارنامه", "RO": "certificatul școlar", "emoji_icon": "📑" },
+{ "key": "L35_VOK_14", "DE": "die Versetzung", "AR": "النقل إلى الصف التالي", "RU": "перевод в следующий класс", "FA": "ارتقا به کلاس بالاتر", "RO": "promovarea", "emoji_icon": "⬆️" },
+{ "key": "L35_VOK_15", "DE": "Sitzen bleiben", "AR": "إعادة الصف", "RU": "остаться на второй год", "FA": "مردود شدن", "RO": "a rămâne repetent", "emoji_icon": "⬇️" },
+{ "key": "L35_VOK_16", "DE": "die Noten", "AR": "الدرجات", "RU": "оценки", "FA": "نمرات", "RO": "notele", "emoji_icon": "💯" },
+{ "key": "L35_VOK_17", "DE": "die Anmeldung", "AR": "التسجيل", "RU": "регистрация", "FA": "ثبت نام", "RO": "înregistrarea", "emoji_icon": "✍️" },
+{ "key": "L35_VOK_18", "DE": "die Berufswelt", "AR": "عالم العمل", "RU": "мир профессий", "FA": "دنیای شغل", "RO": "lumea muncii", "emoji_icon": "💼" },
+{ "key": "L35_VOK_19", "DE": "der Berufswunsch", "AR": "الرغبة المهنية", "RU": "желание работать", "FA": "آرزوی شغلی", "RO": "dorința de carieră", "emoji_icon": "💭" },
+{ "key": "L35_VOK_20", "DE": "die Ausbildung", "AR": "التدريب المهني", "RU": "обучение", "FA": "آموزش شغلی", "RO": "formarea profesională", "emoji_icon": "🎓" },
+{ "key": "L35_VOK_21", "DE": "der Elternsprechtag", "AR": "يوم لقاء الآباء", "RU": "родительский день", "FA": "روز ملاقات والدین", "RO": "ziua de consultare a părinților", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L35_VOK_22", "DE": "die Hausaufgaben", "AR": "الواجبات المنزلية", "RU": "домашнее задание", "FA": "تکالیف منزل", "RO": "temele", "emoji_icon": "📝" },
+{ "key": "L35_VOK_23", "DE": "das Schulfach", "AR": "المادة الدراسية", "RU": "школьный предмет", "FA": "درس مدرسه", "RO": "materia școlară", "emoji_icon": "📚" },
+{ "key": "L35_VOK_24", "DE": "der Klassenlehrer", "AR": "معلم الفصل", "RU": "классный руководитель", "FA": "معلم کلاس", "RO": "dirigintele", "emoji_icon": "👨‍🏫" },
+{ "key": "L35_VOK_25", "DE": "die AG (Arbeitsgemeinschaft)", "AR": "ورشة العمل/النشاط", "RU": "кружок", "FA": "گروه کاری", "RO": "cercul de interese", "emoji_icon": "👥" },
+{ "key": "L35_VOK_26", "DE": "der Stundenplan", "AR": "الجدول الدراسي", "RU": "расписание", "FA": "برنامه درسی", "RO": "orarul", "emoji_icon": "🗓️" },
+{ "key": "L35_VOK_27", "DE": "der Prüfungsdruck", "AR": "ضغط الامتحانات", "RU": "экзаменационное давление", "FA": "فشار امتحان", "RO": "stresul examenelor", "emoji_icon": "😩" },
+{ "key": "L35_VOK_28", "DE": "die Klassenfahrt", "AR": "الرحلة الصفية", "RU": "школьная поездка", "FA": "اردوی کلاسی", "RO": "excursia clasei", "emoji_icon": "🚌" },
+{ "key": "L35_VOK_29", "DE": "die Notwendigkeit", "AR": "الضرورة", "RU": "необходимость", "FA": "ضرورت", "RO": "necesitatea", "emoji_icon": "⭐" },
+{ "key": "L35_VOK_30", "DE": "die Chancengleichheit", "AR": "تكافؤ الفرص", "RU": "равенство возможностей", "FA": "برابری فرصت‌ها", "RO": "egalitatea de șanse", "emoji_icon": "⚖️" }
+],
+"exercises": [
+{ "key": "L35_LÜCKE_01", "type": "gap-fill", "answerKey": "Hauptschule", "sentence": { "DE": "Nach der Grundschule gehen viele auf die ________.", "AR": "بعد المدرسة الابتدائية يذهب الكثيرون إلى ________.", "RU": "После начальной школы многие идут в ________.", "FA": "بعد از دبستان، بسیاری به ________ می‌روند.", "RO": "După școala primară, mulți merg la ________.", "hint_de": "Der Schultyp mit dem niedrigsten Abschluss." }, "hint": "Der Schultyp mit dem niedrigsten Abschluss." },
+{ "key": "L35_LÜCKE_02", "type": "gap-fill", "answerKey": "Abitur", "sentence": { "DE": "Um später an der Uni zu studieren, braucht man das ________.", "AR": "للدراسة في الجامعة لاحقاً، يحتاج المرء إلى ________.", "RU": "Чтобы потом учиться в университете, нужен ________.", "FA": "برای تحصیل در دانشگاه، ________ لازم است.", "RO": "Pentru a studia la universitate, ai nevoie de ________." }, "hint": "Der höchste Schulabschluss (Gymnasium)." },
+{ "key": "L35_LÜCKE_03", "type": "gap-fill", "answerKey": "Sitzen bleiben", "sentence": { "DE": "Wenn die Noten schlecht sind, muss man manchmal ________.", "AR": "إذا كانت الدرجات سيئة، يجب على المرء أحياناً ________.", "RU": "Если оценки плохие, иногда приходится ________.", "FA": "اگر نمرات بد باشد، گاهی اوقات باید ________.", "RO": "Dacă notele sunt proaste, uneori trebuie să ________." }, "hint": "Die Klasse wiederholen." },
+{ "key": "L35_ZUORD_04", "type": "matching", "matchDE": "Ausbildung", "matchKey": "Berufsschule", "sentence": { "DE": "Für die ________ besucht man die ________.", "AR": "لـ ________ يذهب المرء إلى ________.", "RU": "Для ________ посещают ________.", "FA": "برای ________، باید به ________ رفت.", "RO": "Pentru ________ se merge la ________." }, "hint": "Die Schule, die zum Erlernen eines Handwerks gehört." }
+]
+}

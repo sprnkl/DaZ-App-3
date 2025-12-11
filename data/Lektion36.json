@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Schulalltag",
+"AR": "الروتين اليومي المدرسي",
+"RU": "Школьные будни",
+"FA": "روال روزمره مدرسه",
+"RO": "Rutina școlară"
+},
+"vocabulary": [
+{ "key": "L36_VOK_01", "DE": "der Unterricht", "AR": "الدرس/الحصة", "RU": "урок", "FA": "کلاس درس", "RO": "ora de curs", "emoji_icon": "📚" },
+{ "key": "L36_VOK_02", "DE": "der Stundenplan", "AR": "الجدول الدراسي", "RU": "расписание", "FA": "برنامه درسی", "RO": "orarul", "emoji_icon": "🗓️" },
+{ "key": "L36_VOK_03", "DE": "die Pause", "AR": "الاستراحة", "RU": "перемена", "FA": "زنگ تفریح", "RO": "pauza", "emoji_icon": "⏸️" },
+{ "key": "L36_VOK_04", "DE": "die große Pause", "AR": "الاستراحة الكبيرة", "RU": "большая перемена", "FA": "زنگ تفریح بزرگ", "RO": "pauza mare", "emoji_icon": "🍔" },
+{ "key": "L36_VOK_05", "DE": "die Schulstunde (45 Min)", "AR": "الحصة المدرسية", "RU": "учебный час", "FA": "ساعت درسی", "RO": "ora de curs", "emoji_icon": "⏰" },
+{ "key": "L36_VOK_06", "DE": "die Tafel", "AR": "السبورة", "RU": "доска", "FA": "تخته سیاه", "RO": "tabla", "emoji_icon": "🟩" },
+{ "key": "L36_VOK_07", "DE": "der Stuhl", "AR": "الكرسي", "RU": "стул", "FA": "صندلی", "RO": "scaunul", "emoji_icon": "🪑" },
+{ "key": "L36_VOK_08", "DE": "sich melden", "AR": "يرفع يده", "RU": "поднимать руку", "FA": "دست بلند کردن", "RO": "a ridica mâna", "emoji_icon": "✋" },
+{ "key": "L36_VOK_09", "DE": "aufpassen", "AR": "ينتبه", "RU": "внимательно слушать", "FA": "توجه کردن", "RO": "a fi atent", "emoji_icon": "👂" },
+{ "key": "L36_VOK_10", "DE": "schreiben", "AR": "يكتب", "RU": "писать", "FA": "نوشتن", "RO": "a scrie", "emoji_icon": "✍️" },
+{ "key": "L36_VOK_11", "DE": "lesen", "AR": "يقرأ", "RU": "читать", "FA": "خواندن", "RO": "a citi", "emoji_icon": "📖" },
+{ "key": "L36_VOK_12", "DE": "fragen", "AR": "يسأل", "RU": "спрашивать", "FA": "پرسیدن", "RO": "a întreba", "emoji_icon": "❓" },
+{ "key": "L36_VOK_13", "DE": "antworten", "AR": "يجيب", "RU": "отвечать", "FA": "پاسخ دادن", "RO": "a răspunde", "emoji_icon": "💬" },
+{ "key": "L36_VOK_14", "DE": "die Hausaufgaben", "AR": "الواجبات المنزلية", "RU": "домашнее задание", "FA": "تکالیف منزل", "RO": "temele", "emoji_icon": "📝" },
+{ "key": "L36_VOK_15", "DE": "das Pausenbrot", "AR": "طعام الإفطار في الاستراحة", "RU": "обед на перемене", "FA": "ساندویچ زنگ تفریح", "RO": "gustarea de la pauză", "emoji_icon": "🥪" },
+{ "key": "L36_VOK_16", "DE": "die Schulklingel", "AR": "جرس المدرسة", "RU": "школьный звонок", "FA": "زنگ مدرسه", "RO": "clopoțelul școlii", "emoji_icon": "🔔" },
+{ "key": "L36_VOK_17", "DE": "beginnen", "AR": "يبدأ", "RU": "начинать", "FA": "شروع کردن", "RO": "a începe", "emoji_icon": "▶️" },
+{ "key": "L36_VOK_18", "DE": "enden", "AR": "ينتهي", "RU": "заканчивать", "FA": "تمام کردن", "RO": "a termina", "emoji_icon": "⏹️" },
+{ "key": "L36_VOK_19", "DE": "der Lehrer/die Lehrerin", "AR": "المعلم/المعلمة", "RU": "учитель/учительница", "FA": "معلم/معلمه", "RO": "profesorul/profesoara", "emoji_icon": "👨‍🏫" },
+{ "key": "L36_VOK_20", "DE": "der Schüler/die Schülerin", "AR": "التلميذ/التلميذة", "RU": "ученик/ученица", "FA": "دانش‌آموز", "RO": "elevul/eleva", "emoji_icon": "🧑‍🎓" },
+{ "key": "L36_VOK_21", "DE": "der Ranzen/Schulranzen", "AR": "الحقيبة المدرسية", "RU": "ранец", "FA": "کیف مدرسه", "RO": "ghiozdanul", "emoji_icon": "🎒" },
+{ "key": "L36_VOK_22", "DE": "die Hefte", "AR": "الدفاتر", "RU": "тетради", "FA": "دفترها", "RO": "caietele", "emoji_icon": "📓" },
+{ "key": "L36_VOK_23", "DE": "die Bücher", "AR": "الكتب", "RU": "книги", "FA": "کتاب‌ها", "RO": "cărțile", "emoji_icon": "📚" },
+{ "key": "L36_VOK_24", "DE": "leise sprechen", "AR": "يتحدث بهدوء", "RU": "говорить тихо", "FA": "آرام صحبت کردن", "RO": "a vorbi în șoaptă", "emoji_icon": "🤫" },
+{ "key": "L36_VOK_25", "DE": "Handy ausschalten", "AR": "إغلاق الهاتف", "RU": "выключить телефон", "FA": "موبایل را خاموش کردن", "RO": "a opri telefonul", "emoji_icon": "📵" },
+{ "key": "L36_VOK_26", "DE": "die Tafel wischen", "AR": "مسح السبورة", "RU": "стереть с доски", "FA": "پاک کردن تخته", "RO": "a șterge tabla", "emoji_icon": "🧽" },
+{ "key": "L36_VOK_27", "DE": "die Notiz", "AR": "الملاحظة", "RU": "заметка", "FA": "یادداشت", "RO": "notă", "emoji_icon": "📌" },
+{ "key": "L36_VOK_28", "DE": "Bitte setzen!", "AR": "تفضل بالجلوس!", "RU": "Садитесь, пожалуйста!", "FA": "لطفا بنشینید!", "RO": "Vă rog să luați loc!", "emoji_icon": "🪑" },
+{ "key": "L36_VOK_29", "DE": "der Klassensprecher", "AR": "ممثل الفصل", "RU": "староста класса", "FA": "نماینده کلاس", "RO": "șeful clasei", "emoji_icon": "🗣️" },
+{ "key": "L36_VOK_30", "DE": "Wir machen eine Klassenarbeit.", "AR": "لدينا اختبار صفي.", "RU": "У нас контрольная работа.", "FA": "ما یک امتحان کلاسی داریم.", "RO": "Avem un test în clasă.", "emoji_icon": "💯" }
+],
+"exercises": [
+{ "key": "L36_LÜCKE_01", "type": "gap-fill", "answerKey": "Hausaufgaben", "sentence": { "DE": "Am Nachmittag mache ich meine ________.", "AR": "بعد الظهر أقوم بـ ________.", "RU": "Днем я делаю свое ________.", "FA": "من بعد از ظهر ________ را انجام می‌دهم.", "RO": "După-amiaza îmi fac ________." }, "hint": "Die Aufgaben, die zu Hause gemacht werden." },
+{ "key": "L36_LÜCKE_02", "type": "gap-fill", "answerKey": "meldet", "sentence": { "DE": "Wer etwas weiß, ________ sich.", "AR": "من يعرف شيئاً، ________.", "RU": "Кто что-то знает, ________ руку.", "FA": "هر کس چیزی بداند، ________ دست.", "RO": "Cine știe ceva, ________ mâna." }, "hint": "Das Verb für 'die Hand heben'." },
+{ "key": "L36_LÜCKE_03", "type": "gap-fill", "answerKey": "Tafel", "sentence": { "DE": "Der Lehrer schreibt die Notizen an die ________.", "AR": "المعلم يكتب الملاحظات على ________.", "RU": "Учитель пишет заметки на ________.", "FA": "معلم یادداشت‌ها را روی ________ می‌نویسد.", "RO": "Profesorul scrie notițele pe ________." }, "hint": "Die große grüne Fläche im Klassenzimmer." },
+{ "key": "L36_ZUORD_04", "type": "matching", "matchDE": "sprechen", "matchKey": "leise", "sentence": { "DE": "Im Unterricht müssen wir ________ ________.", "AR": "في الدرس يجب علينا ________ ________.", "RU": "На уроке мы должны ________ ________.", "FA": "در کلاس باید ________ ________.", "RO": "La oră trebuie să ________ ________." }, "hint": "Das Gegenteil von 'laut'." }
+]
+}

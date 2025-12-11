@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Rechte von Jugendlichen",
+"AR": "حقوق الشباب",
+"RU": "Права подростков",
+"FA": "حقوق نوجوانان",
+"RO": "Drepturile adolescenților"
+},
+"vocabulary": [
+{ "key": "L43_VOK_01", "DE": "das Recht (gesetzlich)", "AR": "الحق", "RU": "право", "FA": "حق", "RO": "dreptul", "emoji_icon": "⚖️" },
+{ "key": "L43_VOK_02", "DE": "die Pflicht", "AR": "الواجب", "RU": "обязанность", "FA": "تکلیف", "RO": "obligația", "emoji_icon": "📝" },
+{ "key": "L43_VOK_03", "DE": "der Schutz", "AR": "الحماية", "RU": "защита", "FA": "حفاظت", "RO": "protecția", "emoji_icon": "🛡️" },
+{ "key": "L43_VOK_04", "DE": "das Jugendschutzgesetz", "AR": "قانون حماية الشباب", "RU": "закон о защите молодежи", "FA": "قانون حمایت از نوجوانان", "RO": "legea protecției minorilor", "emoji_icon": "📜" },
+{ "key": "L43_VOK_05", "DE": "die Volljährigkeit (18 Jahre)", "AR": "سن الرشد", "RU": "совершеннолетие", "FA": "سن قانونی", "RO": "majoratul", "emoji_icon": "1️⃣8️⃣" },
+{ "key": "L43_VOK_06", "DE": "die Einwilligung", "AR": "الموافقة", "RU": "согласие", "FA": "رضایت", "RO": "consimțământul", "emoji_icon": "✅" },
+{ "key": "L43_VOK_07", "DE": "der Vertrag", "AR": "العقد", "RU": "договор", "FA": "قرارداد", "RO": "contractul", "emoji_icon": "🤝" },
+{ "key": "L43_VOK_08", "DE": "unterschreiben", "AR": "يوقع", "RU": "подписывать", "FA": "امضا کردن", "RO": "a semna", "emoji_icon": "🖋️" },
+{ "key": "L43_VOK_09", "DE": "die Verantwortung", "AR": "المسؤولية", "RU": "ответственность", "FA": "مسئولیت", "RO": "responsabilitatea", "emoji_icon": "⭐" },
+{ "key": "L43_VOK_10", "DE": "die Schulpflicht", "AR": "إلزامية التعليم", "RU": "обязательное образование", "FA": "تحصیل اجباری", "RO": "obligativitatea școlarizării", "emoji_icon": "🏫" },
+{ "key": "L43_VOK_11", "DE": "die Religionsfreiheit", "AR": "حرية الدين", "RU": "свобода вероисповедания", "FA": "آزادی مذهب", "RO": "libertatea religioasă", "emoji_icon": "🙏" },
+{ "key": "L43_VOK_12", "DE": "die Meinungsfreiheit", "AR": "حرية الرأي", "RU": "свобода слова", "FA": "آزادی بیان", "RO": "libertatea de exprimare", "emoji_icon": "💬" },
+{ "key": "L43_VOK_13", "DE": "Alkohol kaufen/trinken (ab 16/18)", "AR": "شراء/شرب الكحول", "RU": "покупка/питье алкоголя", "FA": "خرید/نوشیدن الکل", "RO": "a cumpăra/bea alcool", "emoji_icon": "🍺" },
+{ "key": "L43_VOK_14", "DE": "rauchen (ab 18)", "AR": "التدخين", "RU": "курить", "FA": "سیگار کشیدن", "RO": "a fuma", "emoji_icon": "🚬" },
+{ "key": "L43_VOK_15", "DE": "ausgehen (Disko/Club)", "AR": "الخروج (ملهى)", "RU": "выходить (клуб)", "FA": "بیرون رفتن (کلوپ)", "RO": "a ieși în oraș (club)", "emoji_icon": "🕺" },
+{ "key": "L43_VOK_16", "DE": "die Altersgrenze", "AR": "الحد الأدنى للسن", "RU": "возрастной ценз", "FA": "محدودیت سنی", "RO": "limita de vârstă", "emoji_icon": "🛑" },
+{ "key": "L43_VOK_17", "DE": "die Erziehungsberechtigten", "AR": "أولياء الأمور", "RU": "опекуны", "FA": "والدین/سرپرست", "RO": "părinții/tutorele", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L43_VOK_18", "DE": "strafmündig (ab 14 Jahre)", "AR": "مسؤول جنائياً", "RU": "уголовно ответственный", "FA": "مسئولیت کیفری", "RO": "răspundere penală", "emoji_icon": "⚖️" },
+{ "key": "L43_VOK_19", "DE": "der Führerschein (BF17)", "AR": "رخصة القيادة (17 سنة)", "RU": "права (с 17 лет)", "FA": "گواهینامه (17)", "RO": "permisul de conducere (17 ani)", "emoji_icon": "🚗" },
+{ "key": "L43_VOK_20", "DE": "der Personalausweis", "AR": "بطاقة الهوية", "RU": "паспорт", "FA": "کارت ملی", "RO": "cartea de identitate", "emoji_icon": "🆔" },
+{ "key": "L43_VOK_21", "DE": "die Heirat", "AR": "الزواج", "RU": "брак", "FA": "ازدواج", "RO": "căsătoria", "emoji_icon": "💍" },
+{ "key": "L43_VOK_22", "DE": "wählen (Politik)", "AR": "يصوت/ينتخب", "RU": "голосовать", "FA": "رای دادن", "RO": "a vota", "emoji_icon": "🗳️" },
+{ "key": "L43_VOK_23", "DE": "erben", "AR": "يرث", "RU": "наследовать", "FA": "ارث بردن", "RO": "a moșteni", "emoji_icon": "💰" },
+{ "key": "L43_VOK_24", "DE": "gesetzlich verankert", "AR": "منصوص عليه قانونياً", "RU": "законодательно закреплено", "FA": "تضمین شده قانونی", "RO": "stabilit legal", "emoji_icon": "📜" },
+{ "key": "L43_VOK_25", "DE": "die Genehmigung (der Eltern)", "AR": "الإذن", "RU": "разрешение (от родителей)", "FA": "مجوز (والدین)", "RO": "permisiunea (părinților)", "emoji_icon": "✅" },
+{ "key": "L43_VOK_26", "DE": "Ist das mein Recht?", "AR": "هل هذا من حقي؟", "RU": "Это мое право?", "FA": "آیا این حق من است؟", "RO": "Este dreptul meu?", "emoji_icon": "❓" },
+{ "key": "L43_VOK_27", "DE": "Das ist meine Pflicht.", "AR": "هذا واجبي.", "RU": "Это моя обязанность.", "FA": "این وظیفه من است.", "RO": "Este datoria mea.", "emoji_icon": "✔️" },
+{ "key": "L43_VOK_28", "DE": "die Minderheit", "AR": "الأقلية", "RU": "меньшинство", "FA": "اقلیت", "RO": "minoritatea", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L43_VOK_29", "DE": "die Altersbeschränkung", "AR": "القيود العمرية", "RU": "возрастное ограничение", "FA": "محدودیت سنی", "RO": "restricția de vârstă", "emoji_icon": "🛑" },
+{ "key": "L43_VOK_30", "DE": "Wie lange darf ich bleiben?", "AR": "كم المدة المسموح لي بالبقاء؟", "RU": "Как долго мне разрешено оставаться?", "FA": "تا کی اجازه دارم بمانم؟", "RO": "Cât timp am voie să stau?", "emoji_icon": "❓" }
+],
+"exercises": [
+{ "key": "L43_LÜCKE_01", "type": "gap-fill", "answerKey": "Schulpflicht", "sentence": { "DE": "In Deutschland gibt es die ________.", "AR": "في ألمانيا توجد ________.", "RU": "В Германии существует ________.", "FA": "در آلمان ________ وجود دارد.", "RO": "În Germania există ________.", "hint_de": "Man muss zur Schule gehen." }, "hint": "Man muss zur Schule gehen." },
+{ "key": "L43_LÜCKE_02", "type": "gap-fill", "answerKey": "Meiungsfreiheit", "sentence": { "DE": "Jeder hat das Recht auf ________.", "AR": "لكل شخص الحق في ________.", "RU": "Каждый имеет право на ________.", "FA": "هر کس حق ________ را دارد.", "RO": "Fiecare are dreptul la ________." }, "hint": "Das Recht, seine Meinung zu sagen." },
+{ "key": "L43_LÜCKE_03", "type": "gap-fill", "answerKey": "Volljährigkeit", "sentence": { "DE": "Ab 18 Jahren erreicht man die ________.", "AR": "عند سن 18 عاماً يصل المرء إلى ________.", "RU": "С 18 лет наступает ________.", "FA": "از 18 سالگی به ________ می‌رسید.", "RO": "La 18 ani se atinge ________." }, "hint": "Das Alter, in dem man alle Rechte hat (18)." },
+{ "key": "L43_ZUORD_04", "type": "matching", "matchDE": "Ausweis", "matchKey": "Pass", "sentence": { "DE": "Man braucht den ________ oder den ________.", "AR": "يحتاج المرء ________ أو ________.", "RU": "Нужен ________ или ________.", "FA": " ________ یا ________ لازم است.", "RO": "Ai nevoie de ________ sau ________." }, "hint": "Das Dokument zum Reisen." }
+]
+}

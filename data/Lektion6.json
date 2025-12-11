@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Mein Stundenplan",
+"AR": "جدولي الدراسي",
+"RU": "Мое расписание",
+"FA": "برنامه درسی من",
+"RO": "Orarul meu"
+},
+"vocabulary": [
+{ "key": "L6_VOK_01", "DE": "der Montag", "AR": "الاثنين", "RU": "понедельник", "FA": "دوشنبه", "RO": "luni", "emoji_icon": "📅" },
+{ "key": "L6_VOK_02", "DE": "der Dienstag", "AR": "الثلاثاء", "RU": "вторник", "FA": "سه‌شنبه", "RO": "marți", "emoji_icon": "📅" },
+{ "key": "L6_VOK_03", "DE": "der Mittwoch", "AR": "الأربعاء", "RU": "среда", "FA": "چهارشنبه", "RO": "miercuri", "emoji_icon": "📅" },
+{ "key": "L6_VOK_04", "DE": "der Donnerstag", "AR": "الخميس", "RU": "четверг", "FA": "پنجشنبه", "RO": "joi", "emoji_icon": "📅" },
+{ "key": "L6_VOK_05", "DE": "der Freitag", "AR": "الجمعة", "RU": "пятница", "FA": "جمعه", "RO": "vineri", "emoji_icon": "📅" },
+{ "key": "L6_VOK_06", "DE": "das Wochenende", "AR": "عطلة نهاية الأسبوع", "RU": "выходные", "FA": "آخر هفته", "RO": "weekendul", "emoji_icon": "🎉" },
+{ "key": "L6_VOK_07", "DE": "die Stunde (Unterricht)", "AR": "الحصة", "RU": "урок", "FA": "ساعت درسی", "RO": "ora (de curs)", "emoji_icon": "⏰" },
+{ "key": "L6_VOK_08", "DE": "die Pause", "AR": "الاستراحة", "RU": "перемена", "FA": "زنگ تفریح", "RO": "pauza", "emoji_icon": "⏸️" },
+{ "key": "L6_VOK_09", "DE": "Deutsch", "AR": "اللغة الألمانية", "RU": "немецкий", "FA": "زبان آلمانی", "RO": "germana", "emoji_icon": "🇩🇪" },
+{ "key": "L6_VOK_10", "DE": "Englisch", "AR": "اللغة الإنجليزية", "RU": "английский", "FA": "زبان انگلیسی", "RO": "engleza", "emoji_icon": "🇬🇧" },
+{ "key": "L6_VOK_11", "DE": "Mathematik (Mathe)", "AR": "الرياضيات", "RU": "математика", "FA": "ریاضیات", "RO": "matematica", "emoji_icon": "🔢" },
+{ "key": "L6_VOK_12", "DE": "Geschichte", "AR": "التاريخ", "RU": "история", "FA": "تاریخ", "RO": "istorie", "emoji_icon": "📜" },
+{ "key": "L6_VOK_13", "DE": "Physik", "AR": "الفيزياء", "RU": "физика", "FA": "فیزیک", "RO": "fizica", "emoji_icon": "⚛️" },
+{ "key": "L6_VOK_14", "DE": "Biologie", "AR": "الأحياء", "RU": "биология", "FA": "زیست‌شناسی", "RO": "biologia", "emoji_icon": "🧬" },
+{ "key": "L6_VOK_15", "DE": "Sport", "AR": "الرياضة", "RU": "спорт", "FA": "ورزش", "RO": "sportul", "emoji_icon": "⚽" },
+{ "key": "L6_VOK_16", "DE": "Kunst", "AR": "الفن", "RU": "искусство", "FA": "هنر", "RO": "arta", "emoji_icon": "🎨" },
+{ "key": "L6_VOK_17", "DE": "Religion", "AR": "الدين", "RU": "религия", "FA": "دین", "RO": "religia", "emoji_icon": "🙏" },
+{ "key": "L6_VOK_18", "DE": "Politik", "AR": "السياسة", "RU": "политика", "FA": "سیاست", "RO": "politica", "emoji_icon": "🗳️" },
+{ "key": "L6_VOK_19", "DE": "Wirtschaft", "AR": "الاقتصاد", "RU": "экономика", "FA": "اقتصاد", "RO": "economia", "emoji_icon": "📈" },
+{ "key": "L6_VOK_20", "DE": "Informatik (IT)", "AR": "المعلوماتية", "RU": "информатика", "FA": "علوم کامپیوتر", "RO": "informatica", "emoji_icon": "💻" },
+{ "key": "L6_VOK_21", "DE": "anfangen (beginnen)", "AR": "يَبْدَأ", "RU": "начинать", "FA": "شروع کردن", "RO": "a începe", "emoji_icon": "▶️" },
+{ "key": "L6_VOK_22", "DE": "enden (aufhören)", "AR": "يَنْتَهِي", "RU": "заканчивать", "FA": "تمام کردن", "RO": "a termina", "emoji_icon": "⏹️" },
+{ "key": "L6_VOK_23", "DE": "haben", "AR": "يَمْلِك", "RU": "иметь", "FA": "داشتن", "RO": "a avea", "emoji_icon": "🤝" },
+{ "key": "L6_VOK_24", "DE": "der Plan", "AR": "الخطة", "RU": "план", "FA": "برنامه", "RO": "planul", "emoji_icon": "🗓️" },
+{ "key": "L6_VOK_25", "DE": "wann?", "AR": "متى؟", "RU": "когда?", "FA": "چه زمانی؟", "RO": "când?", "emoji_icon": "❓" },
+{ "key": "L6_VOK_26", "DE": "am Morgen", "AR": "في الصباح", "RU": "утром", "FA": "صبح", "RO": "dimineața", "emoji_icon": "🌅" },
+{ "key": "L6_VOK_27", "DE": "am Nachmittag", "AR": "بعد الظهر", "RU": "днем", "FA": "بعد از ظهر", "RO": "după-amiaza", "emoji_icon": "🌤️" },
+{ "key": "L6_VOK_28", "DE": "die Hausaufgaben", "AR": "الواجبات المنزلية", "RU": "домашнее задание", "FA": "تکالیف منزل", "RO": "temele", "emoji_icon": "📝" },
+{ "key": "L6_VOK_29", "DE": "mündlich", "AR": "شفوياً", "RU": "устно", "FA": "شفاهی", "RO": "oral", "emoji_icon": "🗣️" },
+{ "key": "L6_VOK_30", "DE": "schriftlich", "AR": "كتابياً", "RU": "письменно", "FA": "کتبی", "RO": "scris", "emoji_icon": "✍️" }
+],
+"exercises": [
+{ "key": "L6_LÜCKE_01", "type": "gap-fill", "answerKey": "Mathe", "sentence": { "DE": "Am Dienstag habe ich ________ in der ersten Stunde.", "AR": "يوم الثلاثاء لدي ________ في الحصة الأولى.", "RU": "Во вторник у меня ________ на первом уроке.", "FA": "روز سه‌شنبه من در ساعت اول ________ دارم.", "RO": "Marți am ________ la prima oră." }, "hint": "Hier lernen wir Zahlen." },
+{ "key": "L6_LÜCKE_02", "type": "gap-fill", "answerKey": "endet", "sentence": { "DE": "Die Schule ________ heute um 13 Uhr.", "AR": "المدرسة ________ اليوم في الساعة 13.", "RU": "Школа ________ сегодня в 13 часов.", "FA": "مدرسه امروز ساعت 13 ________ می‌شود.", "RO": "Școala ________ astăzi la ora 13." }, "hint": "Das Gegenteil von 'beginnt'." },
+{ "key": "L6_LÜCKE_03", "type": "gap-fill", "answerKey": "Pause", "sentence": { "DE": "Nach der zweiten Stunde ist eine lange ________.", "AR": "بعد الحصة الثانية هناك استراحة طويلة.", "RU": "После второго урока длинная ________.", "FA": "بعد از ساعت دوم یک ________ طولانی است.", "RO": "După a doua oră este o ________ lungă." }, "hint": "Du kannst auf den Pausenhof gehen." },
+{ "key": "L6_ZUORD_04", "type": "matching", "matchDE": "Sport", "matchKey": "Sporthalle", "sentence": { "DE": "Wo findet ________ statt?", "AR": "أين تُقام ________؟", "RU": "Где проходит ________?", "FA": " ________ کجا برگزار می‌شود؟", "RO": "Unde se desfășoară ________?" }, "hint": "Der Raum in Lektion 4, in dem man rennt." }
+]
+}

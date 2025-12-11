@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Öffnungszeiten",
+"AR": "ساعات العمل",
+"RU": "Часы работы",
+"FA": "ساعات کاری",
+"RO": "Programul de lucru"
+},
+"vocabulary": [
+{ "key": "L23_VOK_01", "DE": "die Öffnungszeit", "AR": "ساعة العمل", "RU": "час работы", "FA": "ساعت کاری", "RO": "ora de program", "emoji_icon": "⏰" },
+{ "key": "L23_VOK_02", "DE": "geöffnet", "AR": "مفتوح", "RU": "открыто", "FA": "باز است", "RO": "deschis", "emoji_icon": "🟢" },
+{ "key": "L23_VOK_03", "DE": "geschlossen", "AR": "مغلق", "RU": "закрыто", "FA": "بسته است", "RO": "închis", "emoji_icon": "🔴" },
+{ "key": "L23_VOK_04", "DE": "der Termin", "AR": "الموعد", "RU": "встреча", "FA": "قرار ملاقات", "RO": "programarea", "emoji_icon": "🗓️" },
+{ "key": "L23_VOK_05", "DE": "die Bank", "AR": "البنك", "RU": "банк", "FA": "بانک", "RO": "banca", "emoji_icon": "🏦" },
+{ "key": "L23_VOK_06", "DE": "die Post", "AR": "البريد", "RU": "почта", "FA": "پست", "RO": "poșta", "emoji_icon": "📮" },
+{ "key": "L23_VOK_07", "DE": "die Bibliothek", "AR": "المكتبة", "RU": "библиотека", "FA": "کتابخانه", "RO": "biblioteca", "emoji_icon": "📚" },
+{ "key": "L23_VOK_08", "DE": "das Museum", "AR": "المتحف", "RU": "музей", "FA": "موزه", "RO": "muzeul", "emoji_icon": "🖼️" },
+{ "key": "L23_VOK_09", "DE": "der Supermarkt", "AR": "المتجر الكبير", "RU": "супермаркет", "FA": "سوپرمارکت", "RO": "supermarketul", "emoji_icon": "🛒" },
+{ "key": "L23_VOK_10", "DE": "die Schule", "AR": "المدرسة", "RU": "школа", "FA": "مدرسه", "RO": "școala", "emoji_icon": "🏫" },
+{ "key": "L23_VOK_11", "DE": "das Amt/die Behörde", "AR": "المكتب/الهيئة", "RU": "орган власти", "FA": "اداره/سازمان", "RO": "biroul/autoritatea", "emoji_icon": "🏛️" },
+{ "key": "L23_VOK_12", "DE": "von... bis...", "AR": "من... إلى...", "RU": "с... до...", "FA": "از... تا...", "RO": "de la... până la...", "emoji_icon": "➡️" },
+{ "key": "L23_VOK_13", "DE": "ab (zeitlich)", "AR": "بدءاً من", "RU": "начиная с", "FA": "از", "RO": "începând cu", "emoji_icon": "▶️" },
+{ "key": "L23_VOK_14", "DE": "bis (zeitlich)", "AR": "حتى", "RU": "до", "FA": "تا", "RO": "până la", "emoji_icon": "⏹️" },
+{ "key": "L23_VOK_15", "DE": "die Mittagspause", "AR": "استراحة الغداء", "RU": "обеденный перерыв", "FA": "زنگ ناهار", "RO": "pauza de prânz", "emoji_icon": "🍔" },
+{ "key": "L23_VOK_16", "DE": "die Uhrzeit", "AR": "الوقت", "RU": "время", "FA": "ساعة", "RO": "ora", "emoji_icon": "⏰" },
+{ "key": "L23_VOK_17", "DE": "morgens", "AR": "صباحاً", "RU": "утром", "FA": "صبح‌ها", "RO": "dimineața", "emoji_icon": "🌅" },
+{ "key": "L23_VOK_18", "DE": "abends", "AR": "مساءً", "RU": "вечером", "FA": "عصرها", "RO": "seara", "emoji_icon": "🌆" },
+{ "key": "L23_VOK_19", "DE": "einen Termin vereinbaren", "AR": "تحديد موعد", "RU": "назначить встречу", "FA": "قرار گذاشتن", "RO": "a stabili o programare", "emoji_icon": "✍️" },
+{ "key": "L23_VOK_20", "DE": "der Feiertag", "AR": "يوم العطلة", "RU": "праздничный день", "FA": "روز تعطیل", "RO": "zi de sărbătoare", "emoji_icon": "🎉" },
+{ "key": "L23_VOK_21", "DE": "Ist die Bank heute geöffnet?", "AR": "هل البنك مفتوح اليوم؟", "RU": "Банк сегодня открыт?", "FA": "آیا بانک امروز باز است؟", "RO": "Banca este deschisă azi?", "emoji_icon": "❓" },
+{ "key": "L23_VOK_22", "DE": "Wann machen Sie Pause?", "AR": "متى تأخذون استراحة؟", "RU": "Когда у вас перерыв?", "FA": "چه زمانی استراحت می‌کنید؟", "RO": "Când aveți pauză?", "emoji_icon": "❓" },
+{ "key": "L23_VOK_23", "DE": "der Tag", "AR": "اليوم", "RU": "день", "FA": "روز", "RO": "ziua", "emoji_icon": "🗓️" },
+{ "key": "L23_VOK_24", "DE": "die Woche", "AR": "الأسبوع", "RU": "неделя", "FA": "هفته", "RO": "săptămâna", "emoji_icon": "📆" },
+{ "key": "L23_VOK_25", "DE": "dauern", "AR": "يستغرق", "RU": "длиться", "FA": "طول کشیدن", "RO": "a dura", "emoji_icon": "⏳" },
+{ "key": "L23_VOK_26", "DE": "Ich habe Zeit.", "AR": "لدي وقت.", "RU": "У меня есть время.", "FA": "من وقت دارم.", "RO": "Am timp.", "emoji_icon": "🟢" },
+{ "key": "L23_VOK_27", "DE": "Ich habe keine Zeit.", "AR": "ليس لدي وقت.", "RU": "У меня нет времени.", "FA": "من وقت ندارم.", "RO": "Nu am timp.", "emoji_icon": "❌" },
+{ "key": "L23_VOK_28", "DE": "Wann ist es fertig?", "AR": "ما هو أفضل وقت؟", "RU": "Когда лучшее время?", "FA": "بهترین زمان کی است؟", "RO": "Când este cel mai bun moment?", "emoji_icon": "⭐" },
+{ "key": "L23_VOK_29", "DE": "der Laden", "AR": "المتجر", "RU": "магазин", "FA": "فروشگاه", "RO": "magazinul", "emoji_icon": "🏪" },
+{ "key": "L23_VOK_30", "DE": "Das Geschäft", "AR": "المحل التجاري", "RU": "бизнес/дело", "FA": "تجارت", "RO": "afacerea", "emoji_icon": "💼" }
+],
+"exercises": [
+{ "key": "L23_LÜCKE_01", "type": "gap-fill", "answerKey": "geöffnet", "sentence": { "DE": "Ist der Supermarkt am Sonntag ________?", "AR": "هل المتجر الكبير يوم الأحد ________؟", "RU": "Супермаркет в воскресенье ________؟", "FA": "آیا سوپرمارکت روز یکشنبه ________ است؟", "RO": "Supermarketul este ________ duminică?" }, "hint": "Das Gegenteil von 'geschlossen'." },
+{ "key": "L23_LÜCKE_02", "type": "gap-fill", "answerKey": "Termin", "sentence": { "DE": "Ich brauche einen ________ beim Bürgerbüro.", "AR": "أنا بحاجة إلى ________ في مكتب المواطنين.", "RU": "Мне нужна ________ в Bürgerbüro.", "FA": "من به یک ________ در اداره شهروندی نیاز دارم.", "RO": "Am nevoie de o ________ la Biroul de Cetățeni." }, "hint": "Ein Datum und eine Uhrzeit für eine Besprechung." },
+{ "key": "L23_LÜCKE_03", "type": "gap-fill", "answerKey": "Bank", "sentence": { "DE": "Die ________ schließt um 16 Uhr.", "AR": "الـ ________ تغلق في الساعة 16.", "RU": " ________ закрывается в 16:00.", "FA": " ________ ساعت 16 تعطیل می‌شود.", "RO": " ________ se închide la ora 16." }, "hint": "Der Ort, an dem man Geld holt." },
+{ "key": "L23_ZUORD_04", "type": "matching", "matchDE": "morgens", "matchKey": "abends", "sentence": { "DE": "Ich gehe ________ zur Schule.", "AR": "أذهب إلى المدرسة ________.", "RU": "Я иду в школу ________.", "FA": "من ________ به مدرسه می‌روم.", "RO": "Eu merg la școală ________." }, "hint": "Das Gegenteil von 'abends'." }
+]
+}

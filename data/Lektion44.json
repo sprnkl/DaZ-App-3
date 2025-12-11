@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Führerschein (Regeln, Mindestalter)",
+"AR": "رخصة القيادة (القواعد والسن)",
+"RU": "Водительские права (правила, возраст)",
+"FA": "گواهینامه (قوانین و سن)",
+"RO": "Permis de conducere (reguli, vârstă)"
+},
+"vocabulary": [
+{ "key": "L44_VOK_01", "DE": "der Führerschein", "AR": "رخصة القيادة", "RU": "водительские права", "FA": "گواهینامه رانندگی", "RO": "permisul de conducere", "emoji_icon": "🆔" },
+{ "key": "L44_VOK_02", "DE": "Auto fahren", "AR": "يقود السيارة", "RU": "водить машину", "FA": "رانندگی کردن", "RO": "a conduce mașina", "emoji_icon": "🚗" },
+{ "key": "L44_VOK_03", "DE": "das Mindestalter", "AR": "الحد الأدنى للسن", "RU": "минимальный возраст", "FA": "حداقل سن", "RO": "vârsta minimă", "emoji_icon": "🛑" },
+{ "key": "L44_VOK_04", "DE": "die Fahrprüfung", "AR": "اختبار القيادة", "RU": "экзамен по вождению", "FA": "آزمون رانندگی", "RO": "examenul auto", "emoji_icon": "💯" },
+{ "key": "L44_VOK_05", "DE": "BF17 (Begleitetes Fahren ab 17)", "AR": "القيادة المرافقة (من 17)", "RU": "сопровождаемое вождение (с 17 лет)", "FA": "رانندگی همراه (17 سال)", "RO": "conducere însoțită (de la 17 ani)", "emoji_icon": "1️⃣7️⃣" },
+{ "key": "L44_VOK_06", "DE": "die Begleitperson", "AR": "الشخص المرافق", "RU": "сопровождающий", "FA": "شخص همراه", "RO": "însoțitorul", "emoji_icon": "🧑‍🤝‍🧑" },
+{ "key": "L44_VOK_07", "DE": "die Fahrschule", "AR": "مدرسة القيادة", "RU": "автошкола", "FA": "آموزشگاه رانندگی", "RO": "școala de șoferi", "emoji_icon": "🏫" },
+{ "key": "L44_VOK_08", "DE": "der Fahrlehrer", "AR": "مدرب القيادة", "RU": "инструктор", "FA": "مربی رانندگی", "RO": "instructorul auto", "emoji_icon": "👨‍🏫" },
+{ "key": "L44_VOK_09", "DE": "die Theorieprüfung", "AR": "اختبار النظري", "RU": "теоретический экзамен", "FA": "آزمون تئوری", "RO": "examenul teoretic", "emoji_icon": "🧠" },
+{ "key": "L44_VOK_10", "DE": "die Praxisprüfung", "AR": "اختبار العملي", "RU": "практический экзамен", "FA": "آزمون عملی", "RO": "examenul practic", "emoji_icon": "🚗" },
+{ "key": "L44_VOK_11", "DE": "die Verkehrsregeln", "AR": "قواعد المرور", "RU": "правила дорожного движения", "FA": "قوانین ترافیک", "RO": "regulile de circulație", "emoji_icon": "🚦" },
+{ "key": "L44_VOK_12", "DE": "links/rechts abbiegen", "AR": "الانعطاف يساراً/يميناً", "RU": "поворот налево/направо", "FA": "پیچیدن چپ/راست", "RO": "a vira stânga/dreapta", "emoji_icon": "↩️" },
+{ "key": "L44_VOK_13", "DE": "die Geschwindigkeit", "AR": "السرعة", "RU": "скорость", "FA": "سرعت", "RO": "viteza", "emoji_icon": "💨" },
+{ "key": "L44_VOK_14", "DE": "bremsen", "AR": "يضغط على الفرامل", "RU": "тормозить", "FA": "ترمز کردن", "RO": "a frâna", "emoji_icon": "🛑" },
+{ "key": "L44_VOK_15", "DE": "das Auto anhalten", "AR": "يوقف السيارة", "RU": "остановить машину", "FA": "ماشین را متوقف کردن", "RO": "a opri mașina", "emoji_icon": "🅿️" },
+{ "key": "L44_VOK_16", "DE": "der Gurt (anschnallen)", "AR": "حزام الأمان", "RU": "ремень (пристегнуть)", "FA": "کمربند (بستن)", "RO": "centura (a o pune)", "emoji_icon": "🔗" },
+{ "key": "L44_VOK_17", "DE": "der Unfall", "AR": "الحادث", "RU": "авария", "FA": "تصادف", "RO": "accidentul", "emoji_icon": "💥" },
+{ "key": "L44_VOK_18", "DE": "die Polizei", "AR": "الشرطة", "RU": "полиция", "FA": "پلیس", "RO": "poliția", "emoji_icon": "🚔" },
+{ "key": "L44_VOK_19", "DE": "die Ampel", "AR": "إشارة المرور", "RU": "светофор", "FA": "چراغ راهنمایی", "RO": "semaforul", "emoji_icon": "🚦" },
+{ "key": "L44_VOK_20", "DE": "der Zebrastreifen", "AR": "ممر المشاة", "RU": "зебра (переход)", "FA": "خط عابر پیاده", "RO": "trecerea de pietoni", "emoji_icon": "🦓" },
+{ "key": "L44_VOK_21", "DE": "der Führerschein ist bestanden", "AR": "اجتياز اختبار القيادة", "RU": "экзамен сдан", "FA": "آزمون قبول شد", "RO": "examenul a fost promovat", "emoji_icon": "✅" },
+{ "key": "L44_VOK_22", "DE": "durchfallen (bei der Prüfung)", "AR": "رسوب/فشل", "RU": "провалить (экзамен)", "FA": "رد شدن (در آزمون)", "RO": "a pica (examenul)", "emoji_icon": "❌" },
+{ "key": "L44_VOK_23", "DE": "der Verkehr", "AR": "حركة المرور", "RU": "дорожное движение", "FA": "ترافیک", "RO": "circulația", "emoji_icon": "🚘" },
+{ "key": "L44_VOK_24", "DE": "die Strafe/das Bußgeld", "AR": "الغرامة", "RU": "штраф", "FA": "جریمه", "RO": "amenda", "emoji_icon": "💶" },
+{ "key": "L44_VOK_25", "DE": "die Regel", "AR": "القاعدة", "RU": "правило", "FA": "قانون", "RO": "regula", "emoji_icon": "⚖️" },
+{ "key": "L44_VOK_26", "DE": "die Probezeit", "AR": "فترة الاختبار", "RU": "испытательный срок", "FA": "دوره آزمایشی", "RO": "perioada de probă", "emoji_icon": "⏳" },
+{ "key": "L44_VOK_27", "DE": "die Geschwindigkeit begrenzen", "AR": "تحديد السرعة", "RU": "ограничить скорость", "FA": "محدود کردن سرعت", "RO": "a limita viteza", "emoji_icon": "🚫" },
+{ "key": "L44_VOK_28", "DE": "rechts vor links", "AR": "الأولوية لليمين", "RU": "помеха справа", "FA": "اولویت با راست", "RO": "prioritate de dreapta", "emoji_icon": "➡️" },
+{ "key": "L44_VOK_29", "DE": "die Vorfahrt beachten", "AR": "احترام حق الأولوية", "RU": "соблюдать приоритет", "FA": "رعایت حق تقدم", "RO": "a acorda prioritate", "emoji_icon": "🛑" },
+{ "key": "L44_VOK_30", "DE": "Wie schnell darf ich fahren?", "AR": "كم السرعة المسموح بها؟", "RU": "Как быстро мне разрешено ехать?", "FA": "با چه سرعتی می‌توانم بروم؟", "RO": "Cu ce viteză am voie să merg?", "emoji_icon": "❓" }
+],
+"exercises": [
+{ "key": "L44_LÜCKE_01", "type": "gap-fill", "answerKey": "Fahrprüfung", "sentence": { "DE": "Um den Führerschein zu bekommen, muss ich die ________ bestehen.", "AR": "للحصول على الرخصة، يجب أن أنجح في ________.", "RU": "Чтобы получить права, я должен сдать ________.", "FA": "برای گرفتن گواهینامه باید در ________ قبول شوم.", "RO": "Pentru a obține permisul, trebuie să trec ________." }, "hint": "Der praktische Test." },
+{ "key": "L44_LÜCKE_02", "type": "gap-fill", "answerKey": "Altersgrenze", "sentence": { "DE": "Für den Führerschein gibt es eine ________.", "AR": "بالنسبة للرخصة، هناك ________.", "RU": "Для прав есть ________.", "FA": "برای گواهینامه ________ وجود دارد.", "RO": "Pentru permis există o ________." }, "hint": "Das Mindestalter." },
+{ "key": "L44_LÜCKE_03", "type": "gap-fill", "answerKey": "Polizei", "sentence": { "DE": "Wenn ich einen Unfall habe, rufe ich die ________.", "AR": "إذا كان لدي حادث، أتصل بـ ________.", "RU": "Если у меня авария, я звоню в ________.", "FA": "اگر تصادف کنم، به ________ زنگ می‌زنم.", "RO": "Dacă am un accident, sun la ________." }, "hint": "Die Ordnungshüter." },
+{ "key": "L44_ZUORD_04", "type": "matching", "matchDE": "strafmündig", "matchKey": "Unfall", "sentence": { "DE": "Ab 14 Jahren ist man ________.", "AR": "من سن 14 عاماً يصبح المرء ________.", "RU": "С 14 лет человек ________.", "FA": "از 14 سالگی فرد ________ می‌شود.", "RO": "De la 14 ani ești ________." }, "hint": "Das Alter für die rechtliche Verantwortung." }
+]
+}

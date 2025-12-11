@@ -1,0 +1,48 @@
+{
+"title": {
+"DE": "Essen und Trinken",
+"AR": "الطعام والشراب",
+"RU": "Еда и напитки",
+"FA": "غذا و نوشیدنی",
+"RO": "Mâncare și băutură"
+},
+"vocabulary": [
+{ "key": "L8_VOK_01", "DE": "essen", "AR": "يَأْكُل", "RU": "есть", "FA": "خوردن", "RO": "a mânca", "emoji_icon": "🍽️" },
+{ "key": "L8_VOK_02", "DE": "trinken", "AR": "يَشْرَب", "RU": "пить", "FA": "نوشیدن", "RO": "a bea", "emoji_icon": "🥤" },
+{ "key": "L8_VOK_03", "DE": "das Frühstück", "AR": "الفطور", "RU": "завтрак", "FA": "صبحانه", "RO": "micul dejun", "emoji_icon": "🥣" },
+{ "key": "L8_VOK_04", "DE": "das Mittagessen", "AR": "الغداء", "RU": "обед", "FA": "ناهار", "RO": "prânzul", "emoji_icon": "🍝" },
+{ "key": "L8_VOK_05", "DE": "das Abendessen", "AR": "العشاء", "RU": "ужин", "FA": "شام", "RO": "cina", "emoji_icon": "🍲" },
+{ "key": "L8_VOK_06", "DE": "der Hunger", "AR": "الجوع", "RU": "голод", "FA": "گرسنگی", "RO": "foamea", "emoji_icon": "😋" },
+{ "key": "L8_VOK_07", "DE": "der Durst", "AR": "العطش", "RU": "жажда", "FA": "تشنگی", "RO": "setea", "emoji_icon": "🥵" },
+{ "key": "L8_VOK_08", "DE": "das Brot", "AR": "الخبز", "RU": "хлеб", "FA": "نان", "RO": "pâinea", "emoji_icon": "🍞" },
+{ "key": "L8_VOK_09", "DE": "der Käse", "AR": "الجبن", "RU": "сыр", "FA": "پنیر", "RO": "brânza", "emoji_icon": "🧀" },
+{ "key": "L8_VOK_10", "DE": "die Wurst", "AR": "النقانق", "RU": "колбаса", "FA": "سوسیس", "RO": "cârnatul", "emoji_icon": "🌭" },
+{ "key": "L8_VOK_11", "DE": "der Apfel", "AR": "التفاح", "RU": "яблоко", "FA": "سیب", "RO": "mărul", "emoji_icon": "🍎" },
+{ "key": "L8_VOK_12", "DE": "die Banane", "AR": "الموز", "RU": "банан", "FA": "موز", "RO": "banana", "emoji_icon": "🍌" },
+{ "key": "L8_VOK_13", "DE": "das Gemüse", "AR": "الخضروات", "RU": "овощи", "FA": "سبزیجات", "RO": "legumele", "emoji_icon": "🥦" },
+{ "key": "L8_VOK_14", "DE": "das Wasser", "AR": "الماء", "RU": "вода", "FA": "آب", "RO": "apa", "emoji_icon": "💧" },
+{ "key": "L8_VOK_15", "DE": "die Milch", "AR": "الحليب", "RU": "молоко", "FA": "شیر", "RO": "laptele", "emoji_icon": "🥛" },
+{ "key": "L8_VOK_16", "DE": "der Saft", "AR": "العصير", "RU": "сок", "FA": "آبمیوه", "RO": "sucul", "emoji_icon": "🧃" },
+{ "key": "L8_VOK_17", "DE": "heiß", "AR": "ساخن", "RU": "горячий", "FA": "داغ", "RO": "fierbinte", "emoji_icon": "🔥" },
+{ "key": "L8_VOK_18", "DE": "kalt", "AR": "بارد", "RU": "холодный", "FA": "سرد", "RO": "rece", "emoji_icon": "🧊" },
+{ "key": "L8_VOK_19", "DE": "lecker", "AR": "لذيذ", "RU": "вкусный", "FA": "خوشمزه", "RO": "gustos", "emoji_icon": "😋" },
+{ "key": "L8_VOK_20", "DE": "salzig", "AR": "مالح", "RU": "соленый", "FA": "شور", "RO": "sărat", "emoji_icon": "🧂" },
+{ "key": "L8_VOK_21", "DE": "süß", "AR": "حلو", "RU": "сладкий", "FA": "شیرین", "RO": "dulce", "emoji_icon": "🍬" },
+{ "key": "L8_VOK_22", "DE": "das Geschirr", "AR": "الأواني", "RU": "посуда", "FA": "ظروف", "RO": "vesela", "emoji_icon": "🍽️" },
+{ "key": "L8_VOK_23", "DE": "der Teller", "AR": "الطبق", "RU": "тарелка", "FA": "بشقاب", "RO": "farfuria", "emoji_icon": "🍽️" },
+{ "key": "L8_VOK_24", "DE": "die Tasse", "AR": "الكوب", "RU": "чашка", "FA": "فنجان", "RO": "cana", "emoji_icon": "☕" },
+{ "key": "L8_VOK_25", "DE": "das Messer", "AR": "السكين", "RU": "нож", "FA": "چاقو", "RO": "cuțitul", "emoji_icon": "🔪" },
+{ "key": "L8_VOK_26", "DE": "die Gabel", "AR": "الشوكة", "RU": "вилка", "FA": "چنگال", "RO": "furculița", "emoji_icon": "🍴" },
+{ "key": "L8_VOK_27", "DE": "der Löffel", "AR": "الملعقة", "RU": "ложка", "FA": "قاشق", "RO": "lingura", "emoji_icon": "🥄" },
+{ "key": "L8_VOK_28", "DE": "kochen", "AR": "يَطْبُخ", "RU": "готовить", "FA": "پختن", "RO": "a găti", "emoji_icon": "🍳" },
+{ "key": "L8_VOK_29", "DE": "backen", "AR": "يَخْبِز", "RU": "печь", "FA": "پختن (نان/کیک)", "RO": "a coace", "emoji_icon": "🍞" },
+{ "key": "L8_VOK_30", "DE": "Ich bin hungrig.", "AR": "أنا جائع.", "RU": "Я голоден.", "FA": "من گرسنه هستم.", "RO": "Mi-e foame.", "emoji_icon": "🍔" },
+{ "key": "L8_VOK_31", "DE": "Ich habe Durst.", "AR": "أنا عطشان.", "RU": "Я хочу пить.", "FA": "من تشنه هستم.", "RO": "Mi-e sete.", "emoji_icon": "🫗" }
+],
+"exercises": [
+{ "key": "L8_LÜCKE_01", "type": "gap-fill", "answerKey": "esse", "sentence": { "DE": "Zum Frühstück __ ich Brot und Käse.", "AR": "لتناول الفطور __ الخبز والجبن.", "RU": "На завтрак я __ хлеб и сыр.", "FA": "برای صبحانه من نان و پنیر __.", "RO": "La micul dejun __ pâine și brânză." }, "hint": "Das Verb für Mahlzeiten." },
+{ "key": "L8_LÜCKE_02", "type": "gap-fill", "answerKey": "Durst", "sentence": { "DE": "Ich möchte Wasser, weil ich __ habe.", "AR": "أريد الماء، لأن لدي __.", "RU": "Я хочу воды, потому что у меня __.", "FA": "من آب می‌خواهم چون __ دارم.", "RO": "Vreau apă, pentru că mi-e __." }, "hint": "Gefühl, wenn man trinken will." },
+{ "key": "L8_LÜCKE_03", "type": "gap-fill", "answerKey": "lecker", "sentence": { "DE": "Das Mittagessen in der Kantine ist sehr __.", "AR": "الغداء في الكافيتريا __ جداً.", "RU": "Обед в кафетерии очень __.", "FA": "ناهار در کافه‌تریا خیلی __ است.", "RO": "Prânzul în cantină este foarte __." }, "hint": "Ein Synonym für 'schmeckt gut'." },
+{ "key": "L8_ZUORD_04", "type": "matching", "matchDE": "die Gabel", "matchKey": "das Messer", "sentence": { "DE": "Ich brauche ein Messer und eine __.", "AR": "أحتاج سكيناً و __.", "RU": "Мне нужен нож и __.", "FA": "من یک چاقو و یک __ نیاز دارم.", "RO": "Am nevoie de un cuțit și o __." }, "hint": "Ein Besteckteil." }
+]
+}

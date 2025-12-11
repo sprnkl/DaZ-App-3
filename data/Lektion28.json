@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Osterbräuche",
+"AR": "عادات عيد الفصح",
+"RU": "Пасхальные обычаи",
+"FA": "رسوم عید پاک",
+"RO": "Obiceiuri de Paște"
+},
+"vocabulary": [
+{ "key": "L28_VOK_01", "DE": "das Ostern", "AR": "عيد الفصح", "RU": "Пасха", "FA": "عید پاک", "emoji_icon": "🐰" },
+{ "key": "L28_VOK_02", "DE": "das Osterei", "AR": "بيضة الفصح", "RU": "пасхальное яйцо", "FA": "تخم مرغ عید پاک", "emoji_icon": "🥚" },
+{ "key": "L28_VOK_03", "DE": "der Osterhase", "AR": "أرنب الفصح", "RU": "пасхальный кролик", "FA": "خرگوش عید پاک", "emoji_icon": "🐇" },
+{ "key": "L28_VOK_04", "DE": "suchen", "AR": "يبحث", "RU": "искать", "FA": "جستجو کردن", "emoji_icon": "🔍" },
+{ "key": "L28_VOK_05", "DE": "verstecken", "AR": "يخبئ", "RU": "прятать", "FA": "پنهان کردن", "emoji_icon": "🙈" },
+{ "key": "L28_VOK_06", "DE": "finden", "AR": "يجد", "RU": "находить", "FA": "پیدا کردن", "emoji_icon": "✅" },
+{ "key": "L28_VOK_07", "DE": "das Nest", "AR": "العش", "RU": "гнездо", "FA": "لانه", "RO": "cuibul", "emoji_icon": "🧺" },
+{ "key": "L28_VOK_08", "DE": "das Küken", "AR": "الكتكوت", "RU": "цыпленок", "FA": "جوجه", "RO": "puiul", "emoji_icon": "🐥" },
+{ "key": "L28_VOK_09", "DE": "malen", "AR": "يلون", "RU": "красить", "FA": "رنگ کردن", "RO": "a picta", "emoji_icon": "🎨" },
+{ "key": "L28_VOK_10", "DE": "färben", "AR": "يصبغ", "RU": "красить", "FA": "رنگ کردن (مو/پارچه)", "RO": "a vopsi", "emoji_icon": "🌈" },
+{ "key": "L28_VOK_11", "DE": "der Frühling", "AR": "الربيع", "RU": "весна", "FA": "بهار", "RO": "primăvara", "emoji_icon": "🌸" },
+{ "key": "L28_VOK_12", "DE": "die Auferstehung", "AR": "القيامة", "RU": "воскресение", "FA": "رستاخیز", "RO": "învierea", "emoji_icon": "✝️" },
+{ "key": "L28_VOK_13", "DE": "das Lamm", "AR": "الخروف", "RU": "ягненок", "FA": "بره", "RO": "mielul", "emoji_icon": "🐑" },
+{ "key": "L28_VOK_14", "DE": "die Kerze", "AR": "الشمعة", "RU": "свеча", "FA": "شمع", "RO": "lumânarea", "emoji_icon": "🕯️" },
+{ "key": "L28_VOK_15", "DE": "das Feuer (Osterfeuer)", "AR": "النار", "RU": "огонь", "FA": "آتش", "RO": "focul", "emoji_icon": "🔥" },
+{ "key": "L28_VOK_16", "DE": "die Kirche", "AR": "الكنيسة", "RU": "церковь", "FA": "کلیسا", "RO": "biserica", "emoji_icon": "⛪" },
+{ "key": "L28_VOK_17", "DE": "die Familie", "AR": "العائلة", "RU": "семья", "FA": "خانواده", "RO": "familia", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L28_VOK_18", "DE": "feiern", "AR": "يحتفل", "RU": "праздновать", "FA": "جشن گرفتن", "RO": "a sărbători", "emoji_icon": "🥳" },
+{ "key": "L28_VOK_19", "DE": "der Kuchen", "AR": "الكعكة", "RU": "пирог", "FA": "کیک", "RO": "prăjitura", "emoji_icon": "🎂" },
+{ "key": "L28_VOK_20", "DE": "das Abendessen", "AR": "العشاء", "RU": "ужин", "FA": "شام", "RO": "cina", "emoji_icon": "🍽️" },
+{ "key": "L28_VOK_21", "DE": "die Süßigkeit", "AR": "الحلويات", "RU": "сладости", "FA": "شیرینی", "RO": "dulciurile", "emoji_icon": "🍬" },
+{ "key": "L28_VOK_22", "DE": "der Feiertag", "AR": "يوم العطلة", "RU": "праздник", "FA": "روز تعطیل", "RO": "sărbătoarea", "emoji_icon": "🎉" },
+{ "key": "L28_VOK_23", "DE": "der Frühling", "AR": "الربيع", "RU": "весна", "FA": "بهار", "RO": "primăvara", "emoji_icon": "🌷" },
+{ "key": "L28_VOK_24", "DE": "die Blumen", "AR": "الزهور", "RU": "цветы", "FA": "گل‌ها", "RO": "florile", "emoji_icon": "🌸" },
+{ "key": "L28_VOK_25", "DE": "das Geschenk", "AR": "الهدية", "RU": "подарок", "FA": "هدیه", "RO": "cadoul", "emoji_icon": "🎁" },
+{ "key": "L28_VOK_26", "DE": "der Brauch", "AR": "العادة", "RU": "обычай", "FA": "رسم", "RO": "obiceiul", "emoji_icon": "🎭" },
+{ "key": "L28_VOK_27", "DE": "das Abendbrot", "AR": "عشاء خفيف", "RU": "ужин", "FA": "شام", "RO": "cina ușoară", "emoji_icon": "🍞" },
+{ "key": "L28_VOK_28", "DE": "der Ostermarkt", "AR": "سوق الفصح", "RU": "пасхальный рынок", "FA": "بازار عید پاک", "RO": "târgul de Paște", "emoji_icon": "🛍️" },
+{ "key": "L28_VOK_29", "DE": "der Palmsonntag", "AR": "أحد الشعانين", "RU": "Вербное воскресенье", "FA": "یکشنبه نخل", "RO": "duminica Floriilor", "emoji_icon": "🌿" },
+{ "key": "L28_VOK_30", "DE": "das Fasten", "AR": "الصوم", "RU": "пост", "FA": "روزه", "RO": "postul", "emoji_icon": "🚫" }
+],
+"exercises": [
+{ "key": "L28_LÜCKE_01", "type": "gap-fill", "answerKey": "Ostereier", "sentence": { "DE": "Wir ________ im Garten ________.", "AR": "نحن ________ ________ في الحديقة.", "RU": "Мы ________ ________ в саду.", "FA": "ما ________ ________ را در باغ.", "RO": "Noi ________ ________ în grădină." }, "hint": "Das Objekt, das Kinder zu Ostern suchen." },
+{ "key": "L28_LÜCKE_02", "type": "gap-fill", "answerKey": "Osterhase", "sentence": { "DE": "Der ________ bringt die Geschenke.", "AR": "الـ ________ يجلب الهدايا.", "RU": "________ приносит подарки.", "FA": " ________ هدایا را می‌آورد.", "RO": " ________ aduce cadourile." }, "hint": "Ein langes Ohr und springt." },
+{ "key": "L28_LÜCKE_03", "type": "gap-fill", "answerKey": "Frühling", "sentence": { "DE": "Ostern ist im ________.", "AR": "عيد الفصح هو في ________.", "RU": "Пасха ________.", "FA": "عید پاک ________ است.", "RO": "Paștele este în ________." }, "hint": "Die Jahreszeit nach dem Winter." },
+{ "key": "L28_ZUORD_04", "type": "matching", "matchDE": "verstecken", "matchKey": "suchen", "sentence": { "DE": "Die Eltern ________ die Eier, und die Kinder ________ sie.", "AR": "الآباء ________ البيض، والأطفال ________.", "RU": "Родители ________ яйца, а дети ________ их.", "FA": "پدر و مادر تخم مرغ‌ها را ________ می‌کنند و بچه‌ها ________.", "RO": "Părinții ________ ouăle, iar copiii ________." }, "hint": "Gegenteil von 'finden'." }
+]
+}

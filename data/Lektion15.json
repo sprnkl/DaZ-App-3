@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Kleidung und Wetter",
+"AR": "الملابس والطقس",
+"RU": "Одежда и погода",
+"FA": "لباس و هوا",
+"RO": "Haine și vreme"
+},
+"vocabulary": [
+{ "key": "L15_VOK_01", "DE": "die Kleidung", "AR": "الملابس", "RU": "одежда", "FA": "لباس", "RO": "hainele", "emoji_icon": "👕" },
+{ "key": "L15_VOK_02", "DE": "das Hemd", "AR": "القميص", "RU": "рубашка", "FA": "پیراهن", "RO": "cămașa", "emoji_icon": "👔" },
+{ "key": "L15_VOK_03", "DE": "die Hose", "AR": "البنطلون", "RU": "брюки", "FA": "شلوار", "RO": "pantalonii", "emoji_icon": "👖" },
+{ "key": "L15_VOK_04", "DE": "der Pullover", "AR": "الكنزة", "RU": "свитер", "FA": "پلیور", "RO": "puloverul", "emoji_icon": "🧥" },
+{ "key": "L15_VOK_05", "DE": "die Jacke", "AR": "السترة", "RU": "куртка", "FA": "کت", "RO": "geaca", "emoji_icon": "🧥" },
+{ "key": "L15_VOK_06", "DE": "die Schuhe", "AR": "الأحذية", "RU": "обувь", "FA": "کفش", "RO": "pantofii", "emoji_icon": "👟" },
+{ "key": "L15_VOK_07", "DE": "die Mütze", "AR": "القبعة", "RU": "шапка", "FA": "کلاه", "RO": "căciula", "emoji_icon": "🧢" },
+{ "key": "L15_VOK_08", "DE": "tragen/anziehen", "AR": "يَرْتَدي", "RU": "носить/надевать", "FA": "پوشیدن", "RO": "a purta/a îmbrăca", "emoji_icon": "👚" },
+{ "key": "L15_VOK_09", "DE": "ausziehen", "AR": "يَخْلَع", "RU": "снимать", "FA": "درآوردن", "RO": "a se dezbrăca", "emoji_icon": "👕" },
+{ "key": "L15_VOK_10", "DE": "die Farbe", "AR": "اللون", "RU": "цвет", "FA": "رنگ", "RO": "culoarea", "emoji_icon": "🌈" },
+{ "key": "L15_VOK_11", "DE": "rot", "AR": "أحمر", "RU": "красный", "FA": "قرمز", "RO": "roșu", "emoji_icon": "🔴" },
+{ "key": "L15_VOK_12", "DE": "blau", "AR": "أزرق", "RU": "синий", "FA": "آبی", "RO": "albastru", "emoji_icon": "🔵" },
+{ "key": "L15_VOK_13", "DE": "grün", "AR": "أخضر", "RU": "зеленый", "FA": "سبز", "RO": "verde", "emoji_icon": "🟢" },
+{ "key": "L15_VOK_14", "DE": "schwarz", "AR": "أسود", "RU": "черный", "FA": "مشکی", "RO": "negru", "emoji_icon": "⚫" },
+{ "key": "L15_VOK_15", "DE": "weiß", "AR": "أبيض", "RU": "белый", "FA": "سفید", "RO": "alb", "emoji_icon": "⚪" },
+{ "key": "L15_VOK_16", "DE": "das Wetter", "AR": "الطقس", "RU": "погода", "FA": "هوا", "RO": "vremea", "emoji_icon": "🌤️" },
+{ "key": "L15_VOK_17", "DE": "die Sonne", "AR": "الشمس", "RU": "солнце", "FA": "خورشید", "RO": "soarele", "emoji_icon": "☀️" },
+{ "key": "L15_VOK_18", "DE": "der Regen", "AR": "المطر", "RU": "дождь", "FA": "باران", "RO": "ploaia", "emoji_icon": "🌧️" },
+{ "key": "L15_VOK_19", "DE": "der Schnee", "AR": "الثلج", "RU": "снег", "FA": "برف", "RO": "zăpada", "emoji_icon": "❄️" },
+{ "key": "L15_VOK_20", "DE": "der Wind", "AR": "الريح", "RU": "ветер", "FA": "باد", "RO": "vântul", "emoji_icon": "💨" },
+{ "key": "L15_VOK_21", "DE": "warm", "AR": "دافئ", "RU": "теплый", "FA": "گرم", "RO": "cald", "emoji_icon": "🌡️" },
+{ "key": "L15_VOK_22", "DE": "kalt", "AR": "بارد", "RU": "холодный", "FA": "سرد", "RO": "rece", "emoji_icon": "🥶" },
+{ "key": "L15_VOK_23", "DE": "heiß", "AR": "ساخن", "RU": "жаркий", "FA": "داغ", "RO": "fierbinte", "emoji_icon": "🥵" },
+{ "key": "L15_VOK_24", "DE": "regnerisch", "AR": "ماطر", "RU": "дождливый", "FA": "بارانی", "RO": "ploios", "emoji_icon": "☔" },
+{ "key": "L15_VOK_25", "DE": "sonnig", "AR": "مشمس", "RU": "солнечный", "FA": "آفتابی", "RO": "însorit", "emoji_icon": "☀️" },
+{ "key": "L15_VOK_26", "DE": "Es ist...", "AR": "إنه...", "RU": "Сейчас...", "FA": "هوا...", "RO": "Este...", "emoji_icon": "☁️" },
+{ "key": "L15_VOK_27", "DE": "Es regnet.", "AR": "إنها تمطر.", "RU": "Идет дождь.", "FA": "باران می‌بارد.", "RO": "Plouă.", "emoji_icon": "🌧️" },
+{ "key": "L15_VOK_28", "DE": "Es schneit.", "AR": "إنها تثلج.", "RU": "Идет снег.", "FA": "برف می‌بارد.", "RO": "Ninge.", "emoji_icon": "🌨️" },
+{ "key": "L15_VOK_29", "DE": "die Jahreszeit", "AR": "الفصل", "RU": "время года", "FA": "فصل", "RO": "anotimpul", "emoji_icon": "🌸" },
+{ "key": "L15_VOK_30", "DE": "Was ziehst du an?", "AR": "ماذا ترتدي؟", "RU": "Что ты наденешь?", "FA": "چه می‌پوشی؟", "RO": "Ce îmbraci?", "emoji_icon": "❓" }
+],
+"exercises": [
+{ "key": "L15_LÜCKE_01", "type": "gap-fill", "answerKey": "Jacke", "sentence": { "DE": "Draußen ist es kalt, ich brauche eine dicke ________.", "AR": "الجو بارد بالخارج، أحتاج ________ سميكة.", "RU": "На улице холодно, мне нужна теплая ________.", "FA": "بیرون سرد است، من به یک ________ ضخیم نیاز دارم.", "RO": "Afară este frig, am nevoie de o ________ groasă." }, "hint": "Ein Kleidungsstück für die Kälte." },
+{ "key": "L15_LÜCKE_02", "type": "gap-fill", "answerKey": "sonnig", "sentence": { "DE": "Das Wetter ist heute ________, und die Sonne scheint.", "AR": "الطقس اليوم ________، والشمس مشرقة.", "RU": "Погода сегодня ________, и светит солнце.", "FA": "هوای امروز ________ است و خورشید می‌تابد.", "RO": "Vremea este ________ astăzi și soarele strălucește." }, "hint": "Wenn die Sonne scheint." },
+{ "key": "L15_LÜCKE_03", "type": "gap-fill", "answerKey": "tragen", "sentence": { "DE": "Du musst heute warme Schuhe ________.", "AR": "يجب عليك ________ أحذية دافئة اليوم.", "RU": "Ты должен ________ теплую обувь сегодня.", "FA": "تو باید امروز کفش‌های گرم ________.", "RO": "Trebuie să ________ pantofi calzi astăzi." }, "hint": "Das Verb für Kleidung." },
+{ "key": "L15_ZUORD_04", "type": "matching", "matchDE": "rot", "matchKey": "blau", "sentence": { "DE": "Das Hemd ist ________ und die Hose ist rot.", "AR": "القميص ________ والبنطلون أحمر.", "RU": "Рубашка ________, а брюки красные.", "FA": "پیراهن ________ و شلوار قرمز است.", "RO": "Cămașa este ________ și pantalonii sunt roșii." }, "hint": "Die Farbe des Himmels." }
+]
+}

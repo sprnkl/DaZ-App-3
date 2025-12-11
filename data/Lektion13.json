@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Hobbys und Freizeit",
+"AR": "الهوايات وأوقات الفراغ",
+"RU": "Хобби и свободное время",
+"FA": "سرگرمی‌ها و اوقات فراغت",
+"RO": "Hobby-uri și timp liber"
+},
+"vocabulary": [
+{ "key": "L13_VOK_01", "DE": "das Hobby", "AR": "الهواية", "RU": "хобби", "FA": "سرگرمی", "RO": "hobby-ul", "emoji_icon": "🎨" },
+{ "key": "L13_VOK_02", "DE": "die Freizeit", "AR": "وقت الفراغ", "RU": "свободное время", "FA": "اوقات فراغت", "RO": "timpul liber", "emoji_icon": "🥳" },
+{ "key": "L13_VOK_03", "DE": "spielen", "AR": "يَلْعَب", "RU": "играть", "FA": "بازی کردن", "RO": "a se juca", "emoji_icon": "🎮" },
+{ "key": "L13_VOK_04", "DE": "lesen", "AR": "يَقْرَأ", "RU": "читать", "FA": "خواندن", "RO": "a citi", "emoji_icon": "📚" },
+{ "key": "L13_VOK_05", "DE": "Musik hören", "AR": "يستمع للموسيقى", "RU": "слушать музыку", "FA": "گوش دادن به موسیقی", "RO": "a asculta muzică", "emoji_icon": "🎧" },
+{ "key": "L13_VOK_06", "DE": "Sport machen", "AR": "يمارس الرياضة", "RU": "заниматься спортом", "FA": "ورزش کردن", "RO": "a face sport", "emoji_icon": "🏃" },
+{ "key": "L13_VOK_07", "DE": "Fußball", "AR": "كرة القدم", "RU": "футбол", "FA": "فوتبال", "RO": "fotbalul", "emoji_icon": "⚽" },
+{ "key": "L13_VOK_08", "DE": "Schwimmen", "AR": "السباحة", "RU": "плавание", "FA": "شنا", "RO": "înotul", "emoji_icon": "🏊" },
+{ "key": "L13_VOK_09", "DE": "Freunde treffen", "AR": "يلتقي بالأصدقاء", "RU": "встречать друзей", "FA": "دیدن دوستان", "RO": "a întâlni prieteni", "emoji_icon": "🤝" },
+{ "key": "L13_VOK_10", "DE": "Fernsehen", "AR": "يشاهد التلفزيون", "RU": "смотреть телевизор", "FA": "تلویزیون دیدن", "RO": "a se uita la televizor", "emoji_icon": "📺" },
+{ "key": "L13_VOK_11", "DE": "im Internet surfen", "AR": "يتصفح الإنترنت", "RU": "сидеть в интернете", "FA": "وبگردی کردن", "RO": "a naviga pe internet", "emoji_icon": "🌐" },
+{ "key": "L13_VOK_12", "DE": "die Mannschaft/das Team", "AR": "الفريق", "RU": "команда", "FA": "تیم", "RO": "echipa", "emoji_icon": "👥" },
+{ "key": "L13_VOK_13", "DE": "gewinnen", "AR": "يَفوز", "RU": "выигрывать", "FA": "برنده شدن", "RO": "a câștiga", "emoji_icon": "🏆" },
+{ "key": "L13_VOK_14", "DE": "verlieren", "AR": "يَخْسَر", "RU": "проигрывать", "FA": "باختن", "RO": "a pierde", "emoji_icon": "😞" },
+{ "key": "L13_VOK_15", "DE": "trainieren", "AR": "يَتَدَرَّب", "RU": "тренироваться", "FA": "تمرین کردن", "RO": "a se antrena", "emoji_icon": "🏋️" },
+{ "key": "L13_VOK_16", "DE": "malen", "AR": "يَرْسُم", "RU": "рисовать", "FA": "نقاشی کردن", "RO": "a picta", "emoji_icon": "🖼️" },
+{ "key": "L13_VOK_17", "DE": "fotografieren", "AR": "يُلْتَقِط صور", "RU": "фотографировать", "FA": "عکس گرفتن", "RO": "a fotografia", "emoji_icon": "📸" },
+{ "key": "L13_VOK_18", "DE": "reisen", "AR": "يُسَافِر", "RU": "путешествовать", "FA": "سفر کردن", "RO": "a călători", "emoji_icon": "✈️" },
+{ "key": "L13_VOK_19", "DE": "die Natur", "AR": "الطبيعة", "RU": "природа", "FA": "طبیعت", "RO": "natura", "emoji_icon": "🌳" },
+{ "key": "L13_VOK_20", "DE": "kreativ", "AR": "إبداعي", "RU": "креативный", "FA": "خلاق", "RO": "creativ", "emoji_icon": "✨" },
+{ "key": "L13_VOK_21", "DE": "oft", "AR": "غالباً", "RU": "часто", "FA": "اغلب", "RO": "adesea", "emoji_icon": "🔁" },
+{ "key": "L13_VOK_22", "DE": "manchmal", "AR": "أحياناً", "RU": "иногда", "FA": "گاهی اوقات", "RO": "uneori", "emoji_icon": "↔️" },
+{ "key": "L13_VOK_23", "DE": "nie", "AR": "أبداً", "RU": "никогда", "FA": "هرگز", "RO": "niciodată", "emoji_icon": "🚫" },
+{ "key": "L13_VOK_24", "DE": "machen", "AR": "يَفْعَل", "RU": "делать", "FA": "انجام دادن", "RO": "a face", "emoji_icon": "🛠️" },
+{ "key": "L13_VOK_25", "DE": "Ich mag...", "AR": "أنا أحب...", "RU": "Мне нравится...", "FA": "من دوست دارم...", "RO": "Îmi place...", "emoji_icon": "👍" },
+{ "key": "L13_VOK_26", "DE": "Ich mag nicht...", "AR": "أنا لا أحب...", "RU": "Мне не нравится...", "FA": "من دوست ندارم...", "RO": "Nu îmi place...", "emoji_icon": "👎" },
+{ "key": "L13_VOK_27", "DE": "am liebsten", "AR": "الأفضل", "RU": "больше всего", "FA": "بیشتر از همه", "RO": "cel mai mult", "emoji_icon": "💖" },
+{ "key": "L13_VOK_28", "DE": "Wie findest du...?", "AR": "ما رأيك في...؟", "RU": "Что ты думаешь о...?", "FA": "نظرت در مورد ... چیست؟", "RO": "Ce părere ai despre...?", "emoji_icon": "🤔" },
+{ "key": "L13_VOK_29", "DE": "interessant", "AR": "مثير للاهتمام", "RU": "интересный", "FA": "جالب", "RO": "interesant", "emoji_icon": "💡" },
+{ "key": "L13_VOK_30", "DE": "langweilig", "AR": "ممل", "RU": "скучный", "FA": "خسته‌کننده", "RO": "plictisitor", "emoji_icon": "🥱" }
+],
+"exercises": [
+{ "key": "L13_LÜCKE_01", "type": "gap-fill", "answerKey": "Internet", "sentence": { "DE": "In meiner Freizeit surfe ich im ________.", "AR": "في وقت فراغي أتصفح الـ ________.", "RU": "В свободное время я сижу в ________.", "FA": "در اوقات فراغتم در ________ وبگردی می‌کنم.", "RO": "În timpul liber navighez pe ________." }, "hint": "Das globale Netzwerk." },
+{ "key": "L13_LÜCKE_02", "type": "gap-fill", "answerKey": "Fußball", "sentence": { "DE": "Am liebsten spiele ich ________ im Team.", "AR": "أفضل شيء أحبه هو لعب ________ في الفريق.", "RU": "Больше всего я люблю играть в ________ в команде.", "FA": "من بیشتر از همه دوست دارم در تیم ________ بازی کنم.", "RO": "Cel mai mult îmi place să joc ________ în echipă." }, "hint": "Der beliebteste Sport mit dem Ball." },
+{ "key": "L13_LÜCKE_03", "type": "gap-fill", "answerKey": "manchmal", "sentence": { "DE": "Ich lese ________ Bücher über Geschichte.", "AR": "أنا ________ أقرأ كتباً عن التاريخ.", "RU": "Я ________ читаю книги по истории.", "FA": "من ________ کتاب‌های تاریخی می‌خوانم.", "RO": "Eu citesc ________ cărți despre istorie." }, "hint": "Nicht oft, nicht nie." },
+{ "key": "L13_ZUORD_04", "type": "matching", "matchDE": "verlieren", "matchKey": "gewinnen", "sentence": { "DE": "Ich möchte nicht ________.", "AR": "أنا لا أريد أن ________.", "RU": "Я не хочу ________.", "FA": "من نمی‌خواهم ________.", "RO": "Nu vreau să ________." }, "hint": "Das Gegenteil von 'gewinnen'." }
+]
+}

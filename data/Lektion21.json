@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Höflichkeitsfloskeln",
+"AR": "عبارات اللياقة",
+"RU": "Вежливые выражения",
+"FA": "عبارات مودبانه",
+"RO": "Formule de politețe"
+},
+"vocabulary": [
+{ "key": "L21_VOK_01", "DE": "bitte", "AR": "من فضلك", "RU": "пожалуйста", "FA": "لطفاً", "RO": "te rog/vă rog", "emoji_icon": "🙏" },
+{ "key": "L21_VOK_02", "DE": "danke", "AR": "شكراً", "RU": "спасибо", "FA": "ممنون", "RO": "mulțumesc", "emoji_icon": "👍" },
+{ "key": "L21_VOK_03", "DE": "gern geschehen", "AR": "على الرحب والسعة", "RU": "пожалуйста", "FA": "خواهش می‌کنم", "RO": "cu plăcere", "emoji_icon": "😊" },
+{ "key": "L21_VOK_04", "DE": "Entschuldigung", "AR": "آسف/عفواً", "RU": "извините", "FA": "ببخشید", "RO": "scuze", "emoji_icon": "😔" },
+{ "key": "L21_VOK_05", "DE": "Verzeihung", "AR": "مسامحة", "RU": "простите", "FA": "معذرت", "RO": "iertare", "emoji_icon": "😟" },
+{ "key": "L21_VOK_06", "DE": "Guten Tag (formell)", "AR": "مساء الخير", "RU": "здравствуйте", "FA": "سلام (رسمی)", "RO": "bună ziua", "emoji_icon": "👋" },
+{ "key": "L21_VOK_07", "DE": "Hallo (informell)", "AR": "أهلاً", "RU": "привет", "FA": "سلام (غیررسمی)", "RO": "salut", "emoji_icon": "👋" },
+{ "key": "L21_VOK_08", "DE": "Auf Wiedersehen", "AR": "إلى اللقاء", "RU": "до свидания", "FA": "خداحافظ", "RO": "la revedere", "emoji_icon": "👋" },
+{ "key": "L21_VOK_09", "DE": "Tschüss (informell)", "AR": "مع السلامة", "RU": "пока", "FA": "بای", "RO": "pa", "emoji_icon": "👋" },
+{ "key": "L21_VOK_10", "DE": "Wie geht es Ihnen? (formell)", "AR": "كيف حالك؟ (رسمي)", "RU": "Как у Вас дела?", "FA": "حال شما چطور است؟", "RO": "Ce mai faceți? (formal)", "emoji_icon": "❓" },
+{ "key": "L21_VOK_11", "DE": "Mir geht es gut.", "AR": "أنا بخير.", "RU": "У меня все хорошо.", "FA": "حال من خوب است.", "RO": "Sunt bine.", "emoji_icon": "😊" },
+{ "key": "L21_VOK_12", "DE": "Ich wünsche Ihnen einen schönen Tag.", "AR": "أتمنى لك يوماً سعيداً.", "RU": "Желаю Вам хорошего дня.", "FA": "روز خوبی داشته باشید.", "RO": "Vă doresc o zi bună.", "emoji_icon": "☀️" },
+{ "key": "L21_VOK_13", "DE": "Kein Problem.", "AR": "لا مشكلة.", "RU": "Нет проблем.", "FA": "مشکلی نیست.", "RO": "Nicio problemă.", "emoji_icon": "🆗" },
+{ "key": "L21_VOK_14", "DE": "Ist das möglich?", "AR": "هل هذا ممكن؟", "RU": "Это возможно?", "FA": "آیا این امکان دارد؟", "RO": "Este posibil?", "emoji_icon": "❓" },
+{ "key": "L21_VOK_15", "DE": "Könnten Sie mir helfen?", "AR": "هل يمكنك مساعدتي؟", "RU": "Не могли бы Вы мне помочь?", "FA": "می‌توانید به من کمک کنید؟", "RO": "Mă puteți ajuta?", "emoji_icon": "🤲" },
+{ "key": "L21_VOK_16", "DE": "Darf ich...?", "AR": "هل يمكنني...؟", "RU": "Можно ли мне...?", "FA": "آیا اجازه دارم...؟", "RO": "Am voie să...?", "emoji_icon": "✅" },
+{ "key": "L21_VOK_17", "DE": "Das ist sehr freundlich.", "AR": "هذا لطيف جداً.", "RU": "Это очень мило.", "FA": "این خیلی مهربانانه است.", "RO": "E foarte amabil.", "emoji_icon": "🙂" },
+{ "key": "L21_VOK_18", "DE": "Ich verstehe.", "AR": "أفهم.", "RU": "Я понимаю.", "FA": "متوجه می‌شوم.", "RO": "Înțeleg.", "emoji_icon": "🧠" },
+{ "key": "L21_VOK_19", "DE": "Ich verstehe nicht.", "AR": "لا أفهم.", "RU": "Я не понимаю.", "FA": "متوجه نمی‌شوم.", "RO": "Nu înțeleg.", "emoji_icon": "🤔" },
+{ "key": "L21_VOK_20", "DE": "Sprechen Sie Englisch?", "AR": "هل تتحدث الإنجليزية؟", "RU": "Вы говорите по-английски?", "FA": "شما انگلیسی صحبت می‌کنید؟", "RO": "Vorbiți engleza?", "emoji_icon": "🇬🇧" },
+{ "key": "L21_VOK_21", "DE": "Sprechen Sie langsam.", "AR": "تكلم ببطء.", "RU": "Говорите медленно.", "FA": "آرام صحبت کنید.", "RO": "Vorbiți încet.", "emoji_icon": "🐌" },
+{ "key": "L21_VOK_22", "DE": "Können Sie das wiederholen?", "AR": "هل يمكنك تكرار ذلك؟", "RU": "Можете это повторить?", "FA": "می‌توانید این را تکرار کنید؟", "RO": "Puteți repeta?", "emoji_icon": "🔁" },
+{ "key": "L21_VOK_23", "DE": "Wie bitte?", "AR": "ماذا قلت؟", "RU": "Что, простите?", "FA": "بفرمایید؟ (تکرار)", "RO": "Poftim?", "emoji_icon": "👂" },
+{ "key": "L21_VOK_24", "DE": "Ich bin fremd hier.", "AR": "أنا غريب هنا.", "RU": "Я здесь чужой.", "FA": "من اینجا غریبه هستم.", "RO": "Sunt străin aici.", "emoji_icon": "🗺️" },
+{ "key": "L21_VOK_25", "DE": "Es tut mir leid.", "AR": "أنا آسف.", "RU": "Мне жаль.", "FA": "متاسفم.", "RO": "Îmi pare rău.", "emoji_icon": "😔" },
+{ "key": "L21_VOK_26", "DE": "Machen Sie sich keine Sorgen.", "AR": "لا تقلق.", "RU": "Не беспокойтесь.", "FA": "نگران نباشید.", "RO": "Nu vă faceți griji.", "emoji_icon": "😌" },
+{ "key": "L21_VOK_27", "DE": "Das ist nett von Ihnen.", "AR": "هذا لطف منك.", "RU": "Это любезно с Вашей стороны.", "FA": "این از لطف شماست.", "RO": "E drăguț din partea dumneavoastră.", "emoji_icon": "❤️" },
+{ "key": "L21_VOK_28", "DE": "Darf ich eintreten?", "AR": "هل يمكنني الدخول؟", "RU": "Могу ли я войти?", "FA": "آیا می‌توانم وارد شوم؟", "RO": "Pot intra?", "emoji_icon": "🚪" },
+{ "key": "L21_VOK_29", "DE": "Ich warte.", "AR": "أنا أنتظر.", "RU": "Я жду.", "FA": "من منتظر هستم.", "RO": "Aștept.", "emoji_icon": "⏱️" },
+{ "key": "L21_VOK_30", "DE": "Keine Ursache (Gern geschehen).", "AR": "لا داعي للشكر.", "RU": "Не за что.", "FA": "قابلی نداشت.", "RO": "N-ai pentru ce.", "emoji_icon": "😊" }
+],
+"exercises": [
+{ "key": "L21_LÜCKE_01", "type": "gap-fill", "answerKey": "bitte", "sentence": { "DE": "Kann ich Ihnen das Buch geben, ________?", "AR": "هل يمكنني أن أعطيك الكتاب، ________؟", "RU": "Могу я дать Вам книгу, ________?", "FA": "آیا می‌توانم کتاب را به شما بدهم، ________؟", "RO": "Pot să vă dau cartea, ________?" }, "hint": "Höfliche Ergänzung." },
+{ "key": "L21_LÜCKE_02", "type": "gap-fill", "answerKey": "Entschuldigung", "sentence": { "DE": "________, ich bin zu spät.", "AR": "________، أنا متأخر.", "RU": "________, я опоздал.", "FA": "________، من دیر کردم.", "RO": "________, am întârziat." }, "hint": "Wenn man einen Fehler macht." },
+{ "key": "L21_LÜCKE_03", "type": "gap-fill", "answerKey": "Sie", "sentence": { "DE": "Können ________ mir den Weg zeigen?", "AR": "هل يمكن أن ________ تُريني الطريق؟", "RU": "Можете ________ мне показать дорогу?", "FA": "آیا ________ می‌توانید راه را به من نشان دهید؟", "RO": "Puteți ________ să-mi arătați drumul?", "hint_de": "Die formelle Anrede (formell)." }, "hint": "Die formelle Anrede." },
+{ "key": "L21_ZUORD_04", "type": "matching", "matchDE": "wiederholen", "matchKey": "langsam", "sentence": { "DE": "Können Sie ________ sprechen?", "AR": "هل يمكنك التحدث ________؟", "RU": "Можете ________ говорить?", "FA": "آیا می‌توانید ________ صحبت کنید؟", "RO": "Puteți vorbi ________?", "hint_de": "Das Gegenteil von 'schnell'." }, "hint": "Das Gegenteil von 'schnell'." }
+]
+}

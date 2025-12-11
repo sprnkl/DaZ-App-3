@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Kirchliche Feiertage",
+"AR": "العطلات الكنسية",
+"RU": "Церковные праздники",
+"FA": "تعطیلات مذهبی",
+"RO": "Sărbători bisericești"
+},
+"vocabulary": [
+{ "key": "L27_VOK_01", "DE": "die Kirche", "AR": "الكنيسة", "RU": "церковь", "FA": "کلیسا", "RO": "biserica", "emoji_icon": "⛪" },
+{ "key": "L27_VOK_02", "DE": "der Gottesdienst", "AR": "القداس/العبادة", "RU": "служба", "FA": "مراسم مذهبی", "RO": "slujba religioasă", "emoji_icon": "🙏" },
+{ "key": "L27_VOK_03", "DE": "das Christentum", "AR": "المسيحية", "RU": "христианство", "FA": "مسیحیت", "RO": "creștinismul", "emoji_icon": "✝️" },
+{ "key": "L27_VOK_04", "DE": "die Bibel", "AR": "الكتاب المقدس", "RU": "Библия", "FA": "انجیل", "RO": "Biblia", "emoji_icon": "📖" },
+{ "key": "L27_VOK_05", "DE": "Ostern", "AR": "عيد الفصح", "RU": "Пасха", "FA": "عید پاک", "RO": "Paștele", "emoji_icon": "🐰" },
+{ "key": "L27_VOK_06", "DE": "Karfreitag", "AR": "الجمعة العظيمة", "RU": "Страстная пятница", "FA": "جمعه خوب", "RO": "Vinerea Mare", "emoji_icon": "✝️" },
+{ "key": "L27_VOK_07", "DE": "Pfingsten", "AR": "عيد العنصرة", "RU": "Пятидесятница", "FA": "پنطیکاست", "RO": "Rusaliile", "emoji_icon": "🕊️" },
+{ "key": "L27_VOK_08", "DE": "Weihnachten", "AR": "عيد الميلاد", "RU": "Рождество", "FA": "کریسمس", "RO": "Crăciunul", "emoji_icon": "🎄" },
+{ "key": "L27_VOK_09", "DE": "Heiligabend (24. Dez)", "AR": "عشية الميلاد", "RU": "Сочельник", "FA": "شب کریسمس", "RO": "Ajunul Crăciunului", "emoji_icon": "🕯️" },
+{ "key": "L27_VOK_10", "DE": "Allerheiligen (1. Nov)", "AR": "عيد جميع القديسين", "RU": "День всех святых", "FA": "روز همه قدیسان", "RO": "Ziua Tuturor Sfinților", "emoji_icon": "🎃" },
+{ "key": "L27_VOK_11", "DE": "der Heilige", "AR": "القديس", "RU": "святой", "FA": "قدیس", "RO": "sfântul", "emoji_icon": "😇" },
+{ "key": "L27_VOK_12", "DE": "der Advent", "AR": "المجيء", "RU": "Адвент", "FA": "ظهور", "RO": "Adventul", "emoji_icon": "🕯️" },
+{ "key": "L27_VOK_13", "DE": "die Krippe", "AR": "المذود", "RU": "вертеп", "FA": "آخور", "RO": "ieslea", "emoji_icon": "👶" },
+{ "key": "L27_VOK_14", "DE": "das Geschenk", "AR": "الهدية", "RU": "подарок", "FA": "هدیه", "RO": "cadoul", "emoji_icon": "🎁" },
+{ "key": "L27_VOK_15", "DE": "der Engel", "AR": "الملاك", "RU": "ангел", "FA": "فرشته", "RO": "îngerul", "emoji_icon": "👼" },
+{ "key": "L27_VOK_16", "DE": "die Kerze", "AR": "الشمعة", "RU": "свеча", "FA": "شمع", "RO": "lumânarea", "emoji_icon": "🕯️" },
+{ "key": "L27_VOK_17", "DE": "beten", "AR": "يصلي", "RU": "молиться", "FA": "دعا کردن", "RO": "a se ruga", "emoji_icon": "🙏" },
+{ "key": "L27_VOK_18", "DE": "der Kalender", "AR": "التقويم", "RU": "календарь", "FA": "تقویم", "RO": "calendarul", "emoji_icon": "🗓️" },
+{ "key": "L27_VOK_19", "DE": "die Tradition", "AR": "التقليد", "RU": "традиция", "FA": "سنت", "RO": "tradiția", "emoji_icon": "📜" },
+{ "key": "L27_VOK_20", "DE": "die Sitte", "AR": "العادة", "RU": "обычай", "FA": "رسم", "RO": "obiceiul", "emoji_icon": "🤝" },
+{ "key": "L27_VOK_21", "DE": "der Monat", "AR": "الشهر", "RU": "месяц", "FA": "ماه", "RO": "luna", "emoji_icon": "📅" },
+{ "key": "L27_VOK_22", "DE": "der Brauch", "AR": "العادة/الطقس", "RU": "обычай", "FA": "آداب و رسوم", "RO": "obiceiul", "emoji_icon": "🎭" },
+{ "key": "L27_VOK_23", "DE": "die Glocke", "AR": "الجرس", "RU": "колокол", "FA": "زنگ", "RO": "clopotul", "emoji_icon": "🔔" },
+{ "key": "L27_VOK_24", "DE": "die Taufe", "AR": "المعمودية", "RU": "крещение", "FA": "غسل تعمید", "RO": "botezul", "emoji_icon": "💧" },
+{ "key": "L27_VOK_25", "DE": "die Kommunion", "AR": "المناولة", "RU": "причастие", "FA": "عشاء ربانی", "RO": "comuniunea", "emoji_icon": "🍞" },
+{ "key": "L27_VOK_26", "DE": "die Konfirmation", "AR": "التثبيت", "RU": "конфирмация", "FA": "تأیید", "RO": "confirmarea", "emoji_icon": "🕊️" },
+{ "key": "L27_VOK_27", "DE": "religiös", "AR": "ديني", "RU": "религиозный", "FA": "مذهبی", "RO": "religios", "emoji_icon": "🙏" },
+{ "key": "L27_VOK_28", "DE": "feiern wir...", "AR": "نحتفل بـ...", "RU": "мы празднуем...", "FA": "ما جشن می‌گیریم...", "RO": "sărbătorim...", "emoji_icon": "🥳" },
+{ "key": "L27_VOK_29", "DE": "das ist wichtig für...", "AR": "هذا مهم لـ...", "RU": "это важно для...", "FA": "این برای ... مهم است", "RO": "acest lucru este important pentru...", "emoji_icon": "⭐" },
+{ "key": "L27_VOK_30", "DE": "der Karneval/Fasching", "AR": "الكرنفال", "RU": "карнавал", "FA": "کارناوال", "RO": "carnavalul", "emoji_icon": "🎭" }
+],
+"exercises": [
+{ "key": "L27_LÜCKE_01", "type": "gap-fill", "answerKey": "Weihnachten", "sentence": { "DE": "Am 25. und 26. Dezember ist ________.", "AR": "يوم 25 و 26 ديسمبر هو ________.", "RU": "25 и 26 декабря — ________.", "FA": "25 و 26 دسامبر ________ است.", "RO": "Pe 25 și 26 decembrie este ________." }, "hint": "Das Fest, an dem Geschenke verteilt werden." },
+{ "key": "L27_LÜCKE_02", "type": "gap-fill", "answerKey": "Ostern", "sentence": { "DE": "Zu ________ suchen die Kinder Eier.", "AR": "في ________ يبحث الأطفال عن البيض.", "RU": "На ________ дети ищут яйца.", "FA": "در ________ بچه‌ها تخم مرغ پیدا می‌کنند.", "RO": "De ________ copiii caută ouă." }, "hint": "Feiertag im Frühling." },
+{ "key": "L27_LÜCKE_03", "type": "gap-fill", "answerKey": "Gottesdienst", "sentence": { "DE": "Viele Menschen gehen am Sonntag in den ________.", "AR": "الكثير من الناس يذهبون يوم الأحد إلى ________.", "RU": "Многие люди идут в ________ в воскресенье.", "FA": "بسیاری از مردم یکشنبه به ________ می‌روند.", "RO": "Mulți oameni merg la ________ duminică." }, "hint": "Der kirchliche Termin am Sonntag." },
+{ "key": "L27_ZUORD_04", "type": "matching", "matchDE": "Brauch", "matchKey": "Sitte", "sentence": { "DE": "Das ist ein alter ________.", "AR": "هذا ________ قديم.", "RU": "Это старый ________.", "FA": "این یک ________ قدیمی است.", "RO": "Acesta este un ________ vechi." }, "hint": "Traditionelle Gewohnheit." }
+]
+}

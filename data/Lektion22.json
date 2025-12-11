@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Orientierung im Ort",
+"AR": "التوجيه في المنطقة",
+"RU": "Ориентирование на местности",
+"FA": "جهت‌یابی در شهر",
+"RO": "Orientarea în localitate"
+},
+"vocabulary": [
+{ "key": "L22_VOK_01", "DE": "der Stadtplan", "AR": "خريطة المدينة", "RU": "план города", "FA": "نقشه شهر", "RO": "harta orașului", "emoji_icon": "🗺️" },
+{ "key": "L22_VOK_02", "DE": "die Straße", "AR": "الشارع", "RU": "улица", "FA": "خیابان", "RO": "strada", "emoji_icon": "🛣️" },
+{ "key": "L22_VOK_03", "DE": "der Platz", "AR": "الساحة", "RU": "площадь", "FA": "میدان", "RO": "piața", "emoji_icon": "📍" },
+{ "key": "L22_VOK_04", "DE": "die Ecke", "AR": "الزاوية", "RU": "угол", "FA": "گوشه", "RO": "colțul", "emoji_icon": "📐" },
+{ "key": "L22_VOK_05", "DE": "geradeaus", "AR": "مباشرة", "RU": "прямо", "FA": "مستقیم", "RO": "drept înainte", "emoji_icon": "⬆️" },
+{ "key": "L22_VOK_06", "DE": "links abbiegen", "AR": "انعطف يساراً", "RU": "повернуть налево", "FA": "به چپ بپیچ", "RO": "a vira la stânga", "emoji_icon": "↩️" },
+{ "key": "L22_VOK_07", "DE": "rechts abbiegen", "AR": "انعطف يميناً", "RU": "повернуть направо", "FA": "به راست بپیچ", "RO": "a vira la dreapta", "emoji_icon": "↪️" },
+{ "key": "L22_VOK_08", "DE": "gegenüber", "AR": "مقابل", "RU": "напротив", "FA": "روبرو", "RO": "vizavi", "emoji_icon": "↔️" },
+{ "key": "L22_VOK_09", "DE": "neben", "AR": "بجانب", "RU": "рядом", "FA": "کنار", "RO": "lângă", "emoji_icon": "👦↔️👧" },
+{ "key": "L22_VOK_10", "DE": "zwischen", "AR": "بين", "RU": "между", "FA": "بین", "RO": "între", "emoji_icon": "➡️" },
+{ "key": "L22_VOK_11", "DE": "vor (örtlich)", "AR": "أمام", "RU": "перед", "FA": "جلوی", "RO": "în fața", "emoji_icon": "🔼" },
+{ "key": "L22_VOK_12", "DE": "hinter", "AR": "خلف", "RU": "позади", "FA": "پشت", "RO": "în spatele", "emoji_icon": "🔽" },
+{ "key": "L22_VOK_13", "DE": "der Bahnhof", "AR": "محطة القطار", "RU": "вокзал", "FA": "ایستگاه قطار", "RO": "gara", "emoji_icon": "🚉" },
+{ "key": "L22_VOK_14", "DE": "die Bushaltestelle", "AR": "موقف الحافلات", "RU": "автобусная остановка", "FA": "ایستگاه اتوبوس", "RO": "stația de autobuz", "emoji_icon": "🚏" },
+{ "key": "L22_VOK_15", "DE": "die Apotheke", "AR": "الصيدلية", "RU": "аптека", "FA": "داروخانه", "RO": "farmacia", "emoji_icon": "💊" },
+{ "key": "L22_VOK_16", "DE": "die Post", "AR": "مكتب البريد", "RU": "почта", "FA": "اداره پست", "RO": "poșta", "emoji_icon": "📮" },
+{ "key": "L22_VOK_17", "DE": "die Bank", "AR": "البنك", "RU": "банк", "FA": "بانک", "RO": "banca", "emoji_icon": "🏦" },
+{ "key": "L22_VOK_18", "DE": "das Rathaus", "AR": "مبنى البلدية", "RU": "мэрия", "FA": "شهرداری", "RO": "primăria", "emoji_icon": "🏛️" },
+{ "key": "L22_VOK_19", "DE": "der Supermarkt", "AR": "المتجر الكبير", "RU": "супермаркет", "FA": "سوپرمارکت", "RO": "supermarketul", "emoji_icon": "🛒" },
+{ "key": "L22_VOK_20", "DE": "der Bäcker", "AR": "الخباز", "RU": "пекарня", "FA": "نانوایی", "RO": "brutăria", "emoji_icon": "🥐" },
+{ "key": "L22_VOK_21", "DE": "der Friseur", "AR": "مصفف الشعر", "RU": "парикмахерская", "FA": "آرایشگاه", "RO": "frizeria", "emoji_icon": "💇" },
+{ "key": "L22_VOK_22", "DE": "das Kino", "AR": "السينما", "RU": "кинотеатр", "FA": "سینما", "RO": "cinematograful", "emoji_icon": "🍿" },
+{ "key": "L22_VOK_23", "DE": "das Museum", "AR": "المتحف", "RU": "музей", "FA": "موزه", "RO": "muzeul", "emoji_icon": "🖼️" },
+{ "key": "L22_VOK_24", "DE": "der Park", "AR": "الحديقة", "RU": "парк", "FA": "پارک", "RO": "parcul", "emoji_icon": "🌳" },
+{ "key": "L22_VOK_25", "DE": "der Spielplatz", "AR": "الملعب", "RU": "детская площадка", "FA": "زمین بازی", "RO": "locul de joacă", "emoji_icon": "🛝" },
+{ "key": "L22_VOK_26", "DE": "Wo finde ich...?", "AR": "أين أجد...؟", "RU": "Где я могу найти...?", "FA": "کجا می‌توانم ... را پیدا کنم؟", "RO": "Unde pot găsi...?", "emoji_icon": "❓" },
+{ "key": "L22_VOK_27", "DE": "Wie weit ist es?", "AR": "كم تبعد المسافة؟", "RU": "Как далеко это?", "FA": "چقدر دور است؟", "RO": "Cât de departe este?", "emoji_icon": "🔭" },
+{ "key": "L22_VOK_28", "DE": "Das ist weit.", "AR": "هذا بعيد.", "RU": "Это далеко.", "FA": "این دور است.", "RO": "E departe.", "emoji_icon": "🚶" },
+{ "key": "L22_VOK_29", "DE": "Das ist nah.", "AR": "هذا قريب.", "RU": "Это قريب.", "FA": "این نزدیک است.", "RO": "E aproape.", "emoji_icon": "🏃" },
+{ "key": "L22_VOK_30", "DE": "Gehen Sie zu Fuß.", "AR": "اذهب سيراً على الأقدام.", "RU": "Идите пешком.", "FA": "پیاده بروید.", "RO": "Mergeți pe jos.", "emoji_icon": "👣" }
+],
+"exercises": [
+{ "key": "L22_LÜCKE_01", "type": "gap-fill", "answerKey": "Bushaltestelle", "sentence": { "DE": "Ich warte an der ________ auf den Bus.", "AR": "أنتظر الحافلة في ________.", "RU": "Я жду автобус на ________.", "FA": "من در ________ منتظر اتوبوس هستم.", "RO": "Aștept autobuzul la ________." }, "hint": "Der Ort, wo der Bus hält." },
+{ "key": "L22_LÜCKE_02", "type": "gap-fill", "answerKey": "neben", "sentence": { "DE": "Die Apotheke ist ________ dem Rathaus.", "AR": "الصيدلية ________ مبنى البلدية.", "RU": "Аптека находится ________ мэрией.", "FA": "داروخانه ________ شهرداری است.", "RO": "Farmacia este ________ primăriei." }, "hint": "Präposition: direkt daneben." },
+{ "key": "L22_LÜCKE_03", "type": "gap-fill", "answerKey": "geradeaus", "sentence": { "DE": "Gehen Sie ________ bis zur Kreuzung.", "AR": "اذهب ________ حتى التقاطع.", "RU": "Идите ________ до перекрестка.", "FA": "تا چهارراه ________ بروید.", "RO": "Mergeți ________ până la intersecție." }, "hint": "Nicht links, nicht rechts." },
+{ "key": "L22_ZUORD_04", "type": "matching", "matchDE": "weit", "matchKey": "nah", "sentence": { "DE": "Das Gegenteil von ________ ist nah.", "AR": "عكس ________ هو قريب.", "RU": "Противоположность ________ — близко.", "FA": "متضاد ________، نزدیک است.", "RO": "Opunerea lui ________ este aproape." }, "hint": "Sehr große Entfernung." }
+]
+}

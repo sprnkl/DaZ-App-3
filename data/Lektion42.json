@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Berufswelt / Berufe sortieren",
+"AR": "عالم العمل وتصنيف المهن",
+"RU": "Мир профессий / Сортировка профессий",
+"FA": "دنیای شغل و دسته‌بندی مشاغل",
+"RO": "Lumea muncii / Sortarea meseriilor"
+},
+"vocabulary": [
+{ "key": "L42_VOK_01", "DE": "der Beruf", "AR": "المهنة", "RU": "профессия", "FA": "شغل", "RO": "meseria", "emoji_icon": "💼" },
+{ "key": "L42_VOK_02", "DE": "arbeiten", "AR": "يعمل", "RU": "работать", "FA": "کار کردن", "RO": "a lucra", "emoji_icon": "👷" },
+{ "key": "L42_VOK_03", "DE": "die Ausbildung", "AR": "التدريب المهني", "RU": "обучение", "FA": "آموزش شغلی", "RO": "formarea profesională", "emoji_icon": "🎓" },
+{ "key": "L42_VOK_04", "DE": "die Karriere", "AR": "المسيرة المهنية", "RU": "карьера", "FA": "مسیر شغلی", "RO": "cariera", "emoji_icon": "📈" },
+{ "key": "L42_VOK_05", "DE": "der Lohn/das Gehalt", "AR": "الأجر/الراتب", "RU": "зарплата", "FA": "حقوق", "RO": "salariul", "emoji_icon": "💰" },
+{ "key": "L42_VOK_06", "DE": "der Chef/die Chefin", "AR": "الرئيس/الرئيسة", "RU": "начальник/начальница", "FA": "رئیس", "RO": "șeful/șefa", "emoji_icon": "👑" },
+{ "key": "L42_VOK_07", "DE": "der Kollege/die Kollegin", "AR": "الزميل/الزميلة", "RU": "коллега", "FA": "همکار", "RO": "colegul/colega", "emoji_icon": "🤝" },
+{ "key": "L42_VOK_08", "DE": "der Handwerker", "AR": "الحرفي", "RU": "ремесленник", "FA": "صنعتگر", "RO": "meseriașul", "emoji_icon": "🛠️" },
+{ "key": "L42_VOK_09", "DE": "der Verkäufer", "AR": "البائع", "RU": "продавец", "FA": "فروشنده", "RO": "vânzătorul", "emoji_icon": "🛍️" },
+{ "key": "L42_VOK_10", "DE": "der Arzt/die Ärztin", "AR": "الطبيب/الطبيبة", "RU": "врач", "FA": "دکتر", "RO": "medicul", "emoji_icon": "👨‍⚕️" },
+{ "key": "L42_VOK_11", "DE": "der Polizist", "AR": "الشرطي", "RU": "полицейский", "FA": "پلیس", "RO": "polițistul", "emoji_icon": "👮" },
+{ "key": "L42_VOK_12", "DE": "der Programmierer (IT)", "AR": "المبرمج", "RU": "программист", "FA": "برنامه‌نویس", "RO": "programatorul", "emoji_icon": "💻" },
+{ "key": "L42_VOK_13", "DE": "der Mechaniker", "AR": "الميكانيكي", "RU": "механик", "FA": "مکانیک", "RO": "mecanicul", "emoji_icon": "🔧" },
+{ "key": "L42_VOK_14", "DE": "der Anwalt", "AR": "المحامي", "RU": "адвокат", "FA": "وکیل", "RO": "avocatul", "emoji_icon": "⚖️" },
+{ "key": "L42_VOK_15", "DE": "der Koch", "AR": "الطباخ", "RU": "повар", "FA": "آشپز", "RO": "bucătarul", "emoji_icon": "🧑‍🍳" },
+{ "key": "L42_VOK_16", "DE": "das Büro", "AR": "المكتب", "RU": "офис", "FA": "دفتر", "RO": "biroul", "emoji_icon": "🏢" },
+{ "key": "L42_VOK_17", "DE": "die Werkstatt", "AR": "الورشة", "RU": "мастерская", "FA": "کارگاه", "RO": "atelierul", "emoji_icon": "🏭" },
+{ "key": "L42_VOK_18", "DE": "die Fähigkeiten (Plural)", "AR": "المهارات", "RU": "навыки", "FA": "مهارت‌ها", "RO": "abilitățile", "emoji_icon": "💡" },
+{ "key": "L42_VOK_19", "DE": "die Verantwortung", "AR": "المسؤولية", "RU": "ответственность", "FA": "مسئولیت", "RO": "responsabilitatea", "emoji_icon": "⭐" },
+{ "key": "L42_VOK_20", "DE": "die Teamarbeit", "AR": "العمل الجماعي", "RU": "командная работа", "FA": "کار تیمی", "RO": "munca în echipă", "emoji_icon": "👥" },
+{ "key": "L42_VOK_21", "DE": "kreativ", "AR": "إبداعي", "RU": "креативный", "FA": "خلاق", "RO": "creativ", "emoji_icon": "🎨" },
+{ "key": "L42_VOK_22", "DE": "logisch denken", "AR": "يفكر منطقياً", "RU": "мыслить логически", "FA": "منطقی فکر کردن", "RO": "a gândi logic", "emoji_icon": "🧠" },
+{ "key": "L42_VOK_23", "DE": "technisch versiert", "AR": "بارع تقنياً", "RU": "технически подкованный", "FA": "ماهر فنی", "RO": "priceput tehnic", "emoji_icon": "💻" },
+{ "key": "L42_VOK_24", "DE": "die Bewerbung", "AR": "الطلب", "RU": "заявление", "FA": "درخواست", "RO": "cererea", "emoji_icon": "📝" },
+{ "key": "L42_VOK_25", "DE": "das Vorstellungsgespräch", "AR": "مقابلة العمل", "RU": "собеседование", "FA": "مصاحبه شغلی", "RO": "interviul", "emoji_icon": "💬" },
+{ "key": "L42_VOK_26", "DE": "die Zukunft", "AR": "المستقبل", "RU": "будущее", "FA": "آینده", "RO": "viitorul", "emoji_icon": "🔮" },
+{ "key": "L42_VOK_27", "DE": "Was möchten Sie werden?", "AR": "ماذا تود أن تصبح؟", "RU": "Кем Вы хотите стать?", "FA": "شما دوست دارید چه کاره شوید؟", "RO": "Ce doriți să deveniți?", "emoji_icon": "❓" },
+{ "key": "L42_VOK_28", "DE": "die Arbeitszeit", "AR": "وقت العمل", "RU": "рабочее время", "FA": "ساعت کاری", "RO": "timpul de lucru", "emoji_icon": "⏰" },
+{ "key": "L42_VOK_29", "DE": "Überstunden machen", "AR": "يعمل ساعات إضافية", "RU": "работать сверхурочно", "FA": "اضافه کاری کردن", "RO": "a face ore suplimentare", "emoji_icon": "💪" },
+{ "key": "L42_VOK_30", "DE": "der Vertrag", "AR": "العقد", "RU": "договор", "FA": "قرارداد", "RO": "contractul", "emoji_icon": "🤝" }
+],
+"exercises": [
+{ "key": "L42_LÜCKE_01", "type": "gap-fill", "answerKey": "Programmierung", "sentence": { "DE": "Ich interessiere mich für ________ und Computer.", "AR": "أنا مهتم بـ ________ والكمبيوتر.", "RU": "Я интересуюсь ________ и компьютерами.", "FA": "من به ________ و کامپیوتر علاقه‌مندم.", "RO": "Sunt interesat de ________ și computere." }, "hint": "Das Fach der IT-Experten." },
+{ "key": "L42_LÜCKE_02", "type": "gap-fill", "answerKey": "Gehalt", "sentence": { "DE": "Nach der Ausbildung bekomme ich mein erstes ________.", "AR": "بعد التدريب المهني سأحصل على أول ________ لي.", "RU": "После обучения я получу свою первую ________.", "FA": "بعد از آموزش شغلی اولین ________ خود را می‌گیرم.", "RO": "După formare, primesc primul ________." }, "hint": "Das Geld, das man für die Arbeit bekommt." },
+{ "key": "L42_LÜCKE_03", "type": "gap-fill", "answerKey": "Teamarbeit", "sentence": { "DE": "In vielen Berufen ist ________ sehr wichtig.", "AR": "في العديد من المهن ________ مهمة جداً.", "RU": "Во многих профессиях ________ очень важна.", "FA": "در بسیاری از مشاغل ________ بسیار مهم است.", "RO": "În multe meserii ________ este foarte importantă." }, "hint": "Das Arbeiten mit Kollegen." },
+{ "key": "L42_ZUORD_04", "type": "matching", "matchDE": "Mechaniker", "matchKey": "Werkstatt", "sentence": { "DE": "Der ________ arbeitet in der ________.", "AR": " ________ يعمل في الـ ________.", "RU": " ________ работает в ________.", "FA": " ________ در ________ کار می‌کند.", "RO": " ________ lucrează în ________." }, "hint": "Der Ort, an dem Autos repariert werden." }
+]
+}

@@ -1,0 +1,47 @@
+{
+"title": {
+"DE": "Schulferien",
+"AR": "العطلات المدرسية",
+"RU": "Школьные каникулы",
+"FA": "تعطیلات مدرسه",
+"RO": "Vacanța școlară"
+},
+"vocabulary": [
+{ "key": "L41_VOK_01", "DE": "die Ferien (Plural)", "AR": "العطلة/الإجازة", "RU": "каникулы", "FA": "تعطیلات", "RO": "vacanța", "emoji_icon": "🏖️" },
+{ "key": "L41_VOK_02", "DE": "die Sommerferien (6 Wochen)", "AR": "عطلة الصيف", "RU": "летние каникулы", "FA": "تعطیلات تابستانی", "RO": "vacanța de vară", "emoji_icon": "☀️" },
+{ "key": "L41_VOK_03", "DE": "die Herbstferien", "AR": "عطلة الخريف", "RU": "осенние каникулы", "FA": "تعطیلات پاییزی", "RO": "vacanța de toamnă", "emoji_icon": "🍂" },
+{ "key": "L41_VOK_04", "DE": "die Weihnachtsferien", "AR": "عطلة عيد الميلاد", "RU": "рождественские каникулы", "FA": "تعطیلات کریسمس", "RO": "vacanța de Crăciun", "emoji_icon": "🎄" },
+{ "key": "L41_VOK_05", "DE": "die Osterferien", "AR": "عطلة الفصح", "RU": "пасхальные каникулы", "FA": "تعطیلات عید پاک", "RO": "vacanța de Paște", "emoji_icon": "🐰" },
+{ "key": "L41_VOK_06", "DE": "die Pfingstferien", "AR": "عطلة العنصرة", "RU": "каникулы на Троицу", "FA": "تعطیلات پنطیکاست", "RO": "vacanța de Rusalii", "emoji_icon": "🕊️" },
+{ "key": "L41_VOK_07", "DE": "Urlaub machen", "AR": "يقضي عطلة", "RU": "отдыхать", "FA": "تعطیلات رفتن", "RO": "a face vacanță", "emoji_icon": "🏖️" },
+{ "key": "L41_VOK_08", "DE": "reisen", "AR": "يسافر", "RU": "путешествовать", "FA": "سفر کردن", "RO": "a călători", "emoji_icon": "✈️" },
+{ "key": "L41_VOK_09", "DE": "zu Hause bleiben", "AR": "البقاء في المنزل", "RU": "оставаться дома", "FA": "در خانه ماندن", "RO": "a sta acasă", "emoji_icon": "🏠" },
+{ "key": "L41_VOK_10", "DE": "der Kalender", "AR": "التقويم", "RU": "календарь", "FA": "تقویم", "RO": "calendarul", "emoji_icon": "🗓️" },
+{ "key": "L41_VOK_11", "DE": "die Planung", "AR": "التخطيط", "RU": "планирование", "FA": "برنامه‌ریزی", "RO": "planificarea", "emoji_icon": "📋" },
+{ "key": "L41_VOK_12", "DE": "die Bundesländer", "AR": "الولايات الفيدرالية", "RU": "федеральные земли", "FA": "ایالت‌ها", "RO": "landurile federale", "emoji_icon": "🇩🇪" },
+{ "key": "L41_VOK_13", "DE": "unterschiedlich", "AR": "مختلف", "RU": "разный", "FA": "متفاوت", "RO": "diferit", "emoji_icon": "≠" },
+{ "key": "L41_VOK_14", "DE": "gemeinsam", "AR": "معاً", "RU": "вместе", "FA": "با هم", "RO": "împreună", "emoji_icon": "🤝" },
+{ "key": "L41_VOK_15", "DE": "der Monat", "AR": "الشهر", "RU": "месяц", "FA": "ماه", "RO": "luna", "emoji_icon": "📆" },
+{ "key": "L41_VOK_16", "DE": "der Juli/August", "AR": "يوليو/أغسطس", "RU": "июль/август", "FA": "جولای/آگوست", "RO": "iulie/august", "emoji_icon": "🌞" },
+{ "key": "L41_VOK_17", "DE": "die Freizeit", "AR": "وقت الفراغ", "RU": "свободное время", "FA": "اوقات فراغت", "RO": "timpul liber", "emoji_icon": "🥳" },
+{ "key": "L41_VOK_18", "DE": "der Termin", "AR": "الموعد", "RU": "встреча", "FA": "قرار ملاقات", "RO": "programarea", "emoji_icon": "🗓️" },
+{ "key": "L41_VOK_19", "DE": "die Pause", "AR": "الاستراحة", "RU": "перемена", "FA": "زنگ تفریح", "RO": "pauza", "emoji_icon": "⏸️" },
+{ "key": "L41_VOK_20", "DE": "sich erholen", "AR": "يستريح", "RU": "отдыхать", "FA": "استراحت کردن", "RO": "a se odihni", "emoji_icon": "😌" },
+{ "key": "L41_VOK_21", "DE": "besuchen", "AR": "يزور", "RU": "посещать", "FA": "دیدن کردن", "RO": "a vizita", "emoji_icon": "🏡" },
+{ "key": "L41_VOK_22", "DE": "der Besuch", "AR": "الزيارة", "RU": "визит", "FA": "بازدید", "RO": "vizita", "emoji_icon": "💬" },
+{ "key": "L41_VOK_23", "DE": "die Reise", "AR": "الرحلة", "RU": "путешествие", "FA": "سفر", "RO": "călătoria", "emoji_icon": "✈️" },
+{ "key": "L41_VOK_24", "DE": "lange/kurz", "AR": "طويل/قصير", "RU": "долгий/короткий", "FA": "طولانی/کوتاه", "RO": "lung/scurt", "emoji_icon": "📏" },
+{ "key": "L41_VOK_25", "DE": "Wann beginnen die Ferien?", "AR": "متى تبدأ العطلات؟", "RU": "Когда начинаются каникулы?", "FA": "تعطیلات کی شروع می‌شود؟", "RO": "Când încep vacanțele?", "emoji_icon": "❓" },
+{ "key": "L41_VOK_26", "DE": "Wie lange dauern die Ferien?", "AR": "كم تستغرق العطلة؟", "RU": "Как долго длятся каникулы?", "FA": "تعطیلات چقدر طول می‌کشد؟", "RO": "Cât durează vacanța?", "emoji_icon": "⏳" },
+{ "key": "L41_VOK_27", "DE": "Was machst du in den Ferien?", "AR": "ماذا ستفعل في العطلة؟", "RU": "Что ты делаешь на каникулах?", "FA": "در تعطیلات چه کار می‌کنی؟", "RO": "Ce faci în vacanță?", "emoji_icon": "❓" },
+{ "key": "L41_VOK_28", "DE": "die Verwandten", "AR": "الأقارب", "RU": "родственники", "FA": "بستگان", "RO": "rudele", "emoji_icon": "👨‍👩‍👧‍👦" },
+{ "key": "L41_VOK_29", "DE": "der Ausblick", "AR": "المنظر", "RU": "вид", "FA": "چشم‌انداز", "RO": "priveliștea", "emoji_icon": "👀" },
+{ "key": "L41_VOK_30", "DE": "das Ausland", "AR": "الخارج", "RU": "заграница", "FA": "خارج کشور", "RO": "străinătatea", "emoji_icon": "🌐" }
+],
+"exercises": [
+{ "key": "L41_LÜCKE_01", "type": "gap-fill", "answerKey": "Sommerferien", "sentence": { "DE": "Die längsten ________ sind im Juli und August.", "AR": "أطول ________ هي في يوليو وأغسطس.", "RU": "Самые длинные ________ в июле и августе.", "FA": "طولانی‌ترین ________ در جولای و آگوست است.", "RO": "Cea mai lungă ________ este în iulie și august." }, "hint": "Die größten Ferien im Jahr." },
+{ "key": "L41_LÜCKE_02", "type": "gap-fill", "answerKey": "reisen", "sentence": { "DE": "In den Ferien möchte ich ins Ausland ________.", "AR": "في العطلة أريد أن ________ إلى الخارج.", "RU": "На каникулах я хочу ________ за границу.", "FA": "من در تعطیلات می‌خواهم به خارج ________.", "RO": "În vacanță vreau să ________ în străinătate." }, "hint": "Das Verb für 'in ein anderes Land fahren'." },
+{ "key": "L41_LÜCKE_03", "type": "gap-fill", "answerKey": "planen", "sentence": { "DE": "Wir müssen die Reise gut ________.", "AR": "يجب علينا ________ الرحلة جيداً.", "RU": "Мы должны хорошо ________ поездку.", "FA": "ما باید سفر را به خوبی ________ کنیم.", "RO": "Trebuie să ________ bine călătoria." }, "hint": "Das Verb für 'vorbereiten, wie etwas ablaufen soll'." },
+{ "key": "L41_ZUORD_04", "type": "matching", "matchDE": "Herbstferien", "matchKey": "Winterferien", "sentence": { "DE": "Die ________ sind kürzer als die ________.", "AR": " ________ أقصر من ________.", "RU": " ________ короче, чем ________.", "FA": " ________ کوتاه‌تر از ________ است.", "RO": " ________ sunt mai scurte decât ________." }, "hint": "Die Ferien im Oktober." }
+]
+}
