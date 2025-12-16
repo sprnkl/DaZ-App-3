@@ -6,6 +6,95 @@ let currentLang = "DE";
 let metaData = null;
 
 // ===============================
+// Infotexte (mehrsprachig)
+// ===============================
+const infoTexts = {
+  DE: `
+    <p>
+      Diese App unterstützt Schülerinnen und Schüler beim Lernen von Deutsch als Zweitsprache (DaZ).
+      Sie enthält Wortschatzarbeit, Hörverstehen und Lernspiele zu allen Lektionen.
+    </p>
+    <p>
+      Alle Inhalte sind mehrsprachig. Die Sprache kann oben ausgewählt werden.
+      Titel, Begriffe und Vorlesefunktionen passen sich automatisch an.
+    </p>
+    <p>
+      <strong>Hinweis zur Sprachausgabe:</strong><br>
+      Die App funktioniert am zuverlässigsten im Browser <strong>Microsoft Edge</strong>,
+      da dort alle Sprachfunktionen vollständig unterstützt werden.
+    </p>
+    <p>
+      Auf iPads funktioniert die Sprachausgabe nur, wenn die jeweilige Sprache
+      (z. B. Arabisch oder Farsi) in den iOS-Spracheinstellungen installiert ist.
+    </p>
+  `,
+
+  AR: `
+    <p>
+      هذا التطبيق يساعد الطلاب على تعلم اللغة الألمانية كلغة ثانية.
+      يحتوي على مفردات وتمارين استماع وألعاب تعليمية.
+    </p>
+    <p>
+      جميع المحتويات متعددة اللغات ويمكن تغيير اللغة من الأعلى.
+    </p>
+    <p>
+      يعمل التطبيق بشكل أفضل في متصفح Microsoft Edge بسبب دعم النطق الصوتي.
+    </p>
+    <p>
+      على أجهزة iPad يجب تثبيت حزمة اللغة المناسبة للحصول على النطق الصوتي.
+    </p>
+  `,
+
+  RU: `
+    <p>
+      Это приложение помогает изучать немецкий язык как второй язык.
+      Содержит лексику, аудирование и учебные игры.
+    </p>
+    <p>
+      Все материалы многоязычны и автоматически адаптируются.
+    </p>
+    <p>
+      Рекомендуется использовать браузер Microsoft Edge для корректной озвучки.
+    </p>
+    <p>
+      На iPad необходимо установить языковые пакеты системы.
+    </p>
+  `,
+
+  FA: `
+    <p>
+      این برنامه برای یادگیری زبان آلمانی به عنوان زبان دوم طراحی شده است.
+      شامل واژگان، تمرین شنیداری و بازی‌های آموزشی است.
+    </p>
+    <p>
+      محتوا چندزبانه است و زبان از بالا قابل انتخاب است.
+    </p>
+    <p>
+      بهترین مرورگر برای استفاده Microsoft Edge است.
+    </p>
+    <p>
+      در iPad باید بسته‌های زبانی سیستم نصب شده باشند.
+    </p>
+  `,
+
+  RO: `
+    <p>
+      Această aplicație sprijină învățarea limbii germane ca limbă secundară.
+      Conține vocabular, exerciții audio și jocuri educative.
+    </p>
+    <p>
+      Conținutul este multilingv și se adaptează automat.
+    </p>
+    <p>
+      Se recomandă utilizarea browserului Microsoft Edge.
+    </p>
+    <p>
+      Pe iPad este necesară instalarea pachetelor de limbă.
+    </p>
+  `
+};
+
+// ===============================
 // Modul-Zuordnung (mehrsprachig)
 // ===============================
 const moduleMap = {
@@ -106,12 +195,18 @@ async function renderIndex() {
   const container = document.getElementById("lesson-list-container");
   container.innerHTML = "";
 
+  /* ---------- INFO-TEXT ---------- */
+  const infoBox = document.getElementById("info-text");
+  if (infoBox) {
+    infoBox.innerHTML = infoTexts[currentLang] || infoTexts.DE;
+  }
+
+  /* ---------- MODULE ---------- */
   for (const mod of Object.values(moduleMap)) {
 
     const deTitle = mod.titles.DE;
     const foreignTitle = mod.titles[currentLang] || deTitle;
 
-    /* ---------- MODULÜBERSCHRIFT ---------- */
     const h2 = document.createElement("div");
     h2.className =
       "flex justify-between items-center mt-8 mb-4 border-b pb-2 text-indigo-700";
@@ -125,23 +220,13 @@ async function renderIndex() {
       </h2>
 
       <div class="flex gap-2">
-        <button
-          onclick="speak('${deTitle.replace(/'/g, "\\'")}', 'DE')"
-          title="Modul auf Deutsch"
-          class="text-blue-600 font-semibold"
-        >🔊</button>
-
-        <button
-          onclick="speak('${foreignTitle.replace(/'/g, "\\'")}', '${currentLang}')"
-          title="Modul übersetzt"
-          class="text-indigo-600 font-semibold"
-        >🌍</button>
+        <button onclick="speak('${deTitle.replace(/'/g, "\\'")}', 'DE')" class="text-blue-600 font-semibold">🔊</button>
+        <button onclick="speak('${foreignTitle.replace(/'/g, "\\'")}', '${currentLang}')" class="text-indigo-600 font-semibold">🌍</button>
       </div>
     `;
 
     container.appendChild(h2);
 
-    /* ---------- LEKTIONEN ---------- */
     const ul = document.createElement("ul");
     ul.className = "space-y-3";
 
@@ -165,15 +250,8 @@ async function renderIndex() {
           </a>
 
           <div class="flex gap-2">
-            <button
-              onclick="event.preventDefault(); event.stopPropagation(); speak('${lDe.replace(/'/g, "\\'")}', 'DE')"
-              class="text-blue-600 font-semibold"
-            >🔊</button>
-
-            <button
-              onclick="event.preventDefault(); event.stopPropagation(); speak('${lForeign.replace(/'/g, "\\'")}', '${currentLang}')"
-              class="text-indigo-600 font-semibold"
-            >🌍</button>
+            <button onclick="event.preventDefault(); event.stopPropagation(); speak('${lDe.replace(/'/g, "\\'")}', 'DE')" class="text-blue-600 font-semibold">🔊</button>
+            <button onclick="event.preventDefault(); event.stopPropagation(); speak('${lForeign.replace(/'/g, "\\'")}', '${currentLang}')" class="text-indigo-600 font-semibold">🌍</button>
           </div>
         </div>
       `;
